@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Les drôles d'histoires de vos enfants" />
+	<meta name="description" content="Les enfants aussi peuvent vous entrainer dans de drôles d'histoires sur Viedemerde." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn2.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn3.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Les drôles d'histoires de vos enfants</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Les drôles d'histoires de vos enfants"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/enfants?page=4"/>
+	<meta property="og:image" content="http://cdn3.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Les enfants aussi peuvent vous entrainer dans de drôles d'histoires sur Viedemerde."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/enfants?page=4">
+	<meta name="twitter:title" content="VDM : Les drôles d'histoires de vos enfants">
+	<meta name="twitter:description" content="Les enfants aussi peuvent vous entrainer dans de drôles d'histoires sur Viedemerde.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn2.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/enfants?page=4">Enfants</a></p></div><div class="post article" id="7464955"><p><a href="/enfants/7464955" class="fmllink">Aujourd'hui, ma fille de quatre ans s'énerve avec son jouet : &quot;Merde, merde, merde !&quot; Je lui explique alors qu'il ne faut pas dire ce mot et qu'il est plus poli de dire &quot;zut&quot;.</a><a href="/enfants/7464955" class="fmllink"> Plus tard, je passe devant sa chambre et lui demande de ranger ses jouets.</a><a href="/enfants/7464955" class="fmllink"> Elle me répond : &quot;Oh, mais tu m'en-zut !&quot; VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7464955" id="article_7464955" name="/resume/article/7464955" class="jTip">#7464955</a><br /><span class="dyn-comments">171 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7464955"><a href="javascript:;" onclick="vote('7464955','45033','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">45033</span>)</span> - <span class="dyn-vote-t" id="votebf7464955"><a href="javascript:;" onclick="vote('7464955','9243','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">9243</span>)</span></p><p>Le 20/02/2013 à 14:46 - <a class="liencat" href="/enfants">enfants</a> - par Anonyme </p></div></div><div class="more" id="more7464955"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7464955" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7464955#new','7464955');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7464889"><p><a href="/enfants/7464889" class="fmllink">Aujourd'hui, je fais remarquer à ma fille qu'elle oublie systématiquement de me dire au revoir en partant le matin.</a><a href="/enfants/7464889" class="fmllink"> Je cite en exemple sa mère, qui n'oublie jamais de m'embrasser en quittant la maison.</a><a href="/enfants/7464889" class="fmllink"> Réponse de ma fille : &quot;Oui, mais maman, c'est normal, elle t'aime.</a><a href="/enfants/7464889" class="fmllink">&quot; VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7464889" id="article_7464889" name="/resume/article/7464889" class="jTip">#7464889</a><br /><span class="dyn-comments">108 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7464889"><a href="javascript:;" onclick="vote('7464889','50512','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">50512</span>)</span> - <span class="dyn-vote-t" id="votebf7464889"><a href="javascript:;" onclick="vote('7464889','4595','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4595</span>)</span></p><p>Le 20/02/2013 à 14:00 - <a class="liencat" href="/enfants">enfants</a> - par dadf (<a href="/genre/homme" class="light">homme</a>)</p></div></div><div class="more" id="more7464889"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7464889" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7464889#new','7464889');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7463295"><p><a href="/enfants/7463295" class="fmllink">Aujourd'hui, mon chat s'étant sauvé, je vais chez le voisin pour le récupérer.</a><a href="/enfants/7463295" class="fmllink"> Afin d'être courtoise, j'essaye d'entamer la discussion.</a><a href="/enfants/7463295" class="fmllink"> Quand j’entends un chien aboyer, je demande à mon voisin quel âge il a.</a><a href="/enfants/7463295" class="fmllink"> Il m'a répondu : &quot;C'est mon fils et il est autiste.</a><a href="/enfants/7463295" class="fmllink">&quot; VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7463295" id="article_7463295" name="/resume/article/7463295" class="jTip">#7463295</a><br /><span class="dyn-comments">182 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7463295"><a href="javascript:;" onclick="vote('7463295','63204','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">63204</span>)</span> - <span class="dyn-vote-t" id="votebf7463295"><a href="javascript:;" onclick="vote('7463295','6486','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">6486</span>)</span></p><p>Le 19/02/2013 à 12:43 - <a class="liencat" href="/enfants">enfants</a> - par 30millionsdami (<a href="/genre/femme" class="light">femme</a>)</p><p style="margin-top:2px;"><a class="liencat" href="/enfants/7463295#c_7669175">Cette VDM a été commentée par son auteur.</a></p></div></div><div class="more" id="more7463295"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7463295" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7463295#new','7463295');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7457931"><p><a href="/enfants/7457931" class="fmllink">Aujourd'hui, mon fils de huit ans, qui accueille son amoureuse pour une soirée pyjama, m'a demandé de ne pas lui foutre la honte &quot;en racontant des blagues de cul&quot;.</a><a href="/enfants/7457931" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7457931" id="article_7457931" name="/resume/article/7457931" class="jTip">#7457931</a><br /><span class="dyn-comments">119 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7457931"><a href="javascript:;" onclick="vote('7457931','48796','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">48796</span>)</span> - <span class="dyn-vote-t" id="votebf7457931"><a href="javascript:;" onclick="vote('7457931','11935','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">11935</span>)</span></p><p>Le 15/02/2013 à 19:59 - <a class="liencat" href="/enfants">enfants</a> - par gabelous (<a href="/genre/homme" class="light">homme</a>)</p></div></div><div class="more" id="more7457931"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7457931" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7457931#new','7457931');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7457409"><p><a href="/enfants/7457409" class="fmllink">Aujourd'hui, ma petite sœur accompagne ma mère en ville.</a><a href="/enfants/7457409" class="fmllink"> J'en profite pour lui confier trois lettres à poster et l'argent pour les timbres.</a><a href="/enfants/7457409" class="fmllink"> En rentrant, elle m'annonce toute fière qu'elle a accompli sa mission et me tend les trois timbres.</a><a href="/enfants/7457409" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7457409" id="article_7457409" name="/resume/article/7457409" class="jTip">#7457409</a><br /><span class="dyn-comments">61 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7457409"><a href="javascript:;" onclick="vote('7457409','40510','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">40510</span>)</span> - <span class="dyn-vote-t" id="votebf7457409"><a href="javascript:;" onclick="vote('7457409','4378','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4378</span>)</span></p><p>Le 15/02/2013 à 14:01 - <a class="liencat" href="/enfants">enfants</a> - par Caroline </p></div></div><div class="more" id="more7457409"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7457409" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7457409#new','7457409');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7450999"><p><a href="/enfants/7450999" class="fmllink">Aujourd'hui, ma femme veut que ce soit moi qui donne le bain à notre bébé de huit mois.</a><a href="/enfants/7450999" class="fmllink"> Je lui réponds que je ne préfère pas, car je suis malade.</a><a href="/enfants/7450999" class="fmllink"> Elle a cru à une pauvre excuse de ma part pour me défiler, mais j'ai pu lui en apporter la preuve : j'ai vomi dans la baignoire.</a><a href="/enfants/7450999" class="fmllink"> Le bébé était déjà dedans.</a><a href="/enfants/7450999" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7450999" id="article_7450999" name="/resume/article/7450999" class="jTip">#7450999</a><br /><span class="dyn-comments">171 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7450999"><a href="javascript:;" onclick="vote('7450999','64999','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">64999</span>)</span> - <span class="dyn-vote-t" id="votebf7450999"><a href="javascript:;" onclick="vote('7450999','4997','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4997</span>)</span></p><p>Le 12/02/2013 à 09:32 - <a class="liencat" href="/enfants">enfants</a> - par Anonyme (<a href="/genre/homme" class="light">homme</a>)</p></div></div><div class="more" id="more7450999"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7450999" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7450999#new','7450999');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7450526"><p><a href="/enfants/7450526" class="fmllink">Aujourd'hui, j'ai téléchargé une application de berceuses pour mon fils, qui a du mal à s'endormir.</a><a href="/enfants/7450526" class="fmllink"> Testée et approuvée.</a><a href="/enfants/7450526" class="fmllink">.</a><a href="/enfants/7450526" class="fmllink">.</a><a href="/enfants/7450526" class="fmllink"> Je me suis endormie avant lui.</a><a href="/enfants/7450526" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7450526" id="article_7450526" name="/resume/article/7450526" class="jTip">#7450526</a><br /><span class="dyn-comments">66 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7450526"><a href="javascript:;" onclick="vote('7450526','42754','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">42754</span>)</span> - <span class="dyn-vote-t" id="votebf7450526"><a href="javascript:;" onclick="vote('7450526','6024','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">6024</span>)</span></p><p>Le 11/02/2013 à 22:33 - <a class="liencat" href="/enfants">enfants</a> - par faidodo </p></div></div><div class="more" id="more7450526"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7450526" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7450526#new','7450526');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7444782"><p><a href="/enfants/7444782" class="fmllink">Aujourd'hui, mon fils a perdu sa première dent.</a><a href="/enfants/7444782" class="fmllink"> Terrifié à l'idée que la petite souris pourrait lui voler sa précieuse quenotte, il a trouvé un moyen infaillible pour la protéger.</a><a href="/enfants/7444782" class="fmllink"> Notre chat se promène désormais avec une boîte à dents de lait autour du cou.</a><a href="/enfants/7444782" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7444782" id="article_7444782" name="/resume/article/7444782" class="jTip">#7444782</a><br /><span class="dyn-comments">135 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7444782"><a href="javascript:;" onclick="vote('7444782','51092','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">51092</span>)</span> - <span class="dyn-vote-t" id="votebf7444782"><a href="javascript:;" onclick="vote('7444782','4698','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4698</span>)</span></p><p>Le 08/02/2013 à 15:12 - <a class="liencat" href="/enfants">enfants</a> - par PetiteSouris06 (<a href="/genre/femme" class="light">femme</a>)</p></div></div><div class="more" id="more7444782"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7444782" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7444782#new','7444782');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7441358"><p><a href="/enfants/7441358" class="fmllink">Aujourd'hui, à l'heure du déjeuner, alors que je me penche pour ramasser le morceau de pain que mon fils de 14 mois a jeté par terre, le fourbe en profite pour réserver le même sort à sa cuillère pleine de petit-suisse.</a><a href="/enfants/7441358" class="fmllink"> Elle a atterri dans mes cheveux.</a><a href="/enfants/7441358" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7441358" id="article_7441358" name="/resume/article/7441358" class="jTip">#7441358</a><br /><span class="dyn-comments">88 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7441358"><a href="javascript:;" onclick="vote('7441358','40064','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">40064</span>)</span> - <span class="dyn-vote-t" id="votebf7441358"><a href="javascript:;" onclick="vote('7441358','5931','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">5931</span>)</span></p><p>Le 06/02/2013 à 12:24 - <a class="liencat" href="/enfants">enfants</a> - par monsuperdoudou </p><p style="margin-top:2px;"><a class="liencat" href="/enfants/7441358#c_7651521">Cette VDM a été commentée par son auteur.</a></p></div></div><div class="more" id="more7441358"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7441358" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7441358#new','7441358');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7434723"><p><a href="/enfants/7434723" class="fmllink">Aujourd'hui, en rentrant de soirée assez tard, je vois plusieurs jeunes en train de taguer la maison d'un voisin.</a><a href="/enfants/7434723" class="fmllink"> J'ai appelé la police, qui les a apparemment interpellés, puisqu'une heure plus tard, j'ai dû aller au commissariat pour chercher mon fils.</a><a href="/enfants/7434723" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7434723" id="article_7434723" name="/resume/article/7434723" class="jTip">#7434723</a><br /><span class="dyn-comments">200 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7434723"><a href="javascript:;" onclick="vote('7434723','81361','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">81361</span>)</span> - <span class="dyn-vote-t" id="votebf7434723"><a href="javascript:;" onclick="vote('7434723','15441','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">15441</span>)</span></p><p>Le 02/02/2013 à 12:34 - <a class="liencat" href="/enfants">enfants</a> - par WAWAX (<a href="/genre/homme" class="light">homme</a>)</p></div></div><div class="more" id="more7434723"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7434723" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7434723#new','7434723');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7433407"><p><a href="/enfants/7433407" class="fmllink">Aujourd'hui, ma belle-fille, 14 ans, qui me déteste, me demande gentiment où je rêverais d'aller avec son père.</a><a href="/enfants/7433407" class="fmllink"> Ravie de ce début de complicité, je lui réponds : &quot;Londres, pour un week-end shopping.</a><a href="/enfants/7433407" class="fmllink">&quot; Devinez qui est venu me voir, heureux que sa fille lui ait proposé un week-end père-fille à Londres ? VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7433407" id="article_7433407" name="/resume/article/7433407" class="jTip">#7433407</a><br /><span class="dyn-comments">272 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7433407"><a href="javascript:;" onclick="vote('7433407','64451','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">64451</span>)</span> - <span class="dyn-vote-t" id="votebf7433407"><a href="javascript:;" onclick="vote('7433407','11999','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">11999</span>)</span></p><p>Le 01/02/2013 à 16:18 - <a class="liencat" href="/enfants">enfants</a> - par valkiripas (<a href="/genre/femme" class="light">femme</a>)</p><p style="margin-top:2px;"><a class="liencat" href="/enfants/7433407#c_7646370">Cette VDM a été commentée par son auteur.</a></p></div></div><div class="more" id="more7433407"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7433407" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7433407#new','7433407');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7432858"><p><a href="/enfants/7432858" class="fmllink">Aujourd'hui, je rends visite à une amie à la clinique afin de la féliciter pour son accouchement.</a><a href="/enfants/7432858" class="fmllink"> Je fonds en adoration devant sa princesse jusqu'à ce qu'elle me dévoile son prénom, tenu caché jusque-là.</a><a href="/enfants/7432858" class="fmllink"> Shyme.</a><a href="/enfants/7432858" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7432858" id="article_7432858" name="/resume/article/7432858" class="jTip">#7432858</a><br /><span class="dyn-comments">308 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7432858"><a href="javascript:;" onclick="vote('7432858','49230','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">49230</span>)</span> - <span class="dyn-vote-t" id="votebf7432858"><a href="javascript:;" onclick="vote('7432858','4466','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4466</span>)</span></p><p>Le 01/02/2013 à 07:29 - <a class="liencat" href="/enfants">enfants</a> - par shymyos-shymyé </p></div></div><div class="more" id="more7432858"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7432858" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7432858#new','7432858');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="post article" id="7431493"><p><a href="/enfants/7431493" class="fmllink">Aujourd'hui, je suis chez ma grand-mère avec mes petits cousins.</a><a href="/enfants/7431493" class="fmllink"> Alors que je cherche mon ordinateur portable dans toute la maison, mon petit cousin de trois ans veut me montrer quelque chose.</a><a href="/enfants/7431493" class="fmllink"> Je regarde dans sa main : quelques touches de mon clavier d'ordinateur.</a><a href="/enfants/7431493" class="fmllink">.</a><a href="/enfants/7431493" class="fmllink">.</a><a href="/enfants/7431493" class="fmllink"> J'ai peur de voir le reste.</a><a href="/enfants/7431493" class="fmllink"> VDM</a></p><div class="date"><div class="left_part"><a href="/enfants/7431493" id="article_7431493" name="/resume/article/7431493" class="jTip">#7431493</a><br /><span class="dyn-comments">140 commentaires</span></div><div class="right_part"><p><span class="dyn-vote-j" id="vote7431493"><a href="javascript:;" onclick="vote('7431493','53826','agree');">je valide, c'est une VDM</a> (<span class="dyn-vote-j-data">53826</span>)</span> - <span class="dyn-vote-t" id="votebf7431493"><a href="javascript:;" onclick="vote('7431493','4982','deserve');" class="bf">tu l'as bien mérité</a> (<span class="dyn-vote-t-data">4982</span>)</span></p><p>Le 31/01/2013 à 14:54 - <a class="liencat" href="/enfants">enfants</a> - par benormalisboring </p></div></div><div class="more" id="more7431493"><div class="fb-like" data-href="http://www.viedemerde.fr/enfants/7431493" data-send="false" data-width="100" data-height="21" data-layout="button_count" data-show-faces="false" data-font="lucida grande"></div><a href="javascript:;" onclick="return twitter_click('http://www.viedemerde.fr/enfants/7431493#new','7431493');" class="tooltips t_twitter"></a></div>
+</div>
+<div class="pagination"><ul class="left"><li><a href="/enfants">1</a></li><li><a href="?page=1">2</a></li><li><a href="?page=2">3</a></li><li><a href="?page=3">4</a></li><li class="active">5</li><li><a href="?page=5">6</a></li><li><a href="?page=6">7</a></li><li><a href="?page=7">8</a></li><li><a href="?page=8">9</a></li><li class="inactive"><a href="javascript:;" onclick="pageLauncher(this);">…</a></li><li><a href="?page=126">127</a></li></ul><ul class="right"><li><a href="?page=3">&#171; Page précédente</a></li><li><a href="?page=5">Page suivante &#187;</a></li></ul></div>﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class="active"><h2>Enfants</h2></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn5.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn3.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

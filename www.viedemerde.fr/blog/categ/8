@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Tout le blog" />
+	<meta name="description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn1.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Tout le blog</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Tout le blog"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/blog/categ/8"/>
+	<meta property="og:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/blog/categ/8">
+	<meta name="twitter:title" content="VDM : Tout le blog">
+	<meta name="twitter:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn5.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/blog">Blog</a> &rarr; <a href="/blog/categ/8">VDM illustrée</a></p></div><a id="top"></a><div class="post bordered menublog"><p><a href=/blog>Accueil du blog</a> | <a href=http://feeds.feedburner.com/blogdemerde>Fil RSS des billets</a> | <a href=/blog/tout>Tous les billets</a></p><a href="/blog/categ/8"><b>VDM illustrée</b></a> (251) - <a href="/blog/categ/1">L'actualité VDM</a> (70) - <a href="/blog/categ/15">Jeux et concours</a> (45)</div><div class="post"><h3><a href="/blog/1552">La VDM illustré de Polinko</a></h3><div class="date right"><a href="/blog/1552">#1552</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/04/2013 à 02:20 par Julien - <a href="/blog/1552">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1551">La VDM illustrée de Clémi</a></h3><div class="date right"><a href="/blog/1551">#1551</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/04/2013 à 20:40 par Julien - <a href="/blog/1551">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1549">La VDM illustrée de Pich</a></h3><div class="date right"><a href="/blog/1549">#1549</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/04/2013 à 17:11 par Julien - <a href="/blog/1549">23 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1548">La VDM illustrée de Baba</a></h3><div class="date right"><a href="/blog/1548">#1548</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/03/2013 à 14:37 par Julien - <a href="/blog/1548">17 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1547">La VDM illustrée de Tristan</a></h3><div class="date right"><a href="/blog/1547">#1547</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/03/2013 à 15:20 par Julien - <a href="/blog/1547">38 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1546">La VDM illustrée de Julie Olivier</a></h3><div class="date right"><a href="/blog/1546">#1546</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/03/2013 à 12:33 par Julien - <a href="/blog/1546">36 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1544">La VDM illustrée d'Erika Meza</a></h3><div class="date right"><a href="/blog/1544">#1544</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/03/2013 à 18:13 par Julien - <a href="/blog/1544">29 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1543">La VDM illustrée de Zukuzu</a></h3><div class="date right"><a href="/blog/1543">#1543</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/03/2013 à 15:40 par Julien - <a href="/blog/1543">28 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1542">La VDM illustrée de Raf</a></h3><div class="date right"><a href="/blog/1542">#1542</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/02/2013 à 03:06 par Julien - <a href="/blog/1542">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1541">La VDM illustrée de M.Roda</a></h3><div class="date right"><a href="/blog/1541">#1541</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/02/2013 à 17:02 par Julien - <a href="/blog/1541">21 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1540">La VDM illustrée de Sarell</a></h3><div class="date right"><a href="/blog/1540">#1540</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/02/2013 à 02:05 par Julien - <a href="/blog/1540">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1538">La VDM illustrée de Ztnarf</a></h3><div class="date right"><a href="/blog/1538">#1538</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/02/2013 à 17:46 par Julien - <a href="/blog/1538">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1536">La VDM illustrée de la PE</a></h3><div class="date right"><a href="/blog/1536">#1536</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 31/01/2013 à 13:41 par Julien - <a href="/blog/1536">48 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1535">La VDM illustrée de Monsieur To</a></h3><div class="date right"><a href="/blog/1535">#1535</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/01/2013 à 11:07 par Julien - <a href="/blog/1535">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1534">La VDM illustrée d'Olivier Tichit</a></h3><div class="date right"><a href="/blog/1534">#1534</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/01/2013 à 03:11 par Julien - <a href="/blog/1534">40 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1531">La VDM illustrée de Bouss</a></h3><div class="date right"><a href="/blog/1531">#1531</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/01/2013 à 14:11 par Julien - <a href="/blog/1531">54 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1530">Le Noël illustré de Samkat et Zukuzu</a></h3><div class="date right"><a href="/blog/1530">#1530</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/12/2012 à 12:27 par Julien - <a href="/blog/1530">89 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1529">La VDM illustrée de Michel Pelini</a></h3><div class="date right"><a href="/blog/1529">#1529</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/12/2012 à 17:47 par Julien - <a href="/blog/1529">78 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1527">La VDM illustrée de Benjamin</a></h3><div class="date right"><a href="/blog/1527">#1527</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/11/2012 à 13:46 par Julien - <a href="/blog/1527">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1525">La VDM illustrée de Bim</a></h3><div class="date right"><a href="/blog/1525">#1525</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/11/2012 à 15:52 par Julien - <a href="/blog/1525">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1523">La VDM illustrée de Philippe Scherding</a></h3><div class="date right"><a href="/blog/1523">#1523</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/11/2012 à 18:39 par Julien - <a href="/blog/1523">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1520">La VDM illustrée de Poca</a></h3><div class="date right"><a href="/blog/1520">#1520</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/11/2012 à 20:14 par Julien - <a href="/blog/1520">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1519">La VDM illustrée de MarieMisere</a></h3><div class="date right"><a href="/blog/1519">#1519</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 03/11/2012 à 01:12 par Julien - <a href="/blog/1519">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1518">La VDM illustrée de Simon Mitteault</a></h3><div class="date right"><a href="/blog/1518">#1518</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/10/2012 à 11:28 par Julien - <a href="/blog/1518">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1517">La VDM illustrée de ValMo</a></h3><div class="date right"><a href="/blog/1517">#1517</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/10/2012 à 00:14 par Julien - <a href="/blog/1517">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1516">La VDM illustrée de Philippe Valette</a></h3><div class="date right"><a href="/blog/1516">#1516</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/10/2012 à 21:27 par Julien - <a href="/blog/1516">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1515">La VDM illustrée de Faustine</a></h3><div class="date right"><a href="/blog/1515">#1515</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/10/2012 à 12:04 par Julien - <a href="/blog/1515">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1514">La VDM illustrée de Jul</a></h3><div class="date right"><a href="/blog/1514">#1514</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/09/2012 à 01:03 par Julien - <a href="/blog/1514">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1513">La VDM illustrée de TWOFLAG</a></h3><div class="date right"><a href="/blog/1513">#1513</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/09/2012 à 15:18 par Julien - <a href="/blog/1513">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1512">La VDM illustrée de Clio de Frégon</a></h3><div class="date right"><a href="/blog/1512">#1512</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/09/2012 à 15:04 par Julien - <a href="/blog/1512">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1511">La VDM illustrée de Pierrotlefou</a></h3><div class="date right"><a href="/blog/1511">#1511</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/09/2012 à 13:24 par Julien - <a href="/blog/1511">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1510">La VDM illustrée d'Isacile</a></h3><div class="date right"><a href="/blog/1510">#1510</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 31/08/2012 à 18:39 par Julien - <a href="/blog/1510">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1508">La VDM illustrée de Caroline Guillot</a></h3><div class="date right"><a href="/blog/1508">#1508</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/08/2012 à 13:16 par Julien - <a href="/blog/1508">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1505">La VDM illustrée de Jihad Eliassa</a></h3><div class="date right"><a href="/blog/1505">#1505</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/08/2012 à 17:24 par Julien - <a href="/blog/1505">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1504">La VDM illustrée de Nini</a></h3><div class="date right"><a href="/blog/1504">#1504</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/08/2012 à 19:09 par Julien - <a href="/blog/1504">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1503">La VDM illustrée de Momo</a></h3><div class="date right"><a href="/blog/1503">#1503</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/07/2012 à 13:38 par Julien - <a href="/blog/1503">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1502">La VDM illustrée de Suzi</a></h3><div class="date right"><a href="/blog/1502">#1502</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/07/2012 à 04:30 par Julien - <a href="/blog/1502">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1498">La VDM illustrée d'exaheva</a></h3><div class="date right"><a href="/blog/1498">#1498</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/07/2012 à 11:40 par Julien - <a href="/blog/1498">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1494">La VDM illustrée de Violette Gentilleau</a></h3><div class="date right"><a href="/blog/1494">#1494</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/07/2012 à 17:49 par Julien - <a href="/blog/1494">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1490">La VDM illustrée de Djausdr</a></h3><div class="date right"><a href="/blog/1490">#1490</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/06/2012 à 11:30 par Julien - <a href="/blog/1490">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1486">La VDM illustrée de Geoffroy Monde</a></h3><div class="date right"><a href="/blog/1486">#1486</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/06/2012 à 15:17 par Julien - <a href="/blog/1486">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1482">La VDM illustrée de Martin Singer</a></h3><div class="date right"><a href="/blog/1482">#1482</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 11/06/2012 à 17:33 par Julien - <a href="/blog/1482">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1478">La VDM illustrée de Pauline Perrolet</a></h3><div class="date right"><a href="/blog/1478">#1478</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/06/2012 à 16:01 par Julien - <a href="/blog/1478">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1474">La VDM illustrée de Ben Dessy</a></h3><div class="date right"><a href="/blog/1474">#1474</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/06/2012 à 15:43 par Julien - <a href="/blog/1474">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1466">La VDM illustrée de BZ</a></h3><div class="date right"><a href="/blog/1466">#1466</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/05/2012 à 15:19 par Julien - <a href="/blog/1466">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1458">La VDM illustrée de Kevin Pixel</a></h3><div class="date right"><a href="/blog/1458">#1458</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/05/2012 à 04:27 par Julien - <a href="/blog/1458">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1454">La VDM illustrée de Valentine Lilien</a></h3><div class="date right"><a href="/blog/1454">#1454</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/05/2012 à 01:22 par Julien - <a href="/blog/1454">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1450">La VDM illustrée de Dorian Danielsen</a></h3><div class="date right"><a href="/blog/1450">#1450</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/05/2012 à 02:10 par Julien - <a href="/blog/1450">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1446">La VDM illustrée de Bzzzit la Libellule.</a></h3><div class="date right"><a href="/blog/1446">#1446</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/04/2012 à 02:32 par Julien - <a href="/blog/1446">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1442">La VDM illustrée de Julien Revenu</a></h3><div class="date right"><a href="/blog/1442">#1442</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/04/2012 à 12:58 par Julien - <a href="/blog/1442">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1438">La VDM illustrée d'Odett</a></h3><div class="date right"><a href="/blog/1438">#1438</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/04/2012 à 19:17 par Julien - <a href="/blog/1438">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1434">La VDM illustrée de La Gourde</a></h3><div class="date right"><a href="/blog/1434">#1434</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/04/2012 à 03:02 par Julien - <a href="/blog/1434">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1422">La VDM illustrée de Juliette Boutant</a></h3><div class="date right"><a href="/blog/1422">#1422</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/04/2012 à 01:34 par Julien - <a href="/blog/1422">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1418">La VDM illustrée de Cham</a></h3><div class="date right"><a href="/blog/1418">#1418</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/03/2012 à 03:57 par Julien - <a href="/blog/1418">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1414">La VDM illustrée de Frédéric Noens</a></h3><div class="date right"><a href="/blog/1414">#1414</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 17/03/2012 à 02:03 par Julien - <a href="/blog/1414">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1410">La VDM illustrée de Théo Calméjane</a></h3><div class="date right"><a href="/blog/1410">#1410</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/03/2012 à 19:18 par Julien - <a href="/blog/1410">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1406">La VDM illustrée d'OLB</a></h3><div class="date right"><a href="/blog/1406">#1406</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/03/2012 à 19:06 par Julien - <a href="/blog/1406">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1402">La VDM illustrée d'elene</a></h3><div class="date right"><a href="/blog/1402">#1402</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/02/2012 à 14:53 par Julien - <a href="/blog/1402">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1394">La VDM illustrée de Vallale</a></h3><div class="date right"><a href="/blog/1394">#1394</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/02/2012 à 02:13 par Julien - <a href="/blog/1394">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1390">La VDM illustrée de Janine</a></h3><div class="date right"><a href="/blog/1390">#1390</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/02/2012 à 22:56 par Julien - <a href="/blog/1390">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1386">La VDM illustrée de Laury</a></h3><div class="date right"><a href="/blog/1386">#1386</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 03/02/2012 à 23:09 par Julien - <a href="/blog/1386">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1382">La VDM illustrée de Roxy Lapassade</a></h3><div class="date right"><a href="/blog/1382">#1382</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/01/2012 à 18:09 par Julien - <a href="/blog/1382">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1378">La VDM illustrée d'Aliénor</a></h3><div class="date right"><a href="/blog/1378">#1378</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/01/2012 à 16:02 par Julien - <a href="/blog/1378">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1374">La VDM illustrée de Lematt</a></h3><div class="date right"><a href="/blog/1374">#1374</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/01/2012 à 17:29 par Julien - <a href="/blog/1374">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1370">La VDM illustrée de Cathy K.</a></h3><div class="date right"><a href="/blog/1370">#1370</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/01/2012 à 15:54 par Julien - <a href="/blog/1370">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1354">Le Noël illustré de Marie Ecarlat et Paka</a></h3><div class="date right"><a href="/blog/1354">#1354</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/12/2011 à 20:39 par Julien - <a href="/blog/1354">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1346">La VDM illustrée de Carole Maurel</a></h3><div class="date right"><a href="/blog/1346">#1346</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/12/2011 à 20:54 par Julien - <a href="/blog/1346">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1342">La VDM illustrée de Dreamy</a></h3><div class="date right"><a href="/blog/1342">#1342</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/12/2011 à 16:49 par Julien - <a href="/blog/1342">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1338">La VDM illustrée de Miss Holly</a></h3><div class="date right"><a href="/blog/1338">#1338</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/12/2011 à 22:03 par Julien - <a href="/blog/1338">21 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1334">La VDM illustrée de Djoina</a></h3><div class="date right"><a href="/blog/1334">#1334</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/11/2011 à 12:10 par Julien - <a href="/blog/1334">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1326">La VDM illustrée de Julien Dinkel</a></h3><div class="date right"><a href="/blog/1326">#1326</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 17/11/2011 à 17:28 par Julien - <a href="/blog/1326">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1322">La VDM illustrée de Lauriane Blanchard</a></h3><div class="date right"><a href="/blog/1322">#1322</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/11/2011 à 08:39 par Julien - <a href="/blog/1322">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1318">La VDM illustrée de JC</a></h3><div class="date right"><a href="/blog/1318">#1318</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/11/2011 à 01:28 par Julien - <a href="/blog/1318">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1314">La VDM illustrée d'Iza</a></h3><div class="date right"><a href="/blog/1314">#1314</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/10/2011 à 16:36 par Julien - <a href="/blog/1314">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1310">La VDM illustrée du Cil Vert</a></h3><div class="date right"><a href="/blog/1310">#1310</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/10/2011 à 10:57 par Julien - <a href="/blog/1310">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1306">La VDM illustrée de Ptid</a></h3><div class="date right"><a href="/blog/1306">#1306</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/10/2011 à 09:52 par Julien - <a href="/blog/1306">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1302">La VDM illustrée de Noë</a></h3><div class="date right"><a href="/blog/1302">#1302</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/10/2011 à 13:05 par Julien - <a href="/blog/1302">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1294">La VDM illustrée de Valp</a></h3><div class="date right"><a href="/blog/1294">#1294</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/09/2011 à 23:11 par Julien - <a href="/blog/1294">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1290">La VDM illustrée d'Aly Puget</a></h3><div class="date right"><a href="/blog/1290">#1290</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/09/2011 à 23:24 par Julien - <a href="/blog/1290">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1282">La VDM illustrée de Zélie</a></h3><div class="date right"><a href="/blog/1282">#1282</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 17/09/2011 à 00:20 par Julien - <a href="/blog/1282">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1278">La VDM illustrée de Romain Ronzeau</a></h3><div class="date right"><a href="/blog/1278">#1278</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/09/2011 à 00:10 par Julien - <a href="/blog/1278">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1274">La VDM illustrée de Marie Spénale</a></h3><div class="date right"><a href="/blog/1274">#1274</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/09/2011 à 12:19 par Julien - <a href="/blog/1274">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1270">La VDM illustrée de Giulia Jones</a></h3><div class="date right"><a href="/blog/1270">#1270</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/08/2011 à 19:04 par Julien - <a href="/blog/1270">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1262">La VDM illustrée de KJF</a></h3><div class="date right"><a href="/blog/1262">#1262</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/08/2011 à 22:04 par Julien - <a href="/blog/1262">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1254">La VDM illustrée de David Revoy</a></h3><div class="date right"><a href="/blog/1254">#1254</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/08/2011 à 17:18 par Julien - <a href="/blog/1254">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1246">La VDM illustrée du Burp</a></h3><div class="date right"><a href="/blog/1246">#1246</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/07/2011 à 17:20 par Julien - <a href="/blog/1246">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1242">La VDM illustrée de Thomas Mathieu</a></h3><div class="date right"><a href="/blog/1242">#1242</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/07/2011 à 00:07 par Julien - <a href="/blog/1242">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1237">La VDM illustrée de Proctor</a></h3><div class="date right"><a href="/blog/1237">#1237</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/07/2011 à 22:09 par Julien - <a href="/blog/1237">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1232">La VDM illustrée d'Alice Des</a></h3><div class="date right"><a href="/blog/1232">#1232</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/07/2011 à 01:42 par Julien - <a href="/blog/1232">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1217">La VDM illustrée de Malec</a></h3><div class="date right"><a href="/blog/1217">#1217</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/07/2011 à 23:05 par Julien - <a href="/blog/1217">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1214">La VDM illustrée de Saulne</a></h3><div class="date right"><a href="/blog/1214">#1214</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/06/2011 à 03:06 par Julien - <a href="/blog/1214">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1208">La VDM illustrée de Graphi’kats</a></h3><div class="date right"><a href="/blog/1208">#1208</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/06/2011 à 01:25 par Julien - <a href="/blog/1208">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1202">La VDM illustrée de Tomz</a></h3><div class="date right"><a href="/blog/1202">#1202</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 11/06/2011 à 00:51 par Julien - <a href="/blog/1202">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1190">La VDM illustrée de Wouzit</a></h3><div class="date right"><a href="/blog/1190">#1190</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/06/2011 à 23:37 par Julien - <a href="/blog/1190">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1178">La VDM illustrée de Luchie</a></h3><div class="date right"><a href="/blog/1178">#1178</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/05/2011 à 12:01 par Julien - <a href="/blog/1178">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1166">La VDM illustrée de Gary Maël</a></h3><div class="date right"><a href="/blog/1166">#1166</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/05/2011 à 03:07 par Julien - <a href="/blog/1166">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1160">La VDM illustrée de Madel</a></h3><div class="date right"><a href="/blog/1160">#1160</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/05/2011 à 00:13 par Julien - <a href="/blog/1160">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1154">La VDM illustrée de Soulcié</a></h3><div class="date right"><a href="/blog/1154">#1154</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/05/2011 à 15:59 par Julien - <a href="/blog/1154">26 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1148">La VDM illustrée de Yatuu</a></h3><div class="date right"><a href="/blog/1148">#1148</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/04/2011 à 22:01 par Julien - <a href="/blog/1148">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1142">La VDM illustrée de Thomas Priou</a></h3><div class="date right"><a href="/blog/1142">#1142</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/04/2011 à 17:05 par Julien - <a href="/blog/1142">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1136">La VDM illustrée de Fortu</a></h3><div class="date right"><a href="/blog/1136">#1136</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/04/2011 à 11:57 par Julien - <a href="/blog/1136">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1129">La VDM illustrée de Guillaume Boutanox</a></h3><div class="date right"><a href="/blog/1129">#1129</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/04/2011 à 13:38 par Julien - <a href="/blog/1129">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1122">La VDM illustrée de Lénaïc</a></h3><div class="date right"><a href="/blog/1122">#1122</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 31/03/2011 à 15:28 par Julien - <a href="/blog/1122">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1115">La VDM illustrée de Mipou</a></h3><div class="date right"><a href="/blog/1115">#1115</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/03/2011 à 21:45 par Julien - <a href="/blog/1115">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1101">La VDM illustrée de Caporal Gustave</a></h3><div class="date right"><a href="/blog/1101">#1101</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/03/2011 à 22:23 par Julien - <a href="/blog/1101">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1094">La VDM illustrée de Pueblo</a></h3><div class="date right"><a href="/blog/1094">#1094</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 11/03/2011 à 20:30 par Julien - <a href="/blog/1094">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1087">La VDM illustrée d'Olivagogo</a></h3><div class="date right"><a href="/blog/1087">#1087</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/03/2011 à 02:23 par Julien - <a href="/blog/1087">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1080">La VDM illustrée d'Évelyne Louvre-Blondeau</a></h3><div class="date right"><a href="/blog/1080">#1080</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/02/2011 à 17:22 par Julien - <a href="/blog/1080">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1073">La VDM illustrée de Faz</a></h3><div class="date right"><a href="/blog/1073">#1073</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/02/2011 à 19:19 par Julien - <a href="/blog/1073">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1066">La VDM illustrée de Raoul Paoli</a></h3><div class="date right"><a href="/blog/1066">#1066</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/02/2011 à 12:16 par Julien - <a href="/blog/1066">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1059">La VDM illustrée de Klakette</a></h3><div class="date right"><a href="/blog/1059">#1059</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/02/2011 à 01:18 par Julien - <a href="/blog/1059">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1052">La VDM illustrée de 2d</a></h3><div class="date right"><a href="/blog/1052">#1052</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/01/2011 à 16:23 par Julien - <a href="/blog/1052">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1044">La VDM illustrée de Zö</a></h3><div class="date right"><a href="/blog/1044">#1044</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/01/2011 à 12:30 par Julien - <a href="/blog/1044">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1030">La VDM illustrée d'Iléana</a></h3><div class="date right"><a href="/blog/1030">#1030</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/01/2011 à 23:33 par Julien - <a href="/blog/1030">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1023">La VDM illustrée de Carreaux (Line)</a></h3><div class="date right"><a href="/blog/1023">#1023</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/01/2011 à 17:15 par Julien - <a href="/blog/1023">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/967">Le Noël illustré de Margaux et Pacco</a></h3><div class="date right"><a href="/blog/967">#967</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/12/2010 à 00:24 par Julien - <a href="/blog/967">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/995">La VDM illustrée de thibaut rassat</a></h3><div class="date right"><a href="/blog/995">#995</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/12/2010 à 00:06 par Julien - <a href="/blog/995">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/988">La VDM illustrée de Lucile Gomez</a></h3><div class="date right"><a href="/blog/988">#988</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/12/2010 à 15:00 par Julien - <a href="/blog/988">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/974">La VDM illustrée de Sess</a></h3><div class="date right"><a href="/blog/974">#974</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 03/12/2010 à 23:42 par Julien - <a href="/blog/974">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/960">La VDM illustrée de Monsieur Le Chat Noir</a></h3><div class="date right"><a href="/blog/960">#960</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/11/2010 à 20:32 par Julien - <a href="/blog/960">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/946">La VDM illustrée de KL</a></h3><div class="date right"><a href="/blog/946">#946</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/11/2010 à 15:34 par Julien - <a href="/blog/946">29 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/939">La VDM illustrée de Virjainie</a></h3><div class="date right"><a href="/blog/939">#939</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/11/2010 à 02:25 par Julien - <a href="/blog/939">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/925">La VDM illustrée de Nineland</a></h3><div class="date right"><a href="/blog/925">#925</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/11/2010 à 20:37 par Julien - <a href="/blog/925">33 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/918">La VDM illustrée de Maïlys</a></h3><div class="date right"><a href="/blog/918">#918</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/10/2010 à 13:02 par Julien - <a href="/blog/918">23 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/904">La VDM illustrée de Ceddo</a></h3><div class="date right"><a href="/blog/904">#904</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/10/2010 à 17:59 par Julien - <a href="/blog/904">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/897">La VDM illustrée de Massala.K</a></h3><div class="date right"><a href="/blog/897">#897</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/10/2010 à 19:15 par Julien - <a href="/blog/897">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/890">La VDM illustrée de Lemo</a></h3><div class="date right"><a href="/blog/890">#890</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/10/2010 à 01:25 par Julien - <a href="/blog/890">34 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/883">La VDM illustrée de Félix Laurent</a></h3><div class="date right"><a href="/blog/883">#883</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/09/2010 à 16:17 par Julien - <a href="/blog/883">17 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/869">La VDM illustrée de Sylvain Euriot</a></h3><div class="date right"><a href="/blog/869">#869</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/09/2010 à 00:08 par Julien - <a href="/blog/869">18 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/855">La VDM illustrée de Maskim</a></h3><div class="date right"><a href="/blog/855">#855</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 17/09/2010 à 14:59 par Julien - <a href="/blog/855">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/848">La VDM illustrée de Pollen</a></h3><div class="date right"><a href="/blog/848">#848</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/09/2010 à 16:30 par Julien - <a href="/blog/848">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/841">La VDM illustrée de Babs</a></h3><div class="date right"><a href="/blog/841">#841</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 03/09/2010 à 19:47 par Julien - <a href="/blog/841">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/827">La VDM illustrée de Nalley</a></h3><div class="date right"><a href="/blog/827">#827</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/08/2010 à 16:51 par Julien - <a href="/blog/827">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/813">La VDM illustrée de Foya</a></h3><div class="date right"><a href="/blog/813">#813</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/08/2010 à 22:37 par Julien - <a href="/blog/813">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/806">La VDM illustrée de Nephyla</a></h3><div class="date right"><a href="/blog/806">#806</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/08/2010 à 18:52 par Julien - <a href="/blog/806">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/799">La VDM illustrée d'Etienne</a></h3><div class="date right"><a href="/blog/799">#799</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/07/2010 à 23:13 par Julien - <a href="/blog/799">38 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/792">La VDM illustrée de Molossy</a></h3><div class="date right"><a href="/blog/792">#792</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/07/2010 à 16:15 par Julien - <a href="/blog/792">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/785">La VDM illustrée de Sambour</a></h3><div class="date right"><a href="/blog/785">#785</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/07/2010 à 01:12 par Julien - <a href="/blog/785">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/778">La VDM illustrée de STUPE</a></h3><div class="date right"><a href="/blog/778">#778</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/07/2010 à 10:25 par Julien - <a href="/blog/778">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/771">La VDM illustrée d'ideo</a></h3><div class="date right"><a href="/blog/771">#771</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/07/2010 à 17:03 par Julien - <a href="/blog/771">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/764">La VDM illustrée de Nayth</a></h3><div class="date right"><a href="/blog/764">#764</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/06/2010 à 19:30 par Julien - <a href="/blog/764">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/757">La VDM illustrée d'Ood Serriere</a></h3><div class="date right"><a href="/blog/757">#757</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/06/2010 à 11:20 par Julien - <a href="/blog/757">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/750">La VDM illustrée d'HUGO</a></h3><div class="date right"><a href="/blog/750">#750</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/06/2010 à 18:30 par Julien - <a href="/blog/750">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/743">La VDM illustrée de K3vin</a></h3><div class="date right"><a href="/blog/743">#743</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/06/2010 à 12:09 par Julien - <a href="/blog/743">17 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/729">La VDM illustrée de Staff</a></h3><div class="date right"><a href="/blog/729">#729</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/05/2010 à 19:15 par Julien - <a href="/blog/729">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/715">La VDM illustrée d'Hibi</a></h3><div class="date right"><a href="/blog/715">#715</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/05/2010 à 20:26 par Julien - <a href="/blog/715">18 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/708">La VDM illustrée de Sitron</a></h3><div class="date right"><a href="/blog/708">#708</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/05/2010 à 03:02 par Julien - <a href="/blog/708">30 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/540">La VDM illustrée de Carlier</a></h3><div class="date right"><a href="/blog/540">#540</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/05/2010 à 22:05 par Julien - <a href="/blog/540">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/694">La VDM illustrée de Cécile Hudrisier</a></h3><div class="date right"><a href="/blog/694">#694</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/04/2010 à 18:31 par Julien - <a href="/blog/694">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/687">La VDM illustrée de Samkat</a></h3><div class="date right"><a href="/blog/687">#687</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/04/2010 à 21:49 par Julien - <a href="/blog/687">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/680">La VDM illustrée de Caricartoon</a></h3><div class="date right"><a href="/blog/680">#680</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/04/2010 à 16:48 par Julien - <a href="/blog/680">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/673">La VDM illustrée de Stan Silas</a></h3><div class="date right"><a href="/blog/673">#673</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/04/2010 à 00:23 par Julien - <a href="/blog/673">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/666">La VDM illustrée de Xiu</a></h3><div class="date right"><a href="/blog/666">#666</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/04/2010 à 17:33 par Julien - <a href="/blog/666">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/659">La VDM illustrée de WAYNE</a></h3><div class="date right"><a href="/blog/659">#659</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/03/2010 à 17:50 par Julien - <a href="/blog/659">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/652">La VDM illustrée de C'Noël</a></h3><div class="date right"><a href="/blog/652">#652</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/03/2010 à 20:26 par Julien - <a href="/blog/652">26 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/645">La VDM illustrée de Miss P</a></h3><div class="date right"><a href="/blog/645">#645</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/03/2010 à 18:27 par Julien - <a href="/blog/645">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/638">La VDM illustrée de Jérémie Decalf</a></h3><div class="date right"><a href="/blog/638">#638</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/03/2010 à 02:06 par Julien - <a href="/blog/638">29 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/631">La VDM illustrée d'Allan Barte</a></h3><div class="date right"><a href="/blog/631">#631</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/02/2010 à 20:58 par Julien - <a href="/blog/631">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/624">La VDM illustrée d'Alexandre Arlène</a></h3><div class="date right"><a href="/blog/624">#624</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/02/2010 à 15:48 par Julien - <a href="/blog/624">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/617">La VDM illustrée d'Aymeric Bernard</a></h3><div class="date right"><a href="/blog/617">#617</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/02/2010 à 22:59 par Julien - <a href="/blog/617">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/610">La VDM illustrée d'Yrgane</a></h3><div class="date right"><a href="/blog/610">#610</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/02/2010 à 00:28 par Julien - <a href="/blog/610">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/596">La VDM illustrée d'Eo</a></h3><div class="date right"><a href="/blog/596">#596</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/01/2010 à 00:10 par Julien - <a href="/blog/596">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/589">La VDM illustrée de Fabrice Tarrin</a></h3><div class="date right"><a href="/blog/589">#589</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/01/2010 à 19:13 par Julien - <a href="/blog/589">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/582">La VDM illustrée de Laetitia Coryn</a></h3><div class="date right"><a href="/blog/582">#582</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/01/2010 à 00:22 par Julien - <a href="/blog/582">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/568">La VDM illustrée d'Ibealia</a></h3><div class="date right"><a href="/blog/568">#568</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/01/2010 à 01:15 par Julien - <a href="/blog/568">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/533">La VDM illustrée de Muscarine</a></h3><div class="date right"><a href="/blog/533">#533</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/01/2010 à 21:46 par Julien - <a href="/blog/533">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/512">La VDM illustrée de Leslie Plée</a></h3><div class="date right"><a href="/blog/512">#512</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/12/2009 à 20:07 par Julien - <a href="/blog/512">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/505">La VDM illustrée de Cyril Trichet</a></h3><div class="date right"><a href="/blog/505">#505</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/12/2009 à 01:15 par Julien - <a href="/blog/505">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/498">La VDM illustrée de Lison Bernet</a></h3><div class="date right"><a href="/blog/498">#498</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/12/2009 à 23:10 par Julien - <a href="/blog/498">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/491">La VDM illustrée de Mara</a></h3><div class="date right"><a href="/blog/491">#491</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/11/2009 à 19:10 par Julien - <a href="/blog/491">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/481">La VDM illustrée de Marie Ecarlat</a></h3><div class="date right"><a href="/blog/481">#481</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/11/2009 à 11:32 par Julien - <a href="/blog/481">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/469">Jeu VDM illustrée : les gagnants</a></h3><div class="date right"><a href="/blog/469">#469</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/11/2009 à 17:44 par Julien - <a href="/blog/469">992 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/475">La VDM illustrée de Maëlle C.</a></h3><div class="date right"><a href="/blog/475">#475</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/11/2009 à 17:02 par Julien - <a href="/blog/475">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/463">La VDM illustrée d'Anne-Lise</a></h3><div class="date right"><a href="/blog/463">#463</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/11/2009 à 00:46 par Julien - <a href="/blog/463">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/451">La VDM illustrée de Gorobei</a></h3><div class="date right"><a href="/blog/451">#451</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/10/2009 à 20:50 par Julien - <a href="/blog/451">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/445">La VDM illustrée de Kichi</a></h3><div class="date right"><a href="/blog/445">#445</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/10/2009 à 17:50 par Julien - <a href="/blog/445">21 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/439">La VDM illustrée de PirateSourcil</a></h3><div class="date right"><a href="/blog/439">#439</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/10/2009 à 18:18 par Julien - <a href="/blog/439">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/428">La VDM illustrée de Pierrot</a></h3><div class="date right"><a href="/blog/428">#428</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/10/2009 à 08:36 par Julien - <a href="/blog/428">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/407">La VDM illustrée de Rej</a></h3><div class="date right"><a href="/blog/407">#407</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/10/2009 à 21:48 par Julien - <a href="/blog/407">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/393">La VDM illustrée de Ln</a></h3><div class="date right"><a href="/blog/393">#393</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/09/2009 à 12:45 par Julien - <a href="/blog/393">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/386">La VDM illustrée de Katia Even</a></h3><div class="date right"><a href="/blog/386">#386</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/09/2009 à 23:17 par Julien - <a href="/blog/386">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/379">La VDM illustrée de Saboten</a></h3><div class="date right"><a href="/blog/379">#379</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 11/09/2009 à 09:25 par Julien - <a href="/blog/379">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/365">La VDM illustrée de Yod@</a></h3><div class="date right"><a href="/blog/365">#365</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 03/09/2009 à 17:22 par Julien - <a href="/blog/365">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/358">La VDM illustrée de Mathilde Domecq</a></h3><div class="date right"><a href="/blog/358">#358</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/08/2009 à 21:51 par Julien - <a href="/blog/358">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/351">La VDM illustrée de Romain Pujol</a></h3><div class="date right"><a href="/blog/351">#351</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/08/2009 à 23:59 par Julien - <a href="/blog/351">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/344">La VDM illustrée de Silver</a></h3><div class="date right"><a href="/blog/344">#344</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/08/2009 à 13:48 par Julien - <a href="/blog/344">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/330">La VDM illustrée de Davy</a></h3><div class="date right"><a href="/blog/330">#330</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/08/2009 à 12:53 par Julien - <a href="/blog/330">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/316">La VDM illustrée de Fabien T.</a></h3><div class="date right"><a href="/blog/316">#316</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/08/2009 à 03:52 par Julien - <a href="/blog/316">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/309">La VDM illustrée de FM66</a></h3><div class="date right"><a href="/blog/309">#309</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/07/2009 à 00:48 par Julien - <a href="/blog/309">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/302">La VDM illustrée de Jibé</a></h3><div class="date right"><a href="/blog/302">#302</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/07/2009 à 01:35 par Julien - <a href="/blog/302">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/295">La VDM illustrée d'Antoine Latour</a></h3><div class="date right"><a href="/blog/295">#295</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/07/2009 à 18:15 par Julien - <a href="/blog/295">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/288">La VDM illustrée de Luan</a></h3><div class="date right"><a href="/blog/288">#288</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/07/2009 à 01:06 par Julien - <a href="/blog/288">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/281">La VDM illustrée de Gumli</a></h3><div class="date right"><a href="/blog/281">#281</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/06/2009 à 02:27 par Julien - <a href="/blog/281">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/267">La VDM illustrée d'Aurélien Filippi</a></h3><div class="date right"><a href="/blog/267">#267</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/06/2009 à 12:07 par Julien - <a href="/blog/267">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/260">La VDM illustrée de Thorn</a></h3><div class="date right"><a href="/blog/260">#260</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/06/2009 à 00:28 par Julien - <a href="/blog/260">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/253">La VDM illustrée de kek</a></h3><div class="date right"><a href="/blog/253">#253</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/06/2009 à 23:32 par Julien - <a href="/blog/253">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/232">La VDM illustrée de Soph'</a></h3><div class="date right"><a href="/blog/232">#232</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 30/05/2009 à 01:38 par Julien - <a href="/blog/232">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/225">La VDM illustrée de Frédéric Peynet</a></h3><div class="date right"><a href="/blog/225">#225</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 22/05/2009 à 22:25 par Julien - <a href="/blog/225">1 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/204">La VDM illustrée de Mady</a></h3><div class="date right"><a href="/blog/204">#204</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/05/2009 à 00:38 par Julien - <a href="/blog/204">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/197">La VDM illustrée fête ses un an avec Lilla</a></h3><div class="date right"><a href="/blog/197">#197</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/05/2009 à 15:35 par Julien - <a href="/blog/197">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/190">La VDM illustrée de Looky</a></h3><div class="date right"><a href="/blog/190">#190</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/05/2009 à 15:23 par Julien - <a href="/blog/190">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/183">La VDM illustrée de Pierre</a></h3><div class="date right"><a href="/blog/183">#183</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/04/2009 à 10:44 par Julien - <a href="/blog/183">0 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/176">La VDM illustrée de Grinette</a></h3><div class="date right"><a href="/blog/176">#176</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/04/2009 à 13:16 par Julien - <a href="/blog/176">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/173">La VDM illustrée de Monsieur Mouk</a></h3><div class="date right"><a href="/blog/173">#173</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 11/04/2009 à 11:15 par Julien - <a href="/blog/173">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/169">La VDM illustrée de Cyrielle</a></h3><div class="date right"><a href="/blog/169">#169</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/04/2009 à 13:45 par Julien - <a href="/blog/169">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/165">La VDM illustrée de Ciia</a></h3><div class="date right"><a href="/blog/165">#165</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/03/2009 à 17:02 par Julien - <a href="/blog/165">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/161">La VDM illustrée de Lu-Ne</a></h3><div class="date right"><a href="/blog/161">#161</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/03/2009 à 12:14 par Julien - <a href="/blog/161">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/158">La VDM illustrée de Cib</a></h3><div class="date right"><a href="/blog/158">#158</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/03/2009 à 09:29 par Julien - <a href="/blog/158">17 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/155">La VDM illustrée d'Amandine</a></h3><div class="date right"><a href="/blog/155">#155</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/03/2009 à 23:52 par Julien - <a href="/blog/155">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/153">La VDM illustrée de Boulet</a></h3><div class="date right"><a href="/blog/153">#153</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/02/2009 à 00:53 par Julien - <a href="/blog/153">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/152">La VDM illustrée d'Yllya</a></h3><div class="date right"><a href="/blog/152">#152</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/02/2009 à 10:00 par Julien - <a href="/blog/152">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/151">La VDM illustrée de Vincent</a></h3><div class="date right"><a href="/blog/151">#151</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/02/2009 à 00:16 par Julien - <a href="/blog/151">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/149">La VDM illustrée de Martin Vidberg</a></h3><div class="date right"><a href="/blog/149">#149</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/02/2009 à 09:13 par Julien - <a href="/blog/149">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/147">La VDM pas illustrée de Navo</a></h3><div class="date right"><a href="/blog/147">#147</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 31/01/2009 à 00:44 par Julien - <a href="/blog/147">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/146">La VDM illustrée de Nils</a></h3><div class="date right"><a href="/blog/146">#146</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 24/01/2009 à 09:51 par Julien - <a href="/blog/146">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/143">La VDM illustrée d'Unter</a></h3><div class="date right"><a href="/blog/143">#143</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/01/2009 à 20:14 par Julien - <a href="/blog/143">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/141">La VDM illustrée de Mad'moiselle C</a></h3><div class="date right"><a href="/blog/141">#141</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/01/2009 à 00:17 par Julien - <a href="/blog/141">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/140">La VDM illustrée de nesk</a></h3><div class="date right"><a href="/blog/140">#140</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/12/2008 à 01:11 par Julien - <a href="/blog/140">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/136">La VDM illustrée de Timoon</a></h3><div class="date right"><a href="/blog/136">#136</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/12/2008 à 01:18 par Julien - <a href="/blog/136">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/135">La VDM illustrée de Grelin</a></h3><div class="date right"><a href="/blog/135">#135</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/12/2008 à 01:52 par Julien - <a href="/blog/135">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/133">La VDM illustrée de Pacco</a></h3><div class="date right"><a href="/blog/133">#133</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 29/11/2008 à 20:36 par Julien - <a href="/blog/133">28 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/131">La VDM illustrée de Ced</a></h3><div class="date right"><a href="/blog/131">#131</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/11/2008 à 20:46 par Julien - <a href="/blog/131">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/129">La VDM illustrée de Lommsek</a></h3><div class="date right"><a href="/blog/129">#129</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/11/2008 à 13:40 par Julien - <a href="/blog/129">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/128">La VDM illustrée de Bryst</a></h3><div class="date right"><a href="/blog/128">#128</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 08/11/2008 à 01:33 par Julien - <a href="/blog/128">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/126">La VDM illustrée de Sway</a></h3><div class="date right"><a href="/blog/126">#126</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 01/11/2008 à 01:15 par Julien - <a href="/blog/126">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/91">La VDM illustrée de Biboun</a></h3><div class="date right"><a href="/blog/91">#91</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/10/2008 à 18:16 par Julien - <a href="/blog/91">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/120">La VDM illustrée de Lychen</a></h3><div class="date right"><a href="/blog/120">#120</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 18/10/2008 à 00:45 par Julien - <a href="/blog/120">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/122">La VDM illustrée de Yohan</a></h3><div class="date right"><a href="/blog/122">#122</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/10/2008 à 16:15 par Julien - <a href="/blog/122">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/118">La VDM illustrée de Marie</a></h3><div class="date right"><a href="/blog/118">#118</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 04/10/2008 à 10:27 par Julien - <a href="/blog/118">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/114">La VDM illustrée de Waltch</a></h3><div class="date right"><a href="/blog/114">#114</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 27/09/2008 à 00:22 par Julien - <a href="/blog/114">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/111">La VDM illustrée d'Obion</a></h3><div class="date right"><a href="/blog/111">#111</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/09/2008 à 00:14 par Julien - <a href="/blog/111">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/109">La VDM illustrée de Mr Choubi</a></h3><div class="date right"><a href="/blog/109">#109</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 13/09/2008 à 00:32 par Julien - <a href="/blog/109">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/106">La VDM illustrée de Missbean</a></h3><div class="date right"><a href="/blog/106">#106</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 06/09/2008 à 00:41 par Julien - <a href="/blog/106">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/103">La VDM illustrée de Stivo</a></h3><div class="date right"><a href="/blog/103">#103</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 23/08/2008 à 17:27 par Julien - <a href="/blog/103">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/101">La VDM illustrée de Gally</a></h3><div class="date right"><a href="/blog/101">#101</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 16/08/2008 à 03:13 par Julien - <a href="/blog/101">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/98">La VDM illustrée de Pit</a></h3><div class="date right"><a href="/blog/98">#98</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/08/2008 à 01:30 par Julien - <a href="/blog/98">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/95">La VDM illustrée de Julien Maysonnave</a></h3><div class="date right"><a href="/blog/95">#95</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 02/08/2008 à 13:02 par Julien - <a href="/blog/95">3 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/90">La VDM illustrée de Diglee</a></h3><div class="date right"><a href="/blog/90">#90</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 26/07/2008 à 01:29 par Julien - <a href="/blog/90">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/86">La VDM illustrée de Nathalie Jomard</a></h3><div class="date right"><a href="/blog/86">#86</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 19/07/2008 à 03:43 par Julien - <a href="/blog/86">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/84">La VDM illustrée de MonsieurDream</a></h3><div class="date right"><a href="/blog/84">#84</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 12/07/2008 à 01:38 par Julien - <a href="/blog/84">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/82">La VDM illustrée de Mélody Faber</a></h3><div class="date right"><a href="/blog/82">#82</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 05/07/2008 à 00:07 par Julien - <a href="/blog/82">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/78">La VDM illustrée de Madd</a></h3><div class="date right"><a href="/blog/78">#78</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 28/06/2008 à 10:20 par Julien - <a href="/blog/78">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/74">La VDM illustrée de Pénélope Bagieu</a></h3><div class="date right"><a href="/blog/74">#74</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 21/06/2008 à 00:02 par Julien - <a href="/blog/74">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/71">La VDM illustrée de Paka</a></h3><div class="date right"><a href="/blog/71">#71</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 14/06/2008 à 00:01 par Julien - <a href="/blog/71">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/67">La VDM illustrée de Drawer</a></h3><div class="date right"><a href="/blog/67">#67</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/06/2008 à 00:32 par Julien - <a href="/blog/67">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/64">La VDM illustrée de Line Tship</a></h3><div class="date right"><a href="/blog/64">#64</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 31/05/2008 à 02:54 par Julien - <a href="/blog/64">11 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/58">La VDM illustrée de Johan Vinet</a></h3><div class="date right"><a href="/blog/58">#58</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 25/05/2008 à 19:26 par Julien - <a href="/blog/58">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/55">La VDM illustrée de Margaux Motin</a></h3><div class="date right"><a href="/blog/55">#55</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 17/05/2008 à 00:07 par Julien - <a href="/blog/55">51 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/52">La VDM illustrée d'AngeLe</a></h3><div class="date right"><a href="/blog/52">#52</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 10/05/2008 à 03:47 par Julien - <a href="/blog/52">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/51">VDM illustrée : La nouvelle formule</a></h3><div class="date right"><a href="/blog/51">#51</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 09/05/2008 à 00:06 par Julien - <a href="/blog/51">34 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/18">Maud Gironnay</a></h3><div class="date right"><a href="/blog/18">#18</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 07/03/2008 à 15:41 par Maxime - <a href="/blog/18">323 commentaires</a></div>
+</div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

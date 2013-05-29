@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="Blog VDM : La VDM illustré de Polinko" />
+	<meta name="description" content="Contenu de l'article : Bonjour mes beaut&eacute;s ! &Ccedil;a vous fait plaisir de me retrouver ? Vous avez le droit de le… Lire la suite" />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn2.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn2.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>Blog VDM : La VDM illustré de Polinko</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="Blog VDM : La VDM illustré de Polinko"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/blog/1552"/>
+	<meta property="og:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Contenu de l'article : Bonjour mes beaut&eacute;s ! &Ccedil;a vous fait plaisir de me retrouver ? Vous avez le droit de le… Lire la suite"/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/blog/1552">
+	<meta name="twitter:title" content="Blog VDM : La VDM illustré de Polinko">
+	<meta name="twitter:description" content="Contenu de l'article : Bonjour mes beaut&eacute;s ! &Ccedil;a vous fait plaisir de me retrouver ? Vous avez le droit de le… Lire la suite">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn1.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/applications/officielles#a_156">VDM pour iPhone et iPad</a></li><li><a href="/applications/officielles#a_1">VDM pour Android</a></li><li><a href="/applications/officielles#a_162">VDM pour WP7</a></li><li><a href="/applications/officielles#a_141">VDM pour BlackBerry</a></li><li><a href="/applications/officielles#a_148">VDM pour Samsung Wave</a></li><li><a href="/applications/autres">Autres applications</a></li><li><a href="/api/accueil">Utiliser l'API VDM</a></li></ul></div></div></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/tops/top/semaine">Le top</a></li><li><a href="/tops/flop/semaine">Le flop</a></li><li><a href="/tops/favorite/semaine">Classer par favoris</a></li><li><a href="/tops/comment/semaine">Classer par commentaires</a></li></ul></div></div></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/boutique#categ3">Livres VDM</a></li><li><a href="/boutique#categ1">Les t-shirts</a></li><li><a href="/boutique#categ2">Accessoires</a></li></ul></div></div></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 id="user"><a href="" class="t_user" accesskey="9"></a><div class="submenu_container" id="user_submenu"><div class="submenu"><ul><li><div class="loginform"><form name="login" action="https://www.viedemerde.fr/apps/account_login.php" method="post"><input type="text" name="login" value="" placeholder="Pseudo" /><input type="password" name="pass" value="" placeholder="Mot de passe" /><input type="submit" value="Connexion" id="submit_connexion" /></form></div></li><li><a href="/inscription" class="bold">Créer un compte VDM</a></li><li><a href="/motdepasse">Mot de passe oublié ?</a></li></ul></div></div></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="ad_leaderboard"><div class="leaderboard"><script type="text/javascript">var d=document.location;var t=new Date;document.write("<script src='//cdn.dekalee.net/serve/17.js?p="+d.pathname+"&s="+d.search+"&t="+t.getTime()+"&ip=80.13.242.45&uid=562249886'>\x3C/script>")</script></div></div><div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/blog">Blog</a> &rarr; <a href="/blog/1552">La VDM illustré de Polinko</a></p></div><a id="top"></a><div class="post bordered menublog"><p><a href=/blog>Accueil du blog</a> | <a href=http://feeds.feedburner.com/blogdemerde>Fil RSS des billets</a> | <a href=/blog/tout>Tous les billets</a></p><a href="/blog/categ/8">VDM illustrée</a> (251) - <a href="/blog/categ/1">L'actualité VDM</a> (70) - <a href="/blog/categ/15">Jeux et concours</a> (45)</div><div class="post"><h3>La VDM illustré de Polinko</h3><div class="h3_placeholder"></div><div class="blog"><p>Bonjour mes beaut&eacute;s ! &Ccedil;a vous fait plaisir de me retrouver ? Vous avez le droit de <a href="http://i.imgur.com/Ixpc48V.gif">le montrer</a>. On se fait <a href="http://i.imgur.com/96c9Ssd.gif">un bisou</a> pour f&ecirc;ter &ccedil;a ? Non ? Bon, OK...&nbsp;</p>
+
+<p>Tant pis. Je vais vous parler de l&#39;invit&eacute; de la semaine dans ce cas. Il a 21 ans, il nous vient d&#39;Annemasse, <em>&quot;capitale de l&#39;univers&quot;</em>, et il s&#39;appelle <a href="http://polinko.blogspot.fr"><strong>Paul Lannes alias Polinko</strong></a>.</p>
+
+<p>Que fait-il dans la vie ? &quot;Je&nbsp;me l&egrave;ve le matin, je mange des cornflakes, je vais &agrave; l&rsquo;&eacute;cole, ensuite je passe la journ&eacute;e &agrave; faire des petits dessins sur des bouts de papier et parfois, je discute avec des gens et r&eacute;fl&eacute;chis &agrave; de choses tr&egrave;s s&eacute;rieuses et essentielles comme : <img alt="" src="http://cdn.betacie.com/viedemerde/julien/polinko1.png" style="width: 156px; height: 184px; float: left; " />&laquo; Ce bonhomme aurait pas un bras trop long par hasard ? &raquo;, &laquo; Est-ce que je n&rsquo;aurais pas d&ucirc;&nbsp;accrocher ce bout de papier deux centim&egrave;tres plus haut ? &raquo; ou &laquo; Qui de Sangoku ou de Marcel Duchamp est le plus bal&egrave;ze ? &raquo; en pla&ccedil;ant de temps en temps des mots savants comme &laquo; post-modernisme &raquo;, ou &laquo; vernaculaire &raquo;, &ccedil;a fait intelligent. Et le week-end, je surveille des trucs dans un mus&eacute;e pour me payer mes cornflakes.</p>
+
+<p>Paul nous explique que ce qui est cool dans le dessin, c&#39;est qu&#39;il s&#39;agit du meilleur moyen, &agrave; ses yeux, permettant d&#39;ouvrir des br&egrave;ches dans la r&eacute;alit&eacute; et d&#39;amener &agrave; faire dialoguer des bouts de bois avec des bonhommes &eacute;tranges, au fin fond de montagnes mystiques.<em> &quot;Parce que la r&eacute;alit&eacute;, quand il faut remplir des paperasses pour payer des factures EDF, il faut bien avouer que c&rsquo;est souvent un peu plus ennuyeux. Et ce qui me manque, ce sont des muscles saillants, des pouvoirs et un charisme de h&eacute;ros de manga ? J&rsquo;aimerais bien ne m&rsquo;exprimer que par punch lines aussi. Ca doit &ecirc;tre styl&eacute;.&quot;</em></p>
+
+<p>Son actualit&eacute; ? <em>&quot;Je me l&egrave;ve le matin, je mange des cornflakes, je &hellip; Ah non, je l&rsquo;ai d&eacute;j&agrave; dit &ccedil;a. Bah, je suis sur VDM.&quot;</em></p>
+
+<p>Pour Paul, la route n&#39;est pas termin&eacute;e mais il nous explique le chemin parcouru jusqu&#39;ici :&nbsp;&nbsp;<em>&quot;Pour moi, la vie a commenc&eacute; &agrave; l&rsquo;&eacute;cole primaire, lieu et &eacute;poque o&ugrave; je suis devenu le mec le plus cool du monde. Parce que j&rsquo;habitais &agrave; ce moment l&agrave; dans un tout petit village perdu dans la montagne (Verchaix, pour les fins connaisseurs) dans lequel les actualit&eacute;s culturelles n&rsquo;arrivaient pas tr&egrave;s vite. Et gr&acirc;ce &agrave; ce signe du destin, j&rsquo;ai &eacute;t&eacute; le premier &agrave; d&eacute;couvrir, et amener &agrave; la cour de r&eacute;cr&eacute;, Pok&eacute;mon et Harry Potter. Pas besoin de vous dire que &ccedil;a cr&eacute;e une sacr&eacute;e place en soci&eacute;t&eacute;, &agrave; cet &acirc;ge-l&agrave;. Apr&egrave;s, &ccedil;a a &eacute;t&eacute; le coll&egrave;ge, l&rsquo;adolescence, les mangas, (plus trop classe en soci&eacute;t&eacute; &agrave; cette p&eacute;riode de la vie par contre), le lyc&eacute;e, un bac S, la vision de mes profs de maths tr&egrave;s emball&eacute;s devant mon choix d&rsquo;&eacute;tudes, la pr&eacute;pa Beaux-arts et &hellip; tadadadam, la HEAD de Gen&egrave;ve, en section Arts Visuels. Et l&agrave;, je m&rsquo;appr&ecirc;te &agrave; tenter des concours d&rsquo;&eacute;coles pour la suite des &eacute;v&eacute;nements. Souhaitez-moi bonne chance ou je vous p&egrave;te la gueule.&quot;&nbsp;</em></p>
+
+<p>Si j&#39;&eacute;tais vous, je lui souhaiterais bonne chance dans les commentaires. Vaut mieux &eacute;viter de nous &eacute;nerver notre petit Polinko.&nbsp;Dont les projets sont&nbsp;?<em> &quot;Profiter un peu de la vie et dormir, parfois. Ah, avoir un Pok&eacute;dex rempli dans Pok&eacute;mon rouge aussi (il y a des choses qui ne se perdent jamais).&quot;</em></p>
+
+<p>Non mais ho. Allez, la suite !</p>
+
+<p><strong>Plut&ocirc;t beurre doux ou beurre sal&eacute; ?&nbsp;</strong><br />
+Je crois que je ne devrais pas faire un choix entre les deux, au risque de d&eacute;chirer mon &acirc;me &agrave; tout jamais et d&rsquo;en jeter les d&eacute;bris au fin fond d&rsquo;un torrent de beurre doux ET sal&eacute;.&nbsp;</p>
+
+<p><strong>Plut&ocirc;t chat ou chien ? </strong><br />
+Un chien, c&rsquo;est d&eacute;bile donc c&rsquo;est cool. Un chat, c&rsquo;est orgueilleux donc c&rsquo;est cool aussi. Il me faudrait un hybride entre les deux en fait, comme pour le beurre.<br />
+&nbsp;<br />
+<strong>Tes derniers coups de c&oelig;ur en cin&eacute;ma, musique, livres et BD ? </strong><br />
+En cin&eacute;ma, le dernier film que j&rsquo;ai vu, &ccedil;a doit &ecirc;tre Django Unchained, donc inutile de m&rsquo;&eacute;taler sur cette r&eacute;ussite cin&eacute;matographique. La BO est super bien d&rsquo;ailleurs, mais j&rsquo;&eacute;coute aussi pas mal le dernier album de Devendra Banhart, Mala et l&rsquo;album Temperamental&nbsp;de Don Cavalli. J&rsquo;ai pris beaucoup de plaisir r&eacute;cemment &agrave; lire les Entretiens avec Joann Sfar par Thierry Groensteen et Ce que nous voyons, ce qui nous regarde de Georges Didi-Huberman. Et la derni&egrave;re BD qui m&rsquo;a fait trembler sur ma chaise devant tant de r&eacute;ussite narrative et imag&eacute;e (&eacute;v&eacute;nement qui m&rsquo;arrive assez souvent), &ccedil;a doit &ecirc;tre la relecture du Journal d&rsquo;un Fant&ocirc;me de Nicolas de Cr&eacute;cy.<br />
+&nbsp;<br />
+<strong>Quels sont les principaux artistes que tu appr&eacute;cies et dont tu visites r&eacute;guli&egrave;rement le blog ? <img alt="" src="http://cdn.betacie.com/viedemerde/julien/polinko2.png" style="width: 171px; height: 273px; float: right; " /></strong><br />
+Mes blogs ou blogueurs pr&eacute;f&eacute;r&eacute;s sont (sans ordre de pr&eacute;f&eacute;rence) : Niv Bavarsky, Nylso, Helkarava, Yoann Sacr&eacute;, Diego Ybarra, Z&eacute;phir, Tarmasz, Corpus Caca, Julien Dinkel, Hugo Ruyant, Manu Larcenet, M&eacute;gaboy, Adrien Fricheteau, Thomas Rouzi&egrave;re, Mayumi Otero, Renart, Sacr&eacute; Walt, et Nicolas Andr&eacute;. Du beau monde en somme !<br />
+&nbsp;<br />
+<strong>Dis-nous ce que tu aimes dans la vie, tes passions, tes passe-temps, tes vices, tes petits plaisirs du quotidien. </strong><br />
+La chose qui me procure le plus de plaisir, le plus d&rsquo;&eacute;motions, qui me tient chaud les nuits d&rsquo;hiver et me rafraichit gaiment durant les s&egrave;ches saisons estivales se r&eacute;sume en un mot : le dessin.<br />
+Hahaha ! Non, je rigole, si je dessine aujourd&rsquo;hui, c&rsquo;est juste parce que mes parents m&rsquo;ont forc&eacute;, &agrave; coups de fouet, &agrave; faire &ccedil;a d&egrave;s mon plus jeune &acirc;ge pour ramener la popote &agrave; la maison. C&rsquo;&eacute;tait &ccedil;a&nbsp;ou le chant lyrique, alors le choix &eacute;tait vite fait.<br />
+&nbsp;<br />
+<strong>Tu nous racontes une blague pourrie ? Joker possible : si tu n&#39;as pas de blague, on veut conna&icirc;tre ta plus grosse VDM. </strong><br />
+Je vais vous raconter un petit succ&egrave;s qui m&rsquo;a &eacute;t&eacute; cont&eacute; il y a de nombreuses ann&eacute;es par un ma&icirc;tre en la mati&egrave;re et met le feu &agrave; chaque soir&eacute;e &agrave; laquelle je suis convi&eacute; : &laquo; C&rsquo;est l&rsquo;histoire d&rsquo;un type, il avait la t&ecirc;te tellement grosse qu&rsquo;il portait 2 chapeaux ! &raquo;. Vous &ecirc;tes pli&eacute;s, hein ?<br />
+&nbsp;<br />
+<strong>As-tu une phobie ? Si oui, laquelle ? </strong><br />
+Quoi de plus terrifiant en ce bas-monde que des germes de patate ?<br />
+&nbsp;<br />
+<strong>Pour finir, pose-toi une question que tu aurais aim&eacute; que l&#39;on te pose et choisis d&#39;y r&eacute;pondre ou pas. </strong><br />
+La sc&egrave;ne se d&eacute;ploie devant mes yeux avec le r&eacute;alisme d&rsquo;un t&eacute;l&eacute;viseur ultra HD : une charmante jeune fille entame le dialogue et me demande : &laquo; Paul, toi qui es si intelligent, sais-tu donc ce que c&rsquo;est qu&rsquo;un cuniculiculteur ? Cette question me taraude et me prive de sommeil depuis de nombreuses nuits ! &raquo; Et moi de r&eacute;pondre : &laquo; Eh&nbsp;bien, figure-toi, douce fleur - je suis un romantique - que ma culture d&eacute;bordante de connaissances va me permettre de t&rsquo;aider et de t&rsquo;&eacute;loigner ainsi de cette zone sombre qu&rsquo;est l&rsquo;ignorance pour t&rsquo;amener vers la douce lumi&egrave;re du savoir et de la v&eacute;rit&eacute;. Un cuniculiculteur se trouve &ecirc;tre en fait &hellip; un &eacute;leveur de lapins ! &raquo;.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center; "><a href="http://www.viedemerde.fr/travail/7483520"><strong>Et si tu veux voir la VDM de la semaine, tu cliques ici.</strong></a></p>
+
+<p>&nbsp;</p>
+
+<p>&Agrave; la semaine prochaiiiiine ! Enfin, apr&egrave;s les vid&eacute;os ! Avec notamment cette <a href="http://www.youtube.com/watch?v=jlSF0dtDRD8">hilarante parodie de publicit&eacute;</a> doubl&eacute;e, et <a href="http://www.youtube.com/watch?v=mPCGm3HUBbs">un chat qui aime la neige</a>. Hop, j&#39;me casse. Ciao les loulous.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Vous avez du talent et souhaitez participer &agrave; une prochaine VDM illustr&eacute;e ?</strong> Envoyez-moi un e-mail sur julien@viedemerde.fr en n&#39;oubliant pas de me communiquer l&#39;adresse de votre blog ou quelques-unes de vos &oelig;uvres.</p>
+
+</div><span class="date"><a href="/blog/1552">#1552</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 20/04/2013 à 02:20 par Julien - 17 commentaires</span>
+</div>
+<div class="post"><a href="https://twitter.com/share" class="twitter-share-button" data-via="viedemerde" data-lang="fr">Tweeter</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.viedemerde.fr%2Fblog%2F1552&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:20px;" allowTransparency="true"></iframe><g:plusone size="medium"></g:plusone><script type="text/javascript">
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script></div><div class="post"><h3>Meilleurs commentaires</h3><div class="h3_placeholder"></div></div><div class="post" id="c7752347" data-postid="7752347"><div class="right"><div class="thumbs"><span class="thumbdown"></span> <span class="thumbup"></span></div></div><p class="texte">Le champ lyrique, un nouveau mix entre The Voice et L'amour est dans le pré ? On te verra au casting, Julien ? :D<br />
+Super illu sinon ... Et sus aux germes de patate !</p><div class="avatar_container"><a href="/membre/837012" title="Droldwaz0o"><img src="http://media.viedemerde.fr/fmylife/data/fr/membres/icon/d40827119a6b73f080d697b1bec2149f.jpg" class="avatar rose" /></a></div><div class="userinfos"><p><a href="#c_7752347">#1</a> - Le 20/04/2013 à 08:45 par <b><a class="pseudo" href="/membre/837012">Droldwaz0o</a></b></p><p><a href="#c_7752347">Voir le contexte</a></p></div><p class="right little badgeslinks gold"><span>+5</span> | <a href="/membre/837012#badges">13</a></p></div>
+<div class="post" id="c7753265" data-postid="7753265"><div class="right"><div class="thumbs"><span class="thumbdown"></span> <span class="thumbup"></span></div></div><p class="texte">Chaque semaine je sais pas si j'attends le plus la vdm illustrée ou l'interview.</p><div class="avatar_container"><a href="/membre/2439744" title="rosefolle"><img src="http://media.viedemerde.fr/fmylife/data/fr/membres/icon/ce25c8ffc25045be1bb77b104011302a.jpg" class="avatar gray" /></a></div><div class="userinfos"><p><a href="#c_7753265">#11</a> - Le 21/04/2013 à 00:20 par <b><a class="pseudo" href="/membre/2439744">rosefolle</a></b></p><p><a href="#c_7753265">Voir le contexte</a></p></div><p class="right little badgeslinks silver"><span>+3</span> | <a href="/membre/2439744#badges">18</a></p></div>
+<div class="post"><h3>Commentaires</h3><div class="h3_placeholder"></div></div><div class="comments_display" data-type="blog_posts" data-id="1552" data-lastid="0" data-load="true"><p class="loading">Chargement...</p></div><div class="post"><h3>Commentaires</h3><div class="h3_placeholder"></div></div><div class="post green"><p class="center">Votre commentaire doit respecter <b><a target=_blank href=/commentaires/charte>notre charte</a></b>. Vous pourrez l'éditer pendant deux minutes.</p></div><div class="post"><a id="commenter"></a><p class="right"><a href="#top">Haut de la page</a></p><p>Pour pouvoir commenter, vous devez être membre du site VDM.</p><p>Vous n'avez pas encore de compte membre ? <a href=/inscription>Inscrivez-vous</a> !</p></div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    <div class="publicite"><script type="text/javascript">var d=document.location;var t=new Date;document.write("<script src='//cdn.dekalee.net/serve/20.js?p="+d.pathname+"&s="+d.search+"&t="+t.getTime()+"&ip=80.13.242.45&uid=562249886'>\x3C/script>")</script></div>
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li>Accéder à la version <a href="/modules/accessibility/switch.php?act=enable">Déficients visuels</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

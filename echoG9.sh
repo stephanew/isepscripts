@@ -1,12 +1,17 @@
 #!/bin/sh
+echo "Please enter some input: "
 
-# Affiche le fichier ligne par ligne en alternant les couleurs
-count=0
+if [ $# -eq 0 ]
+then
+echo "Entrez un nom de fichier à ouvrir."
+else
+COUNT=0
 cat -s $1 | while read LINE
 do
-       let count++
-       let color=(count%8)+30
-       echo -e "\033["$color"m"$LINE
+COUNT=$(($COUNT + 1))
+COLOR=$(($COUNT % 7 + 31))
+echo -e "\033["$COLOR"m"$LINE
 done
 
-echo -e "\033[0m"
+echo -en "\033[0m"
+fi

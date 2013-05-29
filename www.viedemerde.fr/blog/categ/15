@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Tout le blog" />
+	<meta name="description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn3.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Tout le blog</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Tout le blog"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/blog/categ/15"/>
+	<meta property="og:image" content="http://cdn2.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/blog/categ/15">
+	<meta name="twitter:title" content="VDM : Tout le blog">
+	<meta name="twitter:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn1.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/blog">Blog</a> &rarr; <a href="/blog/categ/15">Jeux et concours</a></p></div><a id="top"></a><div class="post bordered menublog"><p><a href=/blog>Accueil du blog</a> | <a href=http://feeds.feedburner.com/blogdemerde>Fil RSS des billets</a> | <a href=/blog/tout>Tous les billets</a></p><a href="/blog/categ/8">VDM illustrée</a> (251) - <a href="/blog/categ/1">L'actualité VDM</a> (70) - <a href="/blog/categ/15"><b>Jeux et concours</b></a> (45)</div><div class="post"><h3><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></h3><div class="date right"><a href="/blog/1550">#1550</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 22/04/2013 à 06:46 par Julien - <a href="/blog/1550">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1539">(Gagnants) MURAT Paris sauve la St-Valentin</a></h3><div class="date right"><a href="/blog/1539">#1539</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 10/02/2013 à 17:07 par Julien - <a href="/blog/1539">26 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1350">C'est le Florajet Day !</a></h3><div class="date right"><a href="/blog/1350">#1350</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 21/12/2012 à 12:27 par Julien - <a href="/blog/1350">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1521">Mais qui a re-tué Pamela Rose ? - Le concours</a></h3><div class="date right"><a href="/blog/1521">#1521</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 26/11/2012 à 00:16 par Julien - <a href="/blog/1521">200 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1522">Mais qui a re-tué Pamela Rose ? - La RE-interview</a></h3><div class="date right"><a href="/blog/1522">#1522</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 26/11/2012 à 00:15 par Julien - <a href="/blog/1522">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1509">Vacances de merde</a></h3><div class="date right"><a href="/blog/1509">#1509</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 19/09/2012 à 22:36 par Julien - <a href="/blog/1509">42 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1506">Gagnez vos places de cinéma pour HIT & RUN</a></h3><div class="date right"><a href="/blog/1506">#1506</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 17/08/2012 à 12:09 par Julien - <a href="/blog/1506">2 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1462">Gagnez le nouveau livre de poche VDM</a></h3><div class="date right"><a href="/blog/1462">#1462</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 24/05/2012 à 15:06 par Julien - <a href="/blog/1462">680 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1398">Marre des boutons</a></h3><div class="date right"><a href="/blog/1398">#1398</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 03/03/2012 à 00:16 par Julien - <a href="/blog/1398">45 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1366">Les 4 ans de VDM se fêtent en vidéo</a></h3><div class="date right"><a href="/blog/1366">#1366</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 16/01/2012 à 19:55 par Julien - <a href="/blog/1366">105 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1330">Jouez avec AdopteUnMec et gagnez LE resto : le résultat</a></h3><div class="date right"><a href="/blog/1330">#1330</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 03/12/2011 à 10:13 par Julien - <a href="/blog/1330">417 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1286">Dégaine ton haleine et pars au ski</a></h3><div class="date right"><a href="/blog/1286">#1286</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 28/09/2011 à 10:10 par Julien - <a href="/blog/1286">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1266">Votre vie de couple est un sketch ? On prend.</a></h3><div class="date right"><a href="/blog/1266">#1266</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 31/08/2011 à 18:05 par Julien - <a href="/blog/1266">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1258">Jeu La planque : la solution et les gagnants</a></h3><div class="date right"><a href="/blog/1258">#1258</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 09/08/2011 à 18:36 par Julien - <a href="/blog/1258">7 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1250">Gagnez des cadeaux avec le film La planque</a></h3><div class="date right"><a href="/blog/1250">#1250</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 31/07/2011 à 23:17 par Guillaume - <a href="/blog/1250">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1196">Perles du bac Bic : les gagnants</a></h3><div class="date right"><a href="/blog/1196">#1196</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 06/07/2011 à 12:24 par Julien - <a href="/blog/1196">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1184">Et les gagnants de la nouvelle BD VDM sont...</a></h3><div class="date right"><a href="/blog/1184">#1184</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 01/06/2011 à 18:08 par Julien - <a href="/blog/1184">167 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1051">Galères administratives : les résultats</a></h3><div class="date right"><a href="/blog/1051">#1051</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 22/01/2011 à 14:01 par Guillaume - <a href="/blog/1051">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1009">Le concours dont vous êtes le héros</a></h3><div class="date right"><a href="/blog/1009">#1009</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 10/01/2011 à 12:05 par Julien - <a href="/blog/1009">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1002">Concours de Noël : les résultats</a></h3><div class="date right"><a href="/blog/1002">#1002</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 24/12/2010 à 12:00 par Guillaume - <a href="/blog/1002">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/981">Concours : Les VDM du Papa Noël</a></h3><div class="date right"><a href="/blog/981">#981</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 11/12/2010 à 00:15 par Julien - <a href="/blog/981">95 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/911">Les gagnants du concours Motorola</a></h3><div class="date right"><a href="/blog/911">#911</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 27/10/2010 à 18:56 par Julien - <a href="/blog/911">19 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/876">VDM = Vie de mobile ?</a></h3><div class="date right"><a href="/blog/876">#876</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 05/10/2010 à 17:56 par Julien - <a href="/blog/876">48 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/834">Benoît Dorémus et son ode à la loose</a></h3><div class="date right"><a href="/blog/834">#834</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 15/09/2010 à 14:57 par Julien - <a href="/blog/834">38 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/701">3 chances de gagner le livre de poche VDM</a></h3><div class="date right"><a href="/blog/701">#701</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 10/05/2010 à 00:59 par Julien - <a href="/blog/701">702 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/603">Tournoi de poker VDM : Les gagnants</a></h3><div class="date right"><a href="/blog/603">#603</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 03/02/2010 à 11:57 par Julien - <a href="/blog/603">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/519">Grand Noël de VDM : Épilogue</a></h3><div class="date right"><a href="/blog/519">#519</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 23/12/2009 à 00:35 par Julien - <a href="/blog/519">100 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/484">Participez au Grand Noël de VDM</a></h3><div class="date right"><a href="/blog/484">#484</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 07/12/2009 à 16:08 par Julien - <a href="/blog/484">392 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/457">Memory-life : Les résultats !</a></h3><div class="date right"><a href="/blog/457">#457</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 31/10/2009 à 14:15 par Guillaume - <a href="/blog/457">15 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/414">Partagez ce que vous auriez préféré oublier</a></h3><div class="date right"><a href="/blog/414">#414</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 10/10/2009 à 09:25 par Julien - <a href="/blog/414">35 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/372">Concours vidéo : Les résultats</a></h3><div class="date right"><a href="/blog/372">#372</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 07/09/2009 à 16:08 par Julien - <a href="/blog/372">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/323">Lancement du Concours VDM de l'été 2009</a></h3><div class="date right"><a href="/blog/323">#323</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 15/08/2009 à 13:49 par Julien - <a href="/blog/323">82 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/274">Concours U2 : Et le gagnant est...</a></h3><div class="date right"><a href="/blog/274">#274</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 26/06/2009 à 22:17 par Julien - <a href="/blog/274">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/246">Jeu concours DTC : Les résultats</a></h3><div class="date right"><a href="/blog/246">#246</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 02/06/2009 à 11:11 par Julien - <a href="/blog/246">131 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/218">DansTonChat : Le jeu concours !</a></h3><div class="date right"><a href="/blog/218">#218</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 22/05/2009 à 23:26 par L'équipe VDM - <a href="/blog/218">549 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/145">And the winner is...</a></h3><div class="date right"><a href="/blog/145">#145</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 21/01/2009 à 11:59 par Guillaume - <a href="/blog/145">20 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/139">Le Concours photo de Noyël</a></h3><div class="date right"><a href="/blog/139">#139</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 20/12/2008 à 00:41 par Julien - <a href="/blog/139">157 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/134">Les 50 gagnants de notre concours</a></h3><div class="date right"><a href="/blog/134">#134</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 05/12/2008 à 15:34 par Julien - <a href="/blog/134">36 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/127">Qui sera le plus gros emmerdeur ?</a></h3><div class="date right"><a href="/blog/127">#127</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 06/11/2008 à 15:07 par Guillaume - <a href="/blog/127">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/107">Résultats du concours photo</a></h3><div class="date right"><a href="/blog/107">#107</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 07/09/2008 à 11:24 par Guillaume - <a href="/blog/107">30 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/99">Résultat du concours J'suis conne</a></h3><div class="date right"><a href="/blog/99">#99</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 09/08/2008 à 23:03 par Guillaume - <a href="/blog/99">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/97">Concours photos de l'été sur VDM</a></h3><div class="date right"><a href="/blog/97">#97</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 04/08/2008 à 22:04 par Guillaume - <a href="/blog/97">103 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/80">VDM à laFraise</a></h3><div class="date right"><a href="/blog/80">#80</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 30/06/2008 à 13:37 par Guillaume - <a href="/blog/80">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/73">J'suis conne. Et vous ?</a></h3><div class="date right"><a href="/blog/73">#73</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 17/06/2008 à 17:03 par Guillaume - <a href="/blog/73">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/31">Résultat du concours VDM #1</a></h3><div class="date right"><a href="/blog/31">#31</a> - <a href="/blog/categ/15">Jeux et concours</a> - Le 01/04/2008 à 16:33 par Maxime - <a href="/blog/31">79 commentaires</a></div>
+</div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>
