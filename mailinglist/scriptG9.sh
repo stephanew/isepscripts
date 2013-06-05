@@ -19,79 +19,25 @@ function pause(){
 if [ $# -eq 0 ]; then
 	echo "Entrez un nom de fichier mailinglist"
 else
-	# On commence par tester la version de bash utilisée
-	if [ "${BASH_VERSION:0:1}" -lt 4 ]; then
-		echo "Votre version de bash n'est pas compatible avec ce script... Utilisez la version 4 !"
-	else
-		echo "--- Statistiques sur la mailing list '$1'"
-		echo " "
+	echo "--- Statistiques sur la mailing list '$1'"
+	echo " "
 
-		# --EXPEDITEURS
-		echo "-- EXPEDITEURS"
+	# --EXPEDITEURS
+	echo "-- EXPEDITEURS"
+	echo " "
+	grep "(?<=^From: ).+(?= at)" $1 -Po | sort -rn -k1 | uniq -c | sort -rn -k1 | head -n 15
+	pause
 
-		# On déclare le tableau qui sotckera tous les expéditeurs et le nombre de fois où ils apparaissent
-		unset SENDERS
-		declare -A SENDERS
+	# --COMPTAGE DES MOTS
+	echo "-- MOTS"
+	echo " "
 
-		# On cherche tous les expéditeurs, entourés par "From: " et " at"
-		while read LINE; do
-			if [ -z "${SENDERS["$LINE"]}" ]; then
-				COUNT=1
-			else
-				COUNT="${SENDERS["$LINE"]}"
-				let COUNT=COUNT+1
-			fi
-			SENDERS["$LINE"]="$COUNT"
-		done < <(grep "(?<=^From: ).+(?= at)" $1 -Po) #Le GREP est mis à la fin de la boucle pour éviter que le pipe et le "read" n'effacent la variable SENDERS
+	# La regex de grep correspond à toutes les chaines de caractères qui ne contiennent pas d'espaces
+	grep "[^\s]+" $1 -Po | sort -rn -k1 | uniq -c | sort -rn -k1 | head -n 15
+	echo "TOTAL:`wc -w < $1`"
+	echo " "
 
-		# On trie le tableau des expéditeurs dans l'ordre croissant
-		# sort -rn -k3 permet de trier numériquement d'après le 3ème mot de la ligne
-		
-		for NAME in "${!SENDERS[@]}"; do
-			echo "$NAME - ${SENDERS["$NAME"]} envois"
-		done |
-		sort -rn -k3 | head -n 15
-
-		pause
-
-		# --COMPTAGE DES MOTS
-		echo "-- MOTS"
-		echo " "
-		echo "Comptage des mots..."
-
-		# On déclare le tableau qui sotckera tous les expéditeurs et le nombre de fois où ils apparaissent
-		unset WORDS
-		declare -A WORDS
-
-		# On compte le nombre d'occurence de tous les mots de la mailing list
-		while read LINE; do
-
-			# On est obligé de supprimer les astérisques, car bash les remplace par la liste des fichiers du dossier courant...
-			for WORD in ${LINE//\*/ }; do
-		        if [ -z "${WORDS["$WORD"]}" ]; then
-		        	WORDS["$WORD"]=1
-		        else
-		        	COUNT="${WORDS["$WORD"]}"
-		        	let COUNT=COUNT+1
-		        	WORDS["$WORD"]="$COUNT"
-		        fi
-		        if [ "$WORD" == "scriptG9.sh" ]; then
-		        	echo $LINE
-		        	sleep 1
-		        fi
-		    done
-			
-		done < <(cat $1)
-
-		# On trie le tableau des expéditeurs dans l'ordre croissant
-		echo " "
-
-		for WORD in "${!WORDS[@]}"; do
-			echo "$WORD - ${WORDS["$WORD"]}"
-		done |
-		sort -rn -k3 | head -n 15
-
-
-	fi
+	# Nombre de mots par mails
+	#grep "[^\s]+" $1 -Po | wc -l
 
 fi
