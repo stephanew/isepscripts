@@ -10,11 +10,11 @@ for i in `ls` #je parcours tous les fichiers dans le dossier
 do
 n="0";
 
-grep 'Le [0-3][0-9]/[0-1][0-9]/20[0-1][0-9] à [0-2][0-9]:[0-5][0-9]' $i | while read line;  #dans chaque fichier je chercher la date et l'heure suivant le format
+grep 'Le [0-3][0-9]/[0-1][0-9]/20[0-1][0-9] à [0-2][0-9]:[0-5][0-9]' $i | while read line;  #dans chaque fichier je cherche la date et l'heure suivant le format
 do 
-if [ $n -eq "0" ] #je regarde si je l'ai déjà sauvegardé car plusieurs ligne dans le fichier ont une date et heure du même type
+if [ $n -eq "0" ] #je regarde si je l'ai déjà sauvegardé car plusieurs lignes dans le fichier ont une date et heure du même type
 then
-tmp=${line##?*</span>)</span></p><p>Le}; # j'extrait la date et heure entre deux chaine de caractère
+tmp=${line##?*</span>)</span></p><p>Le}; # j'extrais la date et heure entre deux chaine de caractères
 url=${tmp%%\-?*};  
 echo $url >> ../../$dossier.txt; #je l'enregistre dans le fichier qui se retrouvera à la racine de l'exécutable et portera le nom de la catégorie
 n="1";

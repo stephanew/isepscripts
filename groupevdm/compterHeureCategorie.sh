@@ -1,9 +1,9 @@
-#ici la fonction est plus complète. En plus d'enregistrer la date et l'heure, elle isole l'heure dans un seconde fichier
-# trie les heures dans un troisième fichier pour compte le nombre d'occurence dans un quatrième. Les fichiers intermédiaires
-# sont supprimés ne reste que le dernier
+#ici la fonction est plus complète. En plus d'enregistrer la date et l'heure, elle isole l'heure dans un second fichier
+# trie les heures dans un troisième fichier pour compter le nombre d'occurence dans un quatrième. Les fichiers intermédiaires
+# sont supprimés et il ne reste que le dernier
 
 # /!\ Ce fichier est à placer dans le même répertoire que le dossier www.viedemerde.fr
-# ensuite exécutez le dans le dossier de la catégorie choisi, exemple www.viedemerde.fr/amour/
+# ensuite exécutez le dans le dossier de la catégorie choisie, exemple www.viedemerde.fr/amour/
 # puis ajouter la commande suivante > sh ../../compterHeureCategorie.sh
 
 
@@ -15,9 +15,9 @@ do
 n="0";
 grep 'Le [0-3][0-9]/[0-1][0-9]/20[0-1][0-9] à [0-2][0-9]:[0-5][0-9]' $i | while read line; # on cherche les lignes où il y a une date de ce type
 do 
-if [ $n -eq "0" ] # si c'est la première ligne du fichier alors on va la traité
+if [ $n -eq "0" ] # si c'est la première ligne du fichier alors on va la traiter
 then
-tmp=${line##?*</p><p>Le}; # on l'isole en fonction des balise qui entoure la date d'un coté
+tmp=${line##?*</p><p>Le}; # on l'isole en fonction des balisent qui entourent la date d'un coté
 url=${tmp%%\-?*};  # et de l'autre coté
 deb=${url##?*à}; # ensuite on extrait l'heure qui se trouve après le "à"
 fin=${deb%%\:?*}; # et avant ":"
@@ -45,7 +45,7 @@ heureStock=""; # on initialise une variable de référence pour l'heure
 compte=0; # et une variable d'occurence
 
 
-while read line; # pour chaque ligne du fichier précédemment crée dans la première boucle 
+while read line; # pour chaque ligne du fichier précédemment créé dans la première boucle 
 do 
 if [ $compte -lt 1 ] #comparaison pour tester si la boucle commence ou pas
 then # si c'est le cas alors la variable de référence est vide
@@ -63,12 +63,12 @@ elif [ $line -lt 24 ] && [ $line -ge 0 ] # si la ligne lue est bien un nombre en
 then # alors enregistrement les informations
 echo $heureStock"H" >> ../../nbreHeure_$dossier.txt;
 echo $compte >> ../../nbreHeure_$dossier.txt;
-heureStock=$line; # puis on assigne les nouvelles variable pour un nouveau comptage
+heureStock=$line; # puis on assigne les nouvelles variables pour un nouveau comptage
 compte=1;
 fi
-done < ../../heure_$dossier.txt # on indique à partir de quelle fichier la lecture s'effectue
+done < ../../heure_$dossier.txt # on indique à partir de quel fichier la lecture s'effectue
 
-echo $heureStock"H" >> ../../nbreHeure_$dossier.txt; # on enregistre les dernière variable (soit pour 23h)
+echo $heureStock"H" >> ../../nbreHeure_$dossier.txt; # on enregistre les dernière variables (soit pour 23h)
 echo $compte >> ../../nbreHeure_$dossier.txt;
 echo "suppression du fichier heure_"$dossier".txt";
 rm ../../heure_$dossier.txt; # puis on supprime le fichier qui désormais n'est plus utile
@@ -78,5 +78,5 @@ echo "fin comptage occurance. Résultat dans le fichier nbreHeure_"$dossier".txt
 #*** FIN SECONDE PARTIE
 #*** FIN DU PROGRAMME
 
-# NB : supprimer le dernier fichier crée avant de retester car les données se superposeront
+# NB : supprimer le dernier fichier créé avant de retester car les données se superposeront
 # NB : le programme peut être long et quelques messages apparaissent pour indiquer l'avancement

@@ -1,6 +1,0 @@
-Hello world, 
-curl http://www.viedemerde.fr | grep -w "amour" |wc -l 
-
-Une commande pour compter le nombre de mot "amour" sur la page http://www.viedemerde.fr
-
-Pour compter le nombre de post dans la catégorie. Il faudrait limiter la recherche sur les balises <a></a> de classe "liencat".

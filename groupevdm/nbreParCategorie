@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "Bonjour,"/n"Voici la liste de toutes les catégories disponibles sur le site :" #On affiche à l'écran le texte indiqué  
+
+curl http://www.viedemerde.fr | grep -e option | cut -d \" -f2 #On affiche la liste des catégories 
+
+#curl http://www.viedemerde.fr | grep -e li | grep -e h3 | grep -e a | cut -d \" -f2
+
+echo "Veuiller entrer la catégorie de votre choix:"  #On affiche à l'écran le texte indiqué qui invite l'utilisateur à entrer un mot
+
+read category #On récupère le mot entré par l'utilisateur
+
+echo "Vous venez de choisir :" $category ". Voici le nombre de post sur la page:" 
+
+curl http://www.viedemerde.fr/$category | grep -w "/"$category | wc -l | tail -n 1  #Une commande pour compter le nombre de mot que l'utilisateur a entré sur la page http://www.viedemerde.fr, ici on compte le nombre de fois où apparait 
+
+
