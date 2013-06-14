@@ -1,5 +1,6 @@
 #!/bin/bash
 #print the number of lines in a file 
+# edit de gaetan bray pour l'examen
 echo "Two arguments are required,one is for path,another is for a filename";
 echo ".";
 if [ $# = 2 ];then
