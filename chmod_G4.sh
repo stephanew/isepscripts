@@ -4,6 +4,7 @@
 # r : autorisation de lecture
 # w : autorisation  d'écriture
 # x : autorisation d'execution
+# coucou youpihou
 
 chmod -v 777 NomFichier
 #affiche la liste de tous les fichiers en cours de modification.
