@@ -34,14 +34,15 @@ then
 #Le site existe, on l'analyse
 echo "L'url : $url est correcte"
 curl -s $url > retour_curl.txt
+#On a stocké l'integralité de la page curler dans un fichier dedié
 date=`date +%d/%m/%Y`
-echo "$date" 
-grep -e "\(0[1-9]\[1-2][0-9]\3[0-1]\)" -f $date
-#on a stocké le resultat du curl dans un fichier txt
-retour_grep=$(cat retour_curl.txt | grep -o "Le "\(0[1-9]\[1-2][0-9]\3[0-1]\)) 
-echo "$retour_grep"
+#On recupere la date du jour au format: dd/mm/YYYY
+#grep -e "\(0[1-9]\[1-2][0-9]\3[0-1]\)" -f $date
+retour_grep=`cat retour_curl.txt | grep \$date` 
+#on recherche les post du jour grace a la date
+echo "ICI ==> $retour_grep"
 #on récupere les vdm publié le 07/06/2013
- 
+
 
 else
 echo "L'url donnée n'est pas correcte"
