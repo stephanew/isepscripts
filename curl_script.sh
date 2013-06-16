@@ -13,13 +13,13 @@ read section
 #le case permet d'instancier l'url
 case $section in
     1 ) url="www.viedemerde.fr/amour" ;;
-    2 ) url="www.viedemerde.fr/Argent" ;;
-    3 ) url="www.viedemerde.fr/Travail" ;;
-    4 ) url="www.viedemerde.fr/Sexe" ;;
-    5 ) url="www.viedemerde.fr/Animaux" ;;
-    6 ) url="www.viedemerde.fr/Enfants" ;;
-    7 ) url="www.viedemerde.fr/Santé" ;;
-    8 ) url="www.viedemerde.fr/Inclassable" ;;
+    2 ) url="www.viedemerde.fr/argent" ;;
+    3 ) url="www.viedemerde.fr/travail" ;;
+    4 ) url="www.viedemerde.fr/sexe" ;;
+    5 ) url="www.viedemerde.fr/animaux" ;;
+    6 ) url="www.viedemerde.fr/enfants" ;;
+    7 ) url="www.viedemerde.fr/santé" ;;
+    8 ) url="www.viedemerde.fr/inclassable" ;;
     * ) echo "All your base belong to us" ;;
     #La valeur par defaut est la page d'acceuil
 esac
@@ -40,9 +40,18 @@ date=`date +%d/%m/%Y`
 #grep -e "\(0[1-9]\[1-2][0-9]\3[0-1]\)" -f $date
 retour_grep=`cat retour_curl.txt | grep \$date` 
 #on recherche les post du jour grace a la date
-echo "ICI ==> $retour_grep"
-#on récupere les vdm publié le 07/06/2013
 
+#essayons de récuperer les posts
+post=`echo $retour_grep | grep -o ">[A-Z].*VDM</a></p>"`
+echo "$post"
+
+#on va maintenant essayer de les filtrer selon le nombre de like
+top_5=`echo $retour_grep | grep -o "dyn-vote-j-data\">[0-9]*</span>" | grep -o "[0-9]*"`
+echo "ICI ==> $top_5 FIN"
+test=`echo $top_5 | grep -o "[0-9]*"`
+echo "$test"
+test_sort=`echo $test | sort -n`
+echo "$test_sort"
 
 else
 echo "L'url donnée n'est pas correcte"
