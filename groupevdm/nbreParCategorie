@@ -2,9 +2,9 @@
 
 echo "Bonjour,"\n"Voici la liste de toutes les catégories disponibles sur le site :" #On affiche à l'écran le texte indiqué  
 
-curl http://www.viedemerde.fr | grep -e option | cut -d \" -f2 #On affiche la liste des catégories 
+#curl http://www.viedemerde.fr | grep -e option | cut -d \" -f2
 
-#curl http://www.viedemerde.fr | grep -e li | grep -e h3 | grep -e a | cut -d \" -f2
+curl http://www.viedemerde.fr | grep -e li | grep -e h3 | grep -e a | cut -d \" -f2 #On affiche la liste des catégories 
 
 echo "Veuiller entrer la catégorie de votre choix:"  #On affiche à l'écran le texte indiqué qui invite l'utilisateur à entrer un mot
 
