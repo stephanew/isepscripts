@@ -1,0 +1,4 @@
+#!bin/bash
+#we get the section amour
+curl http://vdm.com
+curl --request GET 'http:vdm.com/amour'
