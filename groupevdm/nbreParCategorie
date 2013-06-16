@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Bonjour,"/n"Voici la liste de toutes les catégories disponibles sur le site :" #On affiche à l'écran le texte indiqué  
+echo "Bonjour,"\n"Voici la liste de toutes les catégories disponibles sur le site :" #On affiche à l'écran le texte indiqué  
 
 curl http://www.viedemerde.fr | grep -e option | cut -d \" -f2 #On affiche la liste des catégories 
 
