@@ -1,0 +1,8 @@
+#On compte le nombre de fois qu'apparait le mot aujourd'hui dans tous les fichiers, ce qui permet donc d'avoir le nombre exact de VDM
+#!/bin/bash
+$count=0;
+for i in `grep "Aujourd'hui" *`
+do
+count=$((count + 1));
+done
+echo $count;

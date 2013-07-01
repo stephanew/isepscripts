@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Les illustrations" />
+	<meta name="description" content="Toutes les illustrations du site Viedemerde." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn2.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Les illustrations</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Les illustrations"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/illustrations?page=2"/>
+	<meta property="og:image" content="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn2.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Toutes les illustrations du site Viedemerde."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/illustrations?page=2">
+	<meta name="twitter:title" content="VDM : Les illustrations">
+	<meta name="twitter:description" content="Toutes les illustrations du site Viedemerde.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn4.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/illustrations?page=2">VDM illustrées</a></p></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7040847"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_072b29b9795c9ab9b92f4426445c09ea.jpg" /></a></p><p class="left little">Illustrée par <strong>Bim </strong> &mdash; <a href="http://hou-bim.blogspot.fr">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1525">Présentation de Bim sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7265192"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_032e8260c5c1ae10d4f4d02511a24cb7.jpg" /></a></p><p class="left little">Illustrée par <strong>Philippe Scherding  </strong> &mdash; <a href="http://misssatan.canalblog.com">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1523">Présentation de Philippe Scherding  sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/3828050"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_637b152fffde9c72f980b751d70b2d62.jpg" /></a></p><p class="left little">Illustrée par <strong>Poca </strong> &mdash; <a href="http://largummy.blogspot.fr/">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1520">Présentation de Poca sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7246726"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_aca2b53c3bc79a51a9f1900669781db7.jpg" /></a></p><p class="left little">Illustrée par <strong>MarieMisere </strong> &mdash; <a href="http://mariemisere.blogspot.fr">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1519">Présentation de MarieMisere sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/179320"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_d6b6e08035318eb19ea289ec8639c8ee.jpg" /></a></p><p class="left little">Illustrée par <strong>Simon Mitteault </strong> &mdash; <a href="http://lesbdsurmesure.canalblog.com">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1518">Présentation de Simon Mitteault sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7234534"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_4f0abef29c5978cf11061226a0cb2d85.jpg" /></a></p><p class="left little">Illustrée par <strong>ValMo </strong> &mdash; <a href="http://kabochenook01.blogspot.ca">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1517">Présentation de ValMo sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/4017823"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_5e680666d26d38871b1f19766fefd158.jpg" /></a></p><p class="left little">Illustrée par <strong>Philippe Valette </strong> &mdash; <a href="http://georgesclooney.blogspot.fr">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1516">Présentation de Philippe Valette sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7228338"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_cf017c75a1fc157b1850a1377b59ee6b.jpg" /></a></p><p class="left little">Illustrée par <strong>Faustine </strong> &mdash; <a href="http://www.faustine-bd.com">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1515">Présentation de Faustine sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/7218285"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_57e0fa98e507dfc11b3fb264ff35c5d2.jpg" /></a></p><p class="left little">Illustrée par <strong>Jul </strong> &mdash; <a href="http://www.forzapedro.com">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1514">Présentation de Jul sur notre blog</a></p></div></div><div class="illustrated_container"><div class="post"><p class="center"><a href="/6443585"><img src="http://media.viedemerde.fr/fmylife/data/fr/illust/mid_ab1ac3e605245dc8eb7c7d49f4f8354d.jpg" /></a></p><p class="left little">Illustrée par <strong>TWOFLAG </strong> &mdash; <a href="http://www.flickr.com/photos/twoflag">Son blog</a></p><p class="right little"><a href="http://www.viedemerde.fr/blog/1513">Présentation de TWOFLAG sur notre blog</a></p></div></div><div class="pagination"><ul class="left"><li><a href="/illustrations">1</a></li><li><a href="?page=1">2</a></li><li class="active">3</li><li><a href="?page=3">4</a></li><li><a href="?page=4">5</a></li><li><a href="?page=5">6</a></li><li><a href="?page=6">7</a></li><li class="inactive"><a href="javascript:;" onclick="pageLauncher(this);">…</a></li><li><a href="?page=25">26</a></li></ul><ul class="right"><li><a href="?page=1">&#171; Page précédente</a></li><li><a href="?page=3">Page suivante &#187;</a></li></ul></div><div class="post" id="index"><h3>Index des auteurs</h3><div class="h3_placeholder"></div><ul class="illustrators"><li><a href="/3211671">2d </a></li><li><a href="/1091437">Alexandre Arlène </a></li><li><a href="/5241402">Alice Des </a></li><li><a href="/5975717">Aliénor </a></li><li><a href="/903604">Allan Barte </a></li><li><a href="/5476835">Aly Puget </a></li><li><a href="/206088">Amandine </a></li><li><a href="/64209">Angélique </a></li><li><a href="/179948">Anne-Lise </a></li><li><a href="/126172">Antoine Latour </a></li><li><a href="/638974">Aurélien Filippi </a></li><li><a href="/1301519">Aymeric Bernard </a></li><li><a href="/7379693">Baba </a></li><li><a href="/1999294">Babs </a></li><li><a href="/6636479">Ben Dessy </a></li><li><a href="/4871014">Benjamin </a></li><li><a href="/241737">Biboun </a></li><li><a href="/7040847">Bim </a></li><li><a href="/344882">Boulet </a></li><li><a href="/6891958">Bouss </a></li><li><a href="/59051">Bryst </a></li><li><a href="/530525">BZ </a></li><li><a href="/969698">Bzzzit la Libellule. </a></li><li><a href="/1787246">C'Noël </a></li><li><a href="/3580962">Caporal Gustave </a></li><li><a href="/1721685">Caricartoon </a></li><li><a href="/2050093">Carlier </a></li><li><a href="/5936245">Carole Maurel </a></li><li><a href="/6079560">Caroline Guillot </a></li><li><a href="/3367556">Carreaux (Line) </a></li><li><a href="/5959716">Cathy K. </a></li><li><a href="/1723395">Cécile Hudrisier </a></li><li><a href="/251926">Ced </a></li><li><a href="/3130784">Ceddo </a></li><li><a href="/6270149">Cham </a></li><li><a href="/236962">Cib </a></li><li><a href="/360184">Ciia </a></li><li><a href="/7445061">Clémi </a></li><li><a href="/7191402">Clio de Frégon </a></li><li><a href="/329512">Cyrielle </a></li><li><a href="/924085">Cyril Trichet </a></li><li><a href="/5246154">David Revoy </a></li><li><a href="/701419">Davy </a></li><li><a href="/149104">Diglee </a></li><li><a href="/6906565">Djausdr </a></li><li><a href="/3385231">Djoina </a></li><li><a href="/6033344">Dorian Danielsen </a></li><li><a href="/56755">Drawer </a></li><li><a href="/296330">Dreamy </a></li><li><a href="/3723219">elene </a></li><li><a href="/1126820">Eo </a></li><li><a href="/3947494">Erika Meza </a></li><li><a href="/2273567">Etienne </a></li><li><a href="/3551550">Évelyne Louvre-Blondeau </a></li><li><a href="/6911739">exaheva </a></li><li><a href="/501128">Fabien T. </a></li><li><a href="/601">Fabrice Tarrin  </a></li><li><a href="/7228338">Faustine </a></li><li><a href="/3254029">Faz </a></li><li><a href="/75019">Félix Laurent </a></li><li><a href="/585884">FM66 </a></li><li><a href="/4520846">Fortu </a></li><li><a href="/2634880">Foya </a></li><li><a href="/6223449">Frédéric Noens </a></li><li><a href="/504093">Frédéric Peynet </a></li><li><a href="/96830">Gally </a></li><li><a href="/4573181">Gary Maël </a></li><li><a href="/6716462">Geoffroy Monde </a></li><li><a href="/1306557">Giulia Jones </a></li><li><a href="/135164">Gorobei </a></li><li><a href="/4879418">Graphi’kats </a></li><li><a href="/294080">Grelin </a></li><li><a href="/384847">Grinette </a></li><li><a href="/2809700">Guillaume Boutanox </a></li><li><a href="/595081">Gumli </a></li><li><a href="/1765774">Hibi </a></li><li><a href="/1839532">HUGO </a></li><li><a href="/1241197">Ibealia </a></li><li><a href="/1702148">ideo </a></li><li><a href="/3486043">Iléana </a></li><li><a href="/6213204">Isacile </a></li><li><a href="/10994">Iza </a></li><li><a href="/3278900">Janine </a></li><li><a href="/1077070">JC </a></li><li><a href="/1367929">Jérémie Decalf </a></li><li><a href="/629686">Jibé </a></li><li><a href="/7114747">Jihad Eliassa </a></li><li><a href="/73510">Johan Vinet</a></li><li><a href="/7218285">Jul </a></li><li><a href="/7485417">Julie Olivier </a></li><li><a href="/158732">Julien Maysonnave</a></li><li><a href="/2010">Julien Dinkel </a></li><li><a href="/6284734">Julien Revenu </a></li><li><a href="/6263313">Juliette Boutant </a></li><li><a href="/1889347">K3vin </a></li><li><a href="/585924">Katia Even </a></li><li><a href="/609714">kek </a></li><li><a href="/3849110">Kevin Pixel </a></li><li><a href="/854215">Kichi </a></li><li><a href="/5349734">KJF </a></li><li><a href="/485664">KL </a></li><li><a href="/2221891">Klakette </a></li><li><a href="/6185381">La Gourde </a></li><li><a href="/6340342">La PE </a></li><li><a href="/1161841">Laetitia Coryn </a></li><li><a href="/5673873">Lauriane Blanchard </a></li><li><a href="/1973464">Laury </a></li><li><a href="/4382192">Le Burp </a></li><li><a href="/5649560">Le Cil Vert </a></li><li><a href="/5909927">Lematt </a></li><li><a href="/2556562">Lemo </a></li><li><a href="/1690976">Lénaïc </a></li><li><a href="/349381">Leslie Plée </a></li><li><a href="/408927">Lilla </a></li><li><a href="/88703">Line Tship</a></li><li><a href="/1121910">Lison Bernet </a></li><li><a href="/865548">Ln </a></li><li><a href="/224203">Lommsek </a></li><li><a href="/67280">Looky </a></li><li><a href="/7296394">Louis-Bertrand Devaud </a></li><li><a href="/353410">Lu-Ne </a></li><li><a href="/687954">Luan </a></li><li><a href="/4647705">Luchie </a></li><li><a href="/3240350">Lucile Gomez </a></li><li><a href="/176028">Lychen </a></li><li><a href="/7393702">M.Roda </a></li><li><a href="/324337">Mad'moiselle C </a></li><li><a href="/126398">Madd </a></li><li><a href="/4572371">Madel </a></li><li><a href="/499993">Mady </a></li><li><a href="/986319">Maëlle C. </a></li><li><a href="/2317672">Maïlys </a></li><li><a href="/5232180">Malec </a></li><li><a href="/63388">Mara </a></li><li><a href="/67127">Margaux Motin</a></li><li><a href="/311302">Margaux Motin</a> et Pacco</li><li><a href="/225387">Marie </a></li><li><a href="/1006689">Marie Ecarlat </a></li><li><a href="/3583514">Marie Ecarlat</a> et Paka</li><li><a href="/448241">Marie Spénale </a></li><li><a href="/7246726">MarieMisere </a></li><li><a href="/6634225">Martin Singer </a></li><li><a href="/4315">Martin Vidberg </a></li><li><a href="/717189">Maskim </a></li><li><a href="/6992">Massala.K </a></li><li><a href="/777900">Mathilde Domecq </a></li><li><a href="/12046">Maud Gironnay</a> #12046</li><li><a href="/1227">Maud Gironnay</a> #1227</li><li><a href="/1070">Maud Gironnay</a> #1070</li><li><a href="/483">Maud Gironnay</a> #483</li><li><a href="/12234">Mélody Faber</a></li><li><a href="/7300409">Michel Pelini </a></li><li><a href="/4140255">Mipou </a></li><li><a href="/4374900">Miss Holly </a></li><li><a href="/1717507">Miss P </a></li><li><a href="/199379">Missbean </a></li><li><a href="/2709220">Molossy </a></li><li><a href="/266524">Momo </a></li><li><a href="/145104">Monsieur Dream </a></li><li><a href="/2305980">Monsieur Le Chat Noir </a></li><li><a href="/432069">Monsieur Mouk </a></li><li><a href="/7353000">Monsieur To </a></li><li><a href="/90872">Mr Choubi </a></li><li><a href="/702563">Muscarine </a></li><li><a href="/2698841">Nalley </a></li><li><a href="/146300">Nathalie Jomard</a></li><li><a href="/301439">Navo </a></li><li><a href="/1487945">Nayth </a></li><li><a href="/988967">Nephyla </a></li><li><a href="/298911">nesk </a></li><li><a href="/87676">Nils </a></li><li><a href="/3056821">Nineland </a></li><li><a href="/696517">Nini </a></li><li><a href="/283311">Noë </a></li><li><a href="/205901">Obion </a></li><li><a href="/6063534">Odett </a></li><li><a href="/6129047">OLB </a></li><li><a href="/3971211">Olivagogo </a></li><li><a href="/3085761">Olivier Tichit </a></li><li><a href="/2395974">Ood Serriere </a></li><li><a href="/273837">Pacco </a></li><li><a href="/311302">Pacco</a> et Margaux Motin</li><li><a href="/3583514">Paka </a> et Marie Ecarlat</li><li><a href="/60745">Paka </a></li><li><a href="/6867930">Pauline Perrolet </a></li><li><a href="/9131">Pénélope Bagieu</a></li><li><a href="/7265192">Philippe Scherding  </a></li><li><a href="/4017823">Philippe Valette </a></li><li><a href="/6184322">Pich </a></li><li><a href="/373597">Pierre </a></li><li><a href="/890897">Pierrot </a></li><li><a href="/7122846">Pierrotlefou </a></li><li><a href="/29579">PirateSourcil </a></li><li><a href="/110796">Pit </a></li><li><a href="/3828050">Poca </a></li><li><a href="/7483520">Polinko </a></li><li><a href="/1373528">Pollen </a></li><li><a href="/4345790">Proctor </a></li><li><a href="/5545890">Ptid </a></li><li><a href="/1860085">Pueblo </a></li><li><a href="/5310196">Raf </a></li><li><a href="/2937060">Raoul Paoli </a></li><li><a href="/894151">Rej </a></li><li><a href="/615598">Romain Pujol </a></li><li><a href="/5348997">Romain Ronzeau </a></li><li><a href="/6191585">Roxy Lapassade </a></li><li><a href="/852056">Saboten </a></li><li><a href="/2472108">Sambour </a></li><li><a href="/1812012">Samkat </a> #1812012</li><li><a href="/3819484">Samkat </a>et Zukuzu</li><li><a href="/2505884">Sarell </a></li><li><a href="/4886564">Saulne </a></li><li><a href="/3358473">Sess </a></li><li><a href="/741577">Silver </a></li><li><a href="/179320">Simon Mitteault </a></li><li><a href="/268241">Sitron </a></li><li><a href="/490134">Soph' </a></li><li><a href="/3327135">Soulcié </a></li><li><a href="/367542">Staff </a></li><li><a href="/1749809">Stan Silas </a></li><li><a href="/184615">Stivo </a></li><li><a href="/2292664">STUPE </a></li><li><a href="/6977265">Suzi </a></li><li><a href="/256892">Sway </a></li><li><a href="/2940448">Sylvain Euriot </a></li><li><a href="/6227788">Théo Calméjane </a></li><li><a href="/2944891">thibaut rassat </a></li><li><a href="/5279582">Thomas Mathieu </a></li><li><a href="/4627608">Thomas Priou </a></li><li><a href="/437157">Thorn </a></li><li><a href="/291570">Timoon </a></li><li><a href="/4925553">Tomz </a></li><li><a href="/4674844">Tristan </a></li><li><a href="/6443585">TWOFLAG </a></li><li><a href="/324747">Unter </a></li><li><a href="/281032">Valentine Lilien </a></li><li><a href="/6254051">Vallale </a></li><li><a href="/7234534">ValMo </a></li><li><a href="/5204392">Valp </a></li><li><a href="/95008">Vincent </a></li><li><a href="/7004159">Violette Gentilleau </a></li><li><a href="/2944983">Virjainie </a></li><li><a href="/201653">Waltch </a></li><li><a href="/1729451">WAYNE </a></li><li><a href="/2246960">Wouzit </a></li><li><a href="/1280039">Xiu </a></li><li><a href="/2233741">Yatuu </a></li><li><a href="/359219">Yllya </a></li><li><a href="/451894">Yod@ </a></li><li><a href="/212321">Yohan </a></li><li><a href="/317222">Yrgane </a></li><li><a href="/1535565">Zélie </a></li><li><a href="/5694693">Ztnarf </a></li><li><a href="/4585612">Zukuzu </a></li><li><a href="/3342116">Zö </a></li><li><a href="/3819484">Zukuzu</a> et Samkat</li></ul></div>﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

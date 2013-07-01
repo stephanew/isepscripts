@@ -1,0 +1,2 @@
+Hello World, 
+curl http://www.viedemerde.fr | grep -w "amour" | wc -l 
