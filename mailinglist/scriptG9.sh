@@ -19,6 +19,7 @@ function pause(){
 if [ $# -eq 0 ]; then
 	echo "Entrez un nom de fichier mailinglist"
 else
+	clear
 	echo "--- Statistiques sur la mailing list '$1'"
 	echo " "
 
@@ -44,19 +45,21 @@ else
 	echo " "
 
 	# -- NOMBRE DE MOTS PAR MAILS
-	COUNTMAILS=`grep "(?<=^From: ).+(?= at)" $1 -Po | wc -l | sed -e 's/^[ \t]*//'`
+	COUNTMAILS=`grep "^From: .+ at" $1 -Po | wc -l | sed -e 's/^[ \t]*//'`
 	# La commande bc permet d'effectuer l'opération de division
-	echo $(echo "$TOTALWORDS / $COUNTMAILS" | bc -l )
+	FLOAT=`echo "$TOTALWORDS / $COUNTMAILS" | bc -l`
+	echo ${FLOAT/.*}
+	pause
+
+	echo "-- JOURS D'ENVOIS"
+	echo " "
+	grep "^From .+ at .+$" $1 -Po | grep "(Sun|Mon|Tue|Wed|Thu|Fri|Sat|Sun)" -Po | sort -rn -k1 | uniq -c | sort -rn -k1 | head -n 15
 	pause
 
 	# -- MAILS PAR MOIS
 	echo "-- MOIS D'ENVOIS"
 	echo " "
-	grep "^From .+ at .+$" $1 -Po | grep "(?<=(Sun|Mon|Tue|Wed) )[\w]+(?= \d)" -Po | sort -rn -k1 | uniq -c | sort -rn -k1 | head -n 15
+	grep "^From .+ at .+$" $1 -Po | grep "(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)" -Po | sort -rn -k1 | uniq -c | sort -rn -k1 | head -n 15
 	pause
-
-
-
-
 
 fi
