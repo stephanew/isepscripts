@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="Blog VDM : La VDM illustrée de M.Roda" />
+	<meta name="description" content="Contenu de l'article : Bonjour mes petits ! C&#39;est samediiii. Et le samediiii, c&#39;est VDM illustr&eacute;e ! J&#39;esp&egrave;re que tout le monde a fini son plat… Lire la suite" />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn5.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn3.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>Blog VDM : La VDM illustrée de M.Roda</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="Blog VDM : La VDM illustrée de M.Roda"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/blog/1541"/>
+	<meta property="og:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Contenu de l'article : Bonjour mes petits ! C&#39;est samediiii. Et le samediiii, c&#39;est VDM illustr&eacute;e ! J&#39;esp&egrave;re que tout le monde a fini son plat… Lire la suite"/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/blog/1541">
+	<meta name="twitter:title" content="Blog VDM : La VDM illustrée de M.Roda">
+	<meta name="twitter:description" content="Contenu de l'article : Bonjour mes petits ! C&#39;est samediiii. Et le samediiii, c&#39;est VDM illustr&eacute;e ! J&#39;esp&egrave;re que tout le monde a fini son plat… Lire la suite">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn3.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/blog">Blog</a> &rarr; <a href="/blog/1541">La VDM illustrée de M.Roda</a></p></div><a id="top"></a><div class="post bordered menublog"><p><a href=/blog>Accueil du blog</a> | <a href=http://feeds.feedburner.com/blogdemerde>Fil RSS des billets</a> | <a href=/blog/tout>Tous les billets</a></p><a href="/blog/categ/8">VDM illustrée</a> (251) - <a href="/blog/categ/1">L'actualité VDM</a> (70) - <a href="/blog/categ/15">Jeux et concours</a> (45)</div><div class="post"><h3>La VDM illustrée de M.Roda</h3><div class="h3_placeholder"></div><div class="blog"><p>Bonjour mes petits ! C&#39;est samediiii. Et le samediiii, c&#39;est VDM illustr&eacute;e ! J&#39;esp&egrave;re que tout le monde a fini son plat de lasagnes, que tout le monde a fait sa petite lettre d&#39;adieu au Pape, que vous avez &eacute;chapp&eacute; &agrave; <a href="http://i.minus.com/ibeJ65Myr6PNPB.gif">la m&eacute;t&eacute;orite russe</a>&nbsp;et que vous avez <a href="http://i.imgur.com/ojRvIDg.gif">bien dormi</a>.</p>
+
+<p>Notre artiste de la semaine, lui, a l&#39;air de plut&ocirc;t bien se porter. Il est fin pr&ecirc;t pour r&eacute;pondre &agrave; nos questions avec son humour d&eacute;vastateur alors allons-y ! C&#39;est quoi son pseudo ?&nbsp;M.Roda.<em> &quot;Je m&#39;appelle comme &ccedil;a car j&#39;ai le m&ecirc;me physique que M.Pokora et la coiffure de M.&quot;&nbsp;<img alt="" src="http://cdn.betacie.com/viedemerde/julien/roda1.png" style="width: 161px; height: 155px; float: left; " /></em>Sinon, il a 30 ans et il a plusieurs sites :&nbsp;<strong><a href="http://nekoroda.blogspot.fr/">M&eacute;moire s&eacute;lective</a></strong>, un blog o&ugrave; il met ses illustrations et des BD&nbsp;(<em>&quot;Il y a des couleurs et des fois, &ccedil;a pique les yeux.&quot;</em>)<em>, </em><strong><a href="http://bederap.blogspot.fr">BD + RAP</a></strong>, un blog o&ugrave; il illustre des chansons de rap (<em>&quot;L&agrave; c&#39;est en noir et blanc et &ccedil;a rigole pas trop.&quot;</em>) et <a href="http://mroda.ultra-book.com"><strong>son ultra book</strong></a> pour regarder son best of. Ah et sinon, quand on lui demande o&ugrave; il vit, il nous fait la liste des villes de son c&oelig;ur. Du coup, la voici : <em>&quot;Mantes la Jolie, Marcilly la Campagne, Rouen, Caen, Paris et Niort&quot;</em>.&nbsp;</p>
+
+<p>Et puisque notre invit&eacute; est si bien parti, laissons-le nous expliquer ce qu&#39;il fait dans la vie. <em>&quot;Dans la vraie vie, je suis prof d&rsquo;arts plastiques. Sinon, je fais des illustrations et des BD avec mon association Nekomix. Mais bient&ocirc;t, j&#39;arr&ecirc;te toutes ces futilit&eacute;s pour devenir une star de la chanson. J&#39;ai d&eacute;j&agrave; &agrave; mon actif deux concerts dans une pizz&eacute;ria d&#39;Angoul&ecirc;me.&quot;</em></p>
+
+<p>Comment on en arrive l&agrave; ? Eh bien, avec un sacr&eacute; parcours ! Jugez plut&ocirc;t !<em> &quot;J&#39;ai &eacute;t&eacute; &agrave; la maternelle, en primaire, au coll&egrave;ge, au lyc&eacute;e et aux Beaux arts. Pendant toutes ces ann&eacute;es, je dessinais en classe. Apr&egrave;s, je suis devenu prof. C&#39;est mieux d&#39;&ecirc;tre prof car c&#39;est moi qui d&eacute;cide de ce qu&#39;on fait. En plus, je suis le prof d&#39;arts plastiques donc tout le monde peut dessiner sans se faire gronder.&quot;</em></p>
+
+<p>Qu&#39;est-ce qu&#39;il aime dans ce qu&#39;il fait ? Qu&#39;est-ce qui lui manque ? <em>&quot;J&#39;aime bien quand&nbsp;j&#39;ai fini de dessiner, je peux enfin jouer &agrave; Mario. Il me manque encore 20 &eacute;toiles et en plus, c&#39;est pas facile d&#39;attraper toutes ces petites pi&egrave;ces violettes.&quot;</em></p>
+
+<p>Son actualit&eacute;, c&#39;&eacute;tait r&eacute;cemment un concert fin janvier dans une pizz&eacute;ria d&#39;Angoul&ecirc;me donc. Il va maintenant partir en tourn&eacute;e et il donne rendez-vous &agrave; ses fans fin octobre &agrave; St Malo. Le concert dans la cr&ecirc;perie sera &agrave; la fois plus foufou et intimiste, comme on peut s&#39;en douter.</p>
+
+<p>Ses projets sont bien d&eacute;finis en tout cas :<em> &quot;Gagner une victoire de la musique, sc&eacute;nariser les X Men aux &Eacute;tats-Unis et finir Dragon Quest 8 (j&#39;ai d&eacute;j&agrave; jou&eacute; 2 heures, encore 118 heures et c&#39;est bon).&quot;</em></p>
+
+<p>Et on passe &agrave; la suite !</p>
+
+<p><strong>Plut&ocirc;t beurre doux ou beurre sal&eacute; ?</strong><br />
+Plut&ocirc;t sal&eacute;, mais sans beurre. J&#39;ai toujours pr&eacute;f&eacute;r&eacute; le sal&eacute;. Petit, au go&ucirc;ter, je prenais du pain avec du pat&eacute;, de la mayonnaise et des cornichons. En plus, je mange jamais de dessert.</p>
+
+<p><strong>Plut&ocirc;t chat ou chien ? </strong><br />
+Chat.&nbsp;Je d&eacute;teste les chiens, tous les chiens. Dans la vie,&nbsp;faut choisir son camp.&nbsp;En plus, le logo de mon association <a href="http://www.Nekomix.com">Nekomix</a> est un chat. Normal : les chats assurent !</p>
+
+<p><strong>Tes derniers coups de coeur en cin&eacute;ma, musique, livres et BD ?</strong><br />
+L&#39;int&eacute;grale d&#39;Hercule et X&eacute;na, Les Royal Rumble de la WWF de 1988 &agrave; 1999, les X Men de 1963 &agrave; 2013 et le rap fran&ccedil;ais de 1990 &agrave; 2013.</p>
+
+<p><strong>Quels sont les principaux artistes que tu appr&eacute;cies et dont tu visites r&eacute;guli&egrave;rement le blog ?</strong><br />
+J&#39;aime beaucoup le blog de <a href="http://www.gameblog.fr/blogs/yao/">Yao</a>&nbsp;et de <a href="http://erwann.surcouf.free.fr/doubleplusbon/">Erwann Surcouf</a>.&nbsp;Ils sont vraiment forts (surtout &agrave; Street Fighter et au jeu E.T.).&nbsp;J&#39;appr&eacute;cie &eacute;galement le travail de <a href="http://phicil.canalblog.com/">Phicil</a>.&nbsp;C&#39;est trop mignon comment il dessine les animaux. Enfin, ma coloriste pr&eacute;f&eacute;r&eacute;e est <a href="http://chezdrac.fr/WordPress/">Drac</a>.&nbsp;Elle est tr&egrave;s forte pour colorier sans d&eacute;passer.&nbsp;Sinon, pour compenser, je vais profiter de l&#39;occasion pour dire du mal de Mickael Roux car je le d&eacute;teste vraiment. Il dessine mal les pirates et en plus il a les m&ecirc;me initiales que moi.<img alt="" src="http://cdn.betacie.com/viedemerde/julien/roda2.png" style="width: 175px; height: 188px; float: right; " /></p>
+
+<p><strong>Dis-nous ce que tu aimes dans la vie, tes passions, tes passe-temps, tes vices, tes petits plaisirs du quotidien.</strong><br />
+Dans la vie, j&#39;aime jouer &agrave; la Nes, &agrave; la Super Nintendo, &agrave; la Nintendo 64, &agrave; la Game cube, &agrave; la Wii, &agrave; la Game boy, &agrave; la Game Boy Advance, &agrave; la DS, &agrave; la 3DS, &agrave; la PS1, 2, 3, &agrave; la PSP, &agrave; la M&eacute;gadrive, &agrave; la Dreamcast et la Xbox. Sinon, quand il me reste du temps, j&#39;aime bien dessiner des bonhommes.&nbsp;</p>
+
+<p><strong>Tu nous racontes une blague pourrie ? Joker possible : si tu n&#39;as pas&nbsp;de blague, on veut conna&icirc;tre ta plus grosse VDM.</strong><br />
+C&#39;est l&#39;histoire de 2 squelettes qui sont au bord d&#39;un ravin :<br />
+&quot;Vas-y, saute !&quot;<br />
+&quot;- Non, t&#39;es fou, je tiens &agrave; ma peau...&quot;</p>
+
+<p><strong>As-tu une phobie ? Si oui, laquelle ?</strong><br />
+Les parapluies ! J&#39;imagine souvent que je marche&nbsp;sous la pluie dans la rue avec rien pour me prot&eacute;ger et soudain, BIM ! Une rafale m&#39;aveugle et BIM ! Une personne devant moi manque de m&#39;&eacute;borgner avec son parapluie ! Horrible !&nbsp;</p>
+
+<p><strong>Pour finir, pose-toi une question que tu aurais aim&eacute; que l&#39;on te pose&nbsp;et choisis d&#39;y r&eacute;pondre ou pas.</strong><br />
+M.Roda, quel est votre X men pr&eacute;f&eacute;r&eacute; ? &quot;- Houla, lala, pas facile comme question &ccedil;a... J&#39;en aime tellement... Heu, je vais dire &quot;Cable&quot; parce qu&#39;il est plus vieux que son p&egrave;re et &ccedil;a c&#39;est la classe.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center; "><a href="http://www.viedemerde.fr/inclassable/7393702"><strong>Et pour voir la VDM illustr&eacute;e de la semaine, tu cliques ici.</strong></a></p>
+
+<p>&nbsp;</p>
+
+<p>Je vous mets de la vid&eacute;o avec tout &ccedil;a hein ? Vous l&#39;emporterez et vous la consommerez ce week-end, pendant que c&#39;est encore chaud ! La premi&egrave;re est un peu d&eacute;gueulasse mais moi, elle m&#39;a fait beaucoup rire. Un mec se lance le d&eacute;fi de manger plein de trucs piment&eacute;s et il prend tr&egrave;s tr&egrave;s cher. <a href="http://www.youtube.com/watch?v=F-Ww2D4a3IM">&Agrave; voir ici</a>. Sinon, un classique, Turn Me On de David Guetta et Nicki Minaj <a href="http://www.youtube.com/watch?v=aJA-Tfbbtdg">en version moustache</a>. &Agrave; la semaine prochaine !</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Vous avez du talent et souhaitez participer &agrave; une prochaine VDM illustr&eacute;e ?</strong> Envoyez-moi un e-mail sur julien@viedemerde.fr en n&#39;oubliant pas de me communiquer l&#39;adresse de votre blog ou quelques-unes de vos &oelig;uvres.&nbsp;</p>
+
+</div><span class="date"><a href="/blog/1541">#1541</a> - <a href="/blog/categ/8">VDM illustrée</a> - Le 15/02/2013 à 17:02 par Julien - 21 commentaires</span>
+</div>
+<div class="post"><a href="https://twitter.com/share" class="twitter-share-button" data-via="viedemerde" data-lang="fr">Tweeter</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.viedemerde.fr%2Fblog%2F1541&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;font&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:20px;" allowTransparency="true"></iframe><g:plusone size="medium"></g:plusone><script type="text/javascript">
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script></div><div class="post"><h3>Meilleurs commentaires</h3><div class="h3_placeholder"></div></div><div class="post" id="c7662646" data-postid="7662646"><div class="right"><div class="thumbs"><span class="thumbdown"></span> <span class="thumbup"></span></div></div><p class="texte">c'est coloré et frais... ? Normal pour une VDM chez un coiffeur, mais bon... (^^)</p><div class="avatar_container"><a href="/membre/194605" title="La Tendresse"><img src="http://media.viedemerde.fr/fmylife/data/fr/membres/icon/5bd581a27c81e99b18199ef96b4e72f3.jpg" class="avatar blue" /></a></div><div class="userinfos"><p><a href="#c_7662646">#1</a> - Le 16/02/2013 à 17:21 par <b><a class="pseudo" href="/membre/194605">La Tendresse</a></b></p><p><a href="#c_7662646">Voir le contexte</a></p></div><p class="right little badgeslinks gold"><span>+5</span> | <a href="/membre/194605#badges">31</a></p></div>
+<div class="post" id="c7662655" data-postid="7662655"><div class="right"><div class="thumbs"><span class="thumbdown"></span> <span class="thumbup"></span></div></div><p class="texte">Superbe illu, superbe présentation, superbes vidéos...BREF !<br />
+Super :)</p><div class="avatar_container"><a href="/membre/1075922" title="Melodor"><img src="http://media.viedemerde.fr/fmylife/data/fr/membres/icon/4382c6f14e8da542d5c6228e414ccd5d.jpg" class="avatar blue" /></a></div><div class="userinfos"><p><a href="#c_7662655">#2</a> - Le 16/02/2013 à 17:29 par <b><a class="pseudo" href="/membre/1075922">Melodor</a></b></p><p><a href="#c_7662655">Voir le contexte</a></p></div><p class="right little badgeslinks gold"><span>+2</span> | <a href="/membre/1075922#badges">13</a></p></div>
+<div class="post"><h3>Commentaires</h3><div class="h3_placeholder"></div></div><div class="comments_display" data-type="blog_posts" data-id="1541" data-lastid="0" data-load="true"><p class="loading">Chargement...</p></div><div class="post"><h3>Commentaires</h3><div class="h3_placeholder"></div></div><div class="post green"><p class="center">Votre commentaire doit respecter <b><a target=_blank href=/commentaires/charte>notre charte</a></b>. Vous pourrez l'éditer pendant deux minutes.</p></div><div class="post"><a id="commenter"></a><p class="right"><a href="#top">Haut de la page</a></p><p>Pour pouvoir commenter, vous devez être membre du site VDM.</p><p>Vous n'avez pas encore de compte membre ? <a href=/inscription>Inscrivez-vous</a> !</p></div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

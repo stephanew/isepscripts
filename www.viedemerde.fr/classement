@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="Vie de merde : Vos histoires de la vie quotidienne" />
+	<meta name="description" content="Ma vie c'est de la merde, et je vous emmerde. Partagez vos petits malheurs et drôles d'histoires de la vie quotidienne sur VDM." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn2.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>Vie de merde : Vos histoires de la vie quotidienne</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="Vie de merde : Vos histoires de la vie quotidienne"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/classement"/>
+	<meta property="og:image" content="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Ma vie c'est de la merde, et je vous emmerde. Partagez vos petits malheurs et drôles d'histoires de la vie quotidienne sur VDM."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/classement">
+	<meta name="twitter:title" content="Vie de merde : Vos histoires de la vie quotidienne">
+	<meta name="twitter:description" content="Ma vie c'est de la merde, et je vous emmerde. Partagez vos petits malheurs et drôles d'histoires de la vie quotidienne sur VDM.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn3.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div>
+<div class="post">
+
+<h3>Le classement des modérateurs</h3>
+
+<div class="h3_placeholder"></div>
+
+Le classement ci-dessous est réinitialisé tous les trois mois. En fonction de votre position au moment de la
+	réinitialisation, vous pourrez remporter un badge couleur or (de 1 à 10), argent (de 11 à 100) ou bronze (de 101 à
+	500). Dernière réinitialisation : 31/03/2013.
+<div class="classement">
+
+<div class="item highlight">
+	<div class="login"><strong>Membre</strong></div>
+	<div class="infos">
+		<div class="score"><strong>Score</strong></div>
+		<div class="place"><strong>Place</strong></div>
+		<div class="evolution"><strong>Évolution</strong></div>
+	</div>
+</div>
+
+<div class="item first"><div class="login"><a href="/membre/2025347">Elodie_86</a></div><div class="infos"><div class="score">20 575,50</div><div class="place">1</div><div class="evolution"><span style="color: #347531;">+1</span></div></div></div>
+<div class="item second"><div class="login"><a href="/membre/1655278">laloose_GT</a></div><div class="infos"><div class="score">20 091,10</div><div class="place">2</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item third"><div class="login"><a href="/membre/55173">Athena83</a></div><div class="infos"><div class="score">13 231,70</div><div class="place">3</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2674985">Alprazolam025</a></div><div class="infos"><div class="score">11 582,20</div><div class="place">4</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2780647">Lau_7459</a></div><div class="infos"><div class="score">7 647,30</div><div class="place">5</div><div class="evolution"><span style="color: #347531;">+2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1786999">magicbyb</a></div><div class="infos"><div class="score">7 380,53</div><div class="place">6</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2673803">jerome_i</a></div><div class="infos"><div class="score">6 932,91</div><div class="place">7</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/256319">brunlich</a></div><div class="infos"><div class="score">6 499,51</div><div class="place">8</div><div class="evolution"><span style="color: #347531;">+3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2769472">ptitbou5</a></div><div class="infos"><div class="score">5 951,17</div><div class="place">9</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/272615">yollo</a></div><div class="infos"><div class="score">5 898,45</div><div class="place">10</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2683980">Keynn</a></div><div class="infos"><div class="score">5 551,79</div><div class="place">11</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/60455">natou42</a></div><div class="infos"><div class="score">5 487,85</div><div class="place">12</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2765067">Kendy25</a></div><div class="infos"><div class="score">5 245,48</div><div class="place">13</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1792495">Calabria05</a></div><div class="infos"><div class="score">5 157,37</div><div class="place">14</div><div class="evolution"><span style="color: #347531;">+3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1864156">symsam</a></div><div class="infos"><div class="score">5 003,39</div><div class="place">15</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2773913">nouanda</a></div><div class="infos"><div class="score">4 965,22</div><div class="place">16</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/404518">fanfan2</a></div><div class="infos"><div class="score">4 874,08</div><div class="place">17</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2765100">claire07B</a></div><div class="infos"><div class="score">4 825,21</div><div class="place">18</div><div class="evolution"><span style="color: #347531;">+15</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2750055">Granoo</a></div><div class="infos"><div class="score">4 757,79</div><div class="place">19</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1131271">MyWorld</a></div><div class="infos"><div class="score">4 727,99</div><div class="place">20</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2742225">ChasseurDeCourbe</a></div><div class="infos"><div class="score">4 719,44</div><div class="place">21</div><div class="evolution"><span style="color: #347531;">+2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2765513">mamzelle_emael</a></div><div class="infos"><div class="score">4 664,87</div><div class="place">22</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2677831">Jexx42</a></div><div class="infos"><div class="score">4 416,20</div><div class="place">23</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1098098">Cyrano31</a></div><div class="infos"><div class="score">4 405,57</div><div class="place">24</div><div class="evolution"><span style="color: #347531;">+1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/75839">Glossy-girl</a></div><div class="infos"><div class="score">4 373,28</div><div class="place">25</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2643565">nico31700</a></div><div class="infos"><div class="score">4 370,76</div><div class="place">26</div><div class="evolution"><span style="color: #347531;">+17</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2783524">evaparker</a></div><div class="infos"><div class="score">4 314,83</div><div class="place">27</div><div class="evolution"><span style="color: #347531;">+3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2731957">Entwoane</a></div><div class="infos"><div class="score">4 292,48</div><div class="place">28</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2699976">Larya13</a></div><div class="infos"><div class="score">4 251,52</div><div class="place">29</div><div class="evolution"><span style="color: #753131;">-5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2768083">Aria08</a></div><div class="infos"><div class="score">4 194,06</div><div class="place">30</div><div class="evolution"><span style="color: #347531;">+15</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1070840">Tiakems</a></div><div class="infos"><div class="score">4 162,05</div><div class="place">31</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2711668">Plaid</a></div><div class="infos"><div class="score">4 081,42</div><div class="place">32</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/682410">PRESSMAN</a></div><div class="infos"><div class="score">4 046,87</div><div class="place">33</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1830465">babylonia</a></div><div class="infos"><div class="score">4 014,16</div><div class="place">34</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2729290">ylanglecat</a></div><div class="infos"><div class="score">3 966,16</div><div class="place">35</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2782386">petitegodzilla</a></div><div class="infos"><div class="score">3 857,73</div><div class="place">36</div><div class="evolution"><span style="color: #347531;">+27</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1097360">lazguil</a></div><div class="infos"><div class="score">3 757,40</div><div class="place">37</div><div class="evolution"><span style="color: #753131;">-5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/63505">Grimgrim</a></div><div class="infos"><div class="score">3 676,69</div><div class="place">38</div><div class="evolution"><span style="color: #753131;">-4</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/93165">yogg-sototh</a></div><div class="infos"><div class="score">3 581,72</div><div class="place">39</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2765519">Koraly42</a></div><div class="infos"><div class="score">3 484,63</div><div class="place">40</div><div class="evolution"><span style="color: #753131;">-1</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2769283">Angel3059</a></div><div class="infos"><div class="score">3 425,17</div><div class="place">41</div><div class="evolution"><span style="color: #753131;">-4</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2640509">CookiesMan</a></div><div class="infos"><div class="score">3 422,49</div><div class="place">42</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2166086">paquerette93</a></div><div class="infos"><div class="score">3 416,54</div><div class="place">43</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1574472">ninilanouille</a></div><div class="infos"><div class="score">3 399,53</div><div class="place">44</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2558726">Gountch</a></div><div class="infos"><div class="score">3 382,02</div><div class="place">45</div><div class="evolution"><span style="color: #347531;">+14</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2738525">lulius</a></div><div class="infos"><div class="score">3 358,48</div><div class="place">46</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2735274">didjou</a></div><div class="infos"><div class="score">3 338,44</div><div class="place">47</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2775726">bmalcoeffe</a></div><div class="infos"><div class="score">3 312,94</div><div class="place">48</div><div class="evolution"><span style="color: #347531;">+5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2684395">Squel</a></div><div class="infos"><div class="score">3 296,29</div><div class="place">49</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2714090">moune2207</a></div><div class="infos"><div class="score">3 275,89</div><div class="place">50</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1222782">camille0793</a></div><div class="infos"><div class="score">3 263,16</div><div class="place">51</div><div class="evolution"><span style="color: #347531;">+3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/373861">psyco_mantis</a></div><div class="infos"><div class="score">3 259,98</div><div class="place">52</div><div class="evolution"><span style="color: #347531;">+9</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/127933">topjeje</a></div><div class="infos"><div class="score">3 255,99</div><div class="place">53</div><div class="evolution"><span style="color: #753131;">-5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2679927">Scoobidoubidou</a></div><div class="infos"><div class="score">3 239,32</div><div class="place">54</div><div class="evolution"><span style="color: #347531;">+21</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/85337">carodu59</a></div><div class="infos"><div class="score">3 223,86</div><div class="place">55</div><div class="evolution"><span style="color: #753131;">-5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/147148">Acedsl</a></div><div class="infos"><div class="score">3 204,03</div><div class="place">56</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1430738">Petite_patate</a></div><div class="infos"><div class="score">3 201,80</div><div class="place">57</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2694788">Corazon78</a></div><div class="infos"><div class="score">3 174,36</div><div class="place">58</div><div class="evolution"><span style="color: #347531;">+6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2732204">Babynis</a></div><div class="infos"><div class="score">3 166,98</div><div class="place">59</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2773488">Mazoulaprune</a></div><div class="infos"><div class="score">3 156,90</div><div class="place">60</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2630434">marceagathy</a></div><div class="infos"><div class="score">3 136,76</div><div class="place">61</div><div class="evolution"><span style="color: #347531;">+8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/677832">fmr_fmr</a></div><div class="infos"><div class="score">3 129,84</div><div class="place">62</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/59343">mag-chan</a></div><div class="infos"><div class="score">3 102,14</div><div class="place">63</div><div class="evolution"><span style="color: #347531;">+5</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2710155">Maayaa</a></div><div class="infos"><div class="score">3 098,78</div><div class="place">64</div><div class="evolution"><span style="color: #753131;">-9</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1769780">cacolazatchok</a></div><div class="infos"><div class="score">3 087,99</div><div class="place">65</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/175128">Mikado38</a></div><div class="infos"><div class="score">3 046,81</div><div class="place">66</div><div class="evolution"><span style="color: #999999;">+0</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2752322">felinvert</a></div><div class="infos"><div class="score">3 037,99</div><div class="place">67</div><div class="evolution"><span style="color: #347531;">+36</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2747895">lolozoulette</a></div><div class="infos"><div class="score">3 036,44</div><div class="place">68</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2765384">Chlagvuk</a></div><div class="infos"><div class="score">2 965,08</div><div class="place">69</div><div class="evolution"><span style="color: #347531;">+2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/204708">jijishadowitch</a></div><div class="infos"><div class="score">2 939,11</div><div class="place">70</div><div class="evolution"><span style="color: #347531;">+14</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2761066">Lerder2</a></div><div class="infos"><div class="score">2 917,11</div><div class="place">71</div><div class="evolution"><span style="color: #347531;">+2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/973484">pompinette63</a></div><div class="infos"><div class="score">2 884,64</div><div class="place">72</div><div class="evolution"><span style="color: #347531;">+10</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/87541">trefle47</a></div><div class="infos"><div class="score">2 877,72</div><div class="place">73</div><div class="evolution"><span style="color: #347531;">+25</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/109507">mlgv</a></div><div class="infos"><div class="score">2 870,88</div><div class="place">74</div><div class="evolution"><span style="color: #753131;">-9</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/863955">GolSun</a></div><div class="infos"><div class="score">2 849,27</div><div class="place">75</div><div class="evolution"><span style="color: #347531;">+16</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2745585">MaitreCoucou</a></div><div class="infos"><div class="score">2 833,83</div><div class="place">76</div><div class="evolution"><span style="color: #753131;">-4</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2589870">moizellejeanne</a></div><div class="infos"><div class="score">2 820,13</div><div class="place">77</div><div class="evolution"><span style="color: #753131;">-10</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2508534">Tikima</a></div><div class="infos"><div class="score">2 804,98</div><div class="place">78</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2781092">CiPi</a></div><div class="infos"><div class="score">2 780,35</div><div class="place">79</div><div class="evolution"><span style="color: #347531;">+9</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2779312">kirino93200</a></div><div class="infos"><div class="score">2 779,14</div><div class="place">80</div><div class="evolution"><span style="color: #753131;">-3</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2764184">Mzelledormeuse</a></div><div class="infos"><div class="score">2 775,78</div><div class="place">81</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2513506">Aurum</a></div><div class="infos"><div class="score">2 727,08</div><div class="place">82</div><div class="evolution"><span style="color: #347531;">+15</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/912367">Cannibayu</a></div><div class="infos"><div class="score">2 707,58</div><div class="place">83</div><div class="evolution"><span style="color: #347531;">+11</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/926983">Sevy79</a></div><div class="infos"><div class="score">2 696,32</div><div class="place">84</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2731109">Aubergiine</a></div><div class="infos"><div class="score">2 686,26</div><div class="place">85</div><div class="evolution"><span style="color: #347531;">+8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2738077">Zorrito</a></div><div class="infos"><div class="score">2 679,52</div><div class="place">86</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/77263">Horsy</a></div><div class="infos"><div class="score">2 664,66</div><div class="place">87</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2667763">Floxime</a></div><div class="infos"><div class="score">2 654,73</div><div class="place">88</div><div class="evolution"><span style="color: #753131;">-8</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2780928">Epicharme</a></div><div class="infos"><div class="score">2 627,37</div><div class="place">89</div><div class="evolution"><span style="color: #347531;">+135</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2557306">Lucie_luciole44</a></div><div class="infos"><div class="score">2 622,93</div><div class="place">90</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2773427">Butterfly98</a></div><div class="infos"><div class="score">2 609,40</div><div class="place">91</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1607106">ppulls</a></div><div class="infos"><div class="score">2 604,18</div><div class="place">92</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2776738">Veromanu</a></div><div class="infos"><div class="score">2 585,99</div><div class="place">93</div><div class="evolution"><span style="color: #753131;">-6</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2698073">CoD67KilleR</a></div><div class="infos"><div class="score">2 579,61</div><div class="place">94</div><div class="evolution"><span style="color: #347531;">+26</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2772071">lechti62</a></div><div class="infos"><div class="score">2 576,73</div><div class="place">95</div><div class="evolution"><span style="color: #753131;">-19</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/565349">Euraelle</a></div><div class="infos"><div class="score">2 558,24</div><div class="place">96</div><div class="evolution"><span style="color: #753131;">-7</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2781230">jeunemuls</a></div><div class="infos"><div class="score">2 550,69</div><div class="place">97</div><div class="evolution"><span style="color: #347531;">+16</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2716522">Millac</a></div><div class="infos"><div class="score">2 508,19</div><div class="place">98</div><div class="evolution"><span style="color: #753131;">-2</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/1703934">Willard</a></div><div class="infos"><div class="score">2 478,32</div><div class="place">99</div><div class="evolution"><span style="color: #347531;">+19</span></div></div></div>
+<div class="item"><div class="login"><a href="/membre/2215930">lif3p0wa</a></div><div class="infos"><div class="score">2 469,17</div><div class="place">100</div><div class="evolution"><span style="color: #753131;">-38</span></div></div></div>
+
+</div>
+
+</div>
+
+<div class="pagination"><ul class="left"><li class="active">1</li><li><a href="?page=1">2</a></li><li><a href="?page=2">3</a></li><li><a href="?page=3">4</a></li><li><a href="?page=4">5</a></li><li><a href="?page=5">6</a></li><li><a href="?page=6">7</a></li><li><a href="?page=7">8</a></li><li><a href="?page=8">9</a></li><li><a href="?page=9">10</a></li><li class="inactive"><a href="javascript:;" onclick="pageLauncher(this);">…</a></li><li><a href="?page=148">149</a></li></ul><ul class="right"><li class="inactive">&#171; Page précédente</li><li><a href="?page=1" >Page suivante &#187;</a></li></ul></div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn5.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

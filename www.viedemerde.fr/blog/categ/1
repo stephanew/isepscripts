@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Tout le blog" />
+	<meta name="description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn1.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Tout le blog</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Tout le blog"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/blog/categ/1"/>
+	<meta property="og:image" content="http://cdn2.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn2.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/blog/categ/1">
+	<meta name="twitter:title" content="VDM : Tout le blog">
+	<meta name="twitter:description" content="Les dessous de Viedemerde. Tout ce que vous voulez savoir sur le site VDM.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn2.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link rel="stylesheet" media="screen" type="text/css" href="/modules/accessibility/css.php" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 class=""><a href="/modules/accessibility/switch.php?act=disable" accesskey="9">Revenir à la version normale</a></h1><h1 class=""><a href="/accessibilite" accesskey="10">Configuration</a></h1><h1 id="user"><a href="" class="t_user" accesskey="11"></a></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/blog">Blog</a> &rarr; <a href="/blog/categ/1">L'actualité VDM</a></p></div><a id="top"></a><div class="post bordered menublog"><p><a href=/blog>Accueil du blog</a> | <a href=http://feeds.feedburner.com/blogdemerde>Fil RSS des billets</a> | <a href=/blog/tout>Tous les billets</a></p><a href="/blog/categ/8">VDM illustrée</a> (251) - <a href="/blog/categ/1"><b>L'actualité VDM</b></a> (70) - <a href="/blog/categ/15">Jeux et concours</a> (45)</div><div class="post"><h3><a href="/blog/1537">Bienvenue sur l'application VDM</a></h3><div class="date right"><a href="/blog/1537">#1537</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 30/01/2013 à 13:07 par Julien - <a href="/blog/1537">46 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1533">VDM a 5 ans</a></h3><div class="date right"><a href="/blog/1533">#1533</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 12/01/2013 à 03:32 par Julien - <a href="/blog/1533">107 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1524">Vous êtes bien sur le nouveau VDM</a></h3><div class="date right"><a href="/blog/1524">#1524</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 13/12/2012 à 11:49 par Julien - <a href="/blog/1524">190 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1528">La VDM illustrée de Louis-Bertrand Devaud</a></h3><div class="date right"><a href="/blog/1528">#1528</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 08/12/2012 à 11:43 par Julien - <a href="/blog/1528">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1526">Public présente le hors-série VDM 2012</a></h3><div class="date right"><a href="/blog/1526">#1526</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 30/11/2012 à 09:08 par Julien - <a href="/blog/1526">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1507">VDM, la série</a></h3><div class="date right"><a href="/blog/1507">#1507</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 23/08/2012 à 13:13 par Guillaume - <a href="/blog/1507">86 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1470">L'Agenda VDM 2012-2013 est arrivé</a></h3><div class="date right"><a href="/blog/1470">#1470</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 05/06/2012 à 18:46 par Julien - <a href="/blog/1470">389 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1430">Les gens ne comprennent rien au bonheur</a></h3><div class="date right"><a href="/blog/1430">#1430</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 01/04/2012 à 16:23 par Julien - <a href="/blog/1430">139 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1426">La vie, c'est que du bonheur</a></h3><div class="date right"><a href="/blog/1426">#1426</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 31/03/2012 à 23:26 par Guillaume - <a href="/blog/1426">136 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1362">VDM a 4 ans</a></h3><div class="date right"><a href="/blog/1362">#1362</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 08/01/2012 à 23:20 par Julien - <a href="/blog/1362">197 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1298">Du nouveau dans la modération</a></h3><div class="date right"><a href="/blog/1298">#1298</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/10/2011 à 11:58 par Julien - <a href="/blog/1298">70 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1227">Bienvenue sur le nouveau VDM</a></h3><div class="date right"><a href="/blog/1227">#1227</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 15/07/2011 à 22:09 par Julien - <a href="/blog/1227">412 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1222">Sortie de L'Agenda VDM</a></h3><div class="date right"><a href="/blog/1222">#1222</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 09/07/2011 à 03:05 par Julien - <a href="/blog/1222">782 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1172">Quand la VDM est LOW COST</a></h3><div class="date right"><a href="/blog/1172">#1172</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/06/2011 à 00:25 par Julien - <a href="/blog/1172">26 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1037">Roméo et Juliette façon VDM : Les gagnants</a></h3><div class="date right"><a href="/blog/1037">#1037</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 22/02/2011 à 12:06 par Julien - <a href="/blog/1037">113 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1016">VDM a 3 ans</a></h3><div class="date right"><a href="/blog/1016">#1016</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 12/01/2011 à 00:03 par Julien - <a href="/blog/1016">92 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/953">Nouveau livre : Les inédits du monde entier</a></h3><div class="date right"><a href="/blog/953">#953</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 27/11/2010 à 01:41 par Julien - <a href="/blog/953">37 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/932">VDM loves FML </a></h3><div class="date right"><a href="/blog/932">#932</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 08/11/2010 à 09:39 par Julien - <a href="/blog/932">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/862">Aujourd'hui, je déménage. VDM</a></h3><div class="date right"><a href="/blog/862">#862</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 26/09/2010 à 17:46 par Julien - <a href="/blog/862">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/820">Sortie des BD Vie de merde</a></h3><div class="date right"><a href="/blog/820">#820</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 28/08/2010 à 00:10 par Julien - <a href="/blog/820">669 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/722">Une flopée de nouveautés sur le site</a></h3><div class="date right"><a href="/blog/722">#722</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 26/05/2010 à 13:56 par Julien - <a href="/blog/722">114 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/575">VDM a 2 ans</a></h3><div class="date right"><a href="/blog/575">#575</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 09/01/2010 à 23:49 par Julien - <a href="/blog/575">268 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/526">Banané 2010 !*</a></h3><div class="date right"><a href="/blog/526">#526</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 01/01/2010 à 21:46 par Julien - <a href="/blog/526">100 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/421">Nouveau : le livre Vie de merde illustrée</a></h3><div class="date right"><a href="/blog/421">#421</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 07/10/2009 à 15:40 par Julien - <a href="/blog/421">48 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/400">Un week-end au Festiblog</a></h3><div class="date right"><a href="/blog/400">#400</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 30/09/2009 à 10:51 par Julien - <a href="/blog/400">5 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/240">Maxime et Guillaume dans un chat spécial VDM</a></h3><div class="date right"><a href="/blog/240">#240</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 02/06/2009 à 01:12 par Julien - <a href="/blog/240">51 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/211">VDM recommande d'aller voir DTC</a></h3><div class="date right"><a href="/blog/211">#211</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 17/05/2009 à 22:09 par L'équipe VDM - <a href="/blog/211">67 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/150">VDM a 1 an !</a></h3><div class="date right"><a href="/blog/150">#150</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 14/02/2009 à 02:55 par L'équipe VDM - <a href="/blog/150">156 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/148">La modération sous toutes les coutures</a></h3><div class="date right"><a href="/blog/148">#148</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/02/2009 à 22:56 par Guillaume - <a href="/blog/148">253 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/144">Modération : Premiers réajustements</a></h3><div class="date right"><a href="/blog/144">#144</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 18/01/2009 à 20:29 par Julien - <a href="/blog/144">280 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/142">Voici la modération nouvelle génération</a></h3><div class="date right"><a href="/blog/142">#142</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 16/01/2009 à 03:03 par Julien - <a href="/blog/142">105 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/137">Le t-shirt VDM à laFraise disponible</a></h3><div class="date right"><a href="/blog/137">#137</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 18/12/2008 à 12:37 par Julien - <a href="/blog/137">9 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/132">C'est tout nouveau sur VDM</a></h3><div class="date right"><a href="/blog/132">#132</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 26/11/2008 à 23:27 par Julien - <a href="/blog/132">12 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/130">Mon beau sapin !</a></h3><div class="date right"><a href="/blog/130">#130</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 21/11/2008 à 16:30 par Julien - <a href="/blog/130">20 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/125">VDM, la version anglaise</a></h3><div class="date right"><a href="/blog/125">#125</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 26/10/2008 à 01:25 par Guillaume - <a href="/blog/125">64 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/119">Livre 'Vie de merde' aux éditions Privé - Michel Lafon</a></h3><div class="date right"><a href="/blog/119">#119</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/10/2008 à 10:28 par Julien - <a href="/blog/119">157 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/116">Les Clins d'œil VDM #1</a></h3><div class="date right"><a href="/blog/116">#116</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 01/10/2008 à 13:22 par Julien - <a href="/blog/116">13 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/115">Lancement des profils</a></h3><div class="date right"><a href="/blog/115">#115</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 24/09/2008 à 18:28 par Guillaume - <a href="/blog/115">82 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/89">De nouveaux produits dans la Boutique</a></h3><div class="date right"><a href="/blog/89">#89</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 12/08/2008 à 23:39 par Julien - <a href="/blog/89">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/94">Mise à jour majeure de l'API VDM</a></h3><div class="date right"><a href="/blog/94">#94</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 01/08/2008 à 03:16 par Maxime - <a href="/blog/94">10 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/77">VDM lance sa messagerie !</a></h3><div class="date right"><a href="/blog/77">#77</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 24/06/2008 à 18:13 par Guillaume - <a href="/blog/77">83 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/70">La Boutique nouvelle est arrivée</a></h3><div class="date right"><a href="/blog/70">#70</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 16/06/2008 à 22:52 par Julien - <a href="/blog/70">4 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/69">VDM sur votre Mac</a></h3><div class="date right"><a href="/blog/69">#69</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 09/06/2008 à 10:48 par Maxime - <a href="/blog/69">24 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/63">VDM atteint 200 000 visites/jour</a></h3><div class="date right"><a href="/blog/63">#63</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 27/05/2008 à 22:55 par Maxime - <a href="/blog/63">48 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/61">Du changement pour les membres VDM</a></h3><div class="date right"><a href="/blog/61">#61</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 26/05/2008 à 15:53 par Julien - <a href="/blog/61">22 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/57">Retrouvez VDM sur Netvibes</a></h3><div class="date right"><a href="/blog/57">#57</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 21/05/2008 à 21:22 par Maxime - <a href="/blog/57">8 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/43">La boutique VDM fait son come back</a></h3><div class="date right"><a href="/blog/43">#43</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 29/04/2008 à 01:00 par Maxime - <a href="/blog/43">55 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/42">VDM sur Canal+ : La vidéo en ligne</a></h3><div class="date right"><a href="/blog/42">#42</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 21/04/2008 à 13:26 par Antoine - <a href="/blog/42">175 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/41">Une page VDM dans Libération</a></h3><div class="date right"><a href="/blog/41">#41</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 20/04/2008 à 01:47 par Maxime - <a href="/blog/41">30 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/40">Lancement du hit-parade</a></h3><div class="date right"><a href="/blog/40">#40</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 18/04/2008 à 09:00 par Maxime - <a href="/blog/40">83 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/39">Suivez VDM sur Twitter !</a></h3><div class="date right"><a href="/blog/39">#39</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 13/04/2008 à 14:44 par Maxime - <a href="/blog/39">29 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/37">Surfez sur VDM depuis votre iPhone</a></h3><div class="date right"><a href="/blog/37">#37</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 09/04/2008 à 13:59 par Maxime - <a href="/blog/37">14 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/36">VDM expliqué en détails sur PureFM</a></h3><div class="date right"><a href="/blog/36">#36</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 07/04/2008 à 14:56 par Maxime - <a href="/blog/36">16 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/34">Un point sur la modération</a></h3><div class="date right"><a href="/blog/34">#34</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/04/2008 à 02:40 par Maxime - <a href="/blog/34">108 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/32">VDM dans l'écho des savanes</a></h3><div class="date right"><a href="/blog/32">#32</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 02/04/2008 à 14:20 par Maxime - <a href="/blog/32">6 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/30">Votez pour le prochain t-shirt</a></h3><div class="date right"><a href="/blog/30">#30</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 31/03/2008 à 18:51 par Maxime - <a href="/blog/30">78 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/29">Créez votre propre application VDM</a></h3><div class="date right"><a href="/blog/29">#29</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 30/03/2008 à 00:35 par Maxime - <a href="/blog/29">90 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/28">Commentez les VDM</a></h3><div class="date right"><a href="/blog/28">#28</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 28/03/2008 à 21:14 par Maxime - <a href="/blog/28">39 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/23">Pagination quand tu nous tiens</a></h3><div class="date right"><a href="/blog/23">#23</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 13/03/2008 à 20:00 par Maxime - <a href="/blog/23">66 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/21">Newsletter VDM et jeu concours !</a></h3><div class="date right"><a href="/blog/21">#21</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 12/03/2008 à 00:26 par Maxime - <a href="/blog/21">31 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/19">Tout savoir sur la recherche</a></h3><div class="date right"><a href="/blog/19">#19</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 09/03/2008 à 00:19 par Maxime - <a href="/blog/19">350 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/17">Quand le mouv' parle de VDM</a></h3><div class="date right"><a href="/blog/17">#17</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 07/03/2008 à 10:46 par Maxime - <a href="/blog/17">21 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/9">VDM dans Télématin !</a></h3><div class="date right"><a href="/blog/9">#9</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 06/03/2008 à 16:48 par Maxime - <a href="/blog/9">343 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/7">T-shirts VDM en approche !</a></h3><div class="date right"><a href="/blog/7">#7</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 05/03/2008 à 18:33 par Maxime - <a href="/blog/7">37 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/6">VDM de passage sur Canal Plus</a></h3><div class="date right"><a href="/blog/6">#6</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/03/2008 à 18:51 par Maxime - <a href="/blog/6">336 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/5">Bienvenue dans la version 2.1 !</a></h3><div class="date right"><a href="/blog/5">#5</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 04/03/2008 à 02:58 par Maxime - <a href="/blog/5">491 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/4">Des t-shirts VDM ?</a></h3><div class="date right"><a href="/blog/4">#4</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 02/03/2008 à 00:27 par Antoine - <a href="/blog/4">47 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/3">Nouvelles options du top VDM</a></h3><div class="date right"><a href="/blog/3">#3</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 29/02/2008 à 22:32 par Maxime - <a href="/blog/3">287 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/2">La nouvelle version en détails</a></h3><div class="date right"><a href="/blog/2">#2</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 28/02/2008 à 21:00 par Maxime - <a href="/blog/2">64 commentaires</a></div>
+</div>
+<div class="post"><h3><a href="/blog/1">Bienvenue sur le blog</a></h3><div class="date right"><a href="/blog/1">#1</a> - <a href="/blog/categ/1">L'actualité VDM</a> - Le 28/02/2008 à 21:00 par Maxime - <a href="/blog/1">229 commentaires</a></div>
+</div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li><a href="/modules/accessibility/switch.php?act=disable">Retour à la version classique</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn5.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<script type="text/javascript" src="http://cdn3.viedemerde.fr/fmylife/js/lib.dv.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn1.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+#!bin/sh
+
+emacs
+# open the text editor
+emacs test.txt
+# open the file test with the text editor
+emacs --files test.txt
+# open the file test with the text editor 
+
+emacs --T "nom" 
+# give a name to the text editor window
+
+nano
+
+nano test.txt
+# open the file test with the text editor nano
+nano -m test.txt
+#enable the mouse in the text editor
+nano -t test.txt
+# Save the file automatically
+nano -T 5 test.txt 
+#change the tabulation
+nano -B test.txt
+# create a copy to save
+nano test1.txt test2.txt
+# Open 2 files
+

@@ -1,9 +1,50 @@
-grep "Une chaine de caractères"  NomFichier   # Afficher la ligne complète du fichier 
+#!/bin/sh
 
+# The command grep allows us to search a string in a file 
 
-grep -ANUM ":" test.txt       # afficher la ligne suivante 
-grep -B2 ":" test.txt       afficher les deux lignes précédente
-grep -B1 ":" test.txt       afficher la ligne au dessus et au dessous de la chaine de   		           caractère recherche
-grep -b ":" test.txt      + affiche à le nombre caractère avant le texte 
-grep -n ":" test.txt		+ affiche le numéro de la ligne 
-grec -r  "Une chaine de caractère" NomDossier recherche dans ce dossier et tout les dossierls
+# show the lines which contain the searched string in a file
+grep "String"  FileName   
+
+# show the lines which contain the searched string in a file
+# And   the N next lines
+grep -AN "String"  FileName 
+
+# show the lines which contain the searched string in a file
+# And   the N previous lines
+grep -BN "String"  FileName     
+
+# show the lines which contain the searched string in a file,
+# the N previous lines and the N next lines
+grep -CN "String"  FileName
+
+# show the lines which contain the searched string in a file,
+# and the number of characters
+grep -b "String"  FileName 
+
+# show the lines which contain the searched string in a file,
+# and the line number
+grep -n  "String"  FileName		
+
+# show the lines which contain the searched string in a Folder and sub Folder
+grep -r  "String" FolderName 
+
+# show the lines which contain the searched string in a File ignoring Upper and lower case
+grep -i  "String" FileName
+
+# We can also use regular expressions 
+# . any characters
+# ^ beginning of the line 
+# $ end of the line
+# []  one of the characters between the [  ]
+# | or
+grep -E ^string FileName
+grep -E .ello FileName
+grep -E $hello FileName
+grep -E [Hh]ello FileName
+
+#search the string "ORA-" in all log files
+find . -name "*.log" -exec grep -Hn "ORA-" {} \;
+
+cat essai1 | grep  ".*" >essai2 
+#all text write in essai1 is writing in essai2
+

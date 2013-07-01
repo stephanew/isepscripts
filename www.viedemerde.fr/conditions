@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : Les conditions d'utilisation du site" />
+	<meta name="description" content="Conditions d'utilisation de Viedemerde.fr par BETA ET COMPAGNIE SARL" />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn1.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : Les conditions d'utilisation du site</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : Les conditions d'utilisation du site"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/conditions"/>
+	<meta property="og:image" content="http://cdn3.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn5.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Conditions d'utilisation de Viedemerde.fr par BETA ET COMPAGNIE SARL"/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/conditions">
+	<meta name="twitter:title" content="VDM : Les conditions d'utilisation du site">
+	<meta name="twitter:description" content="Conditions d'utilisation de Viedemerde.fr par BETA ET COMPAGNIE SARL">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn4.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/applications/officielles#a_156">VDM pour iPhone et iPad</a></li><li><a href="/applications/officielles#a_1">VDM pour Android</a></li><li><a href="/applications/officielles#a_162">VDM pour WP7</a></li><li><a href="/applications/officielles#a_141">VDM pour BlackBerry</a></li><li><a href="/applications/officielles#a_148">VDM pour Samsung Wave</a></li><li><a href="/applications/autres">Autres applications</a></li><li><a href="/api/accueil">Utiliser l'API VDM</a></li></ul></div></div></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/tops/top/semaine">Le top</a></li><li><a href="/tops/flop/semaine">Le flop</a></li><li><a href="/tops/favorite/semaine">Classer par favoris</a></li><li><a href="/tops/comment/semaine">Classer par commentaires</a></li></ul></div></div></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class=""><a href="/boutique" accesskey="6">Boutique</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/boutique#categ3">Livres VDM</a></li><li><a href="/boutique#categ1">Les t-shirts</a></li><li><a href="/boutique#categ2">Accessoires</a></li></ul></div></div></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 id="user"><a href="" class="t_user" accesskey="9"></a><div class="submenu_container" id="user_submenu"><div class="submenu"><ul><li><div class="loginform"><form name="login" action="https://www.viedemerde.fr/apps/account_login.php" method="post"><input type="text" name="login" value="" placeholder="Pseudo" /><input type="password" name="pass" value="" placeholder="Mot de passe" /><input type="submit" value="Connexion" id="submit_connexion" /></form></div></li><li><a href="/inscription" class="bold">Créer un compte VDM</a></li><li><a href="/motdepasse">Mot de passe oublié ?</a></li></ul></div></div></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div>
+<div class="post">
+
+<h3>Introduction</h3>
+<div class="h3_placeholder"></div>
+
+<p>Viedemerde.fr est ce qu'on pourrait appeler un OVNI dans le monde d'internet. Il contient des petites anecdotes de la vie de tous les jours qui pourraient arriver à tout un chacun. Ces histoires, qui sont proposées par les visiteurs du site, ont la particularité de commencer par "Aujourd'hui" et de finir par "VDM". VDM étant les initiales de VieDeMerde. En plus d'être un grand défouloir mais aussi un bon moyen de se dire "vous n'êtes pas seul dans vos petits malheurs", viedemerde.fr se veut drôle et amusant à lire, tous les jours.</p>
+</div>
+
+<div class="post">
+
+<h3>Mentions légales</h3>
+<div class="h3_placeholder"></div>
+
+<p>La Société Beta&Cie est l'éditeur du site Viedemerde.fr, les internautes sont les rédacteurs des contributions présentes sur le site. Au titre de ces informations, la Société Beta&Cie est un prestataire technique de l'Internet au sens de la Directive Communautaire 2000/31/EC du 8 Juin 2000 sur le commerce électronique. Son siège social est à Colombes (SIRET 49318296800013) et son capital social est de 6000 euros. Pour nous contacter, +33603622668. La société OVH est l'hébergeur du présent site Web.<br><br>
+Le présent site a fait l'objet d'une déclaration auprès de la Commission Nationale de l'Informatique et des Libertés, qui a délivré le récépissé n° 1281617 du 25 Mars 2008. Pour toutes questions, veuillez consulter les conditions d'utilisation du site. Pour toutes réclamations au titre d'un contenu figurant sur le site de la Société Beta&Cie et alléguant au titre de ce contenu une atteinte à l'ordre public ou aux droits de tiers, il est obligatoire de s'adresser à support@viedemerde.fr. Toutes réclamations adressées par un autre canal ne seront pas nécessairement prises en compte.</p><p>Nous utilisons des sociétés publicitaires ou tiers pour fournir des publicités quand vous naviguez sur notre site web. Ces sociétés peuvent utiliser des renseignements (Sont exclus toutes informations relatives à votre identité, nom, adresse, courrier électronique ou numéro de téléphone) durant votre navigation sur ce site web et sur d'autres sites web pour qu'ils puissent vous fournir des publicités en meilleur adéquation avec vos centres d’intérêts. Si vous souhaitez plus de renseignements sur ce sujet, merci de cliquer ici : <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.
+</div>
+
+<div class="post">
+
+<h3>Conditions d'utilisation</h3>
+<div class="h3_placeholder"></div>
+
+<p>L'utilisation des soumissions à partir du serveur Viedemerde.fr ou des flux RSS émis par Viedemerde.fr est autorisée, à condition qu'aucune modification ne soit apportée et que l'utilisation de ces articles se fasse à des fins personnelles ou d'information et non à des fins commerciales. L'utilisation des soumissions à toute autre fin est strictement prohibée par la loi. Toute personne ne respectant pas les dispositions légales applicables se rend coupable du délit de contrefaçon et est passible des sanctions pénales prévues par la loi. Les informations désignées ci-dessus n'incluent pas la conception ou la mise en page du site Internet Viedemerde.fr ou de tout autre site géré, contrôlé ou appartenant à Beta&Cie. Les éléments des sites Internet Beta&Cie sont protégés par le droit des dessins et modèles, le droit d'auteur, le droit des marques ainsi que par la réglementation applicable à la concurrence déloyale et ils ne peuvent être copiés ou imités en tout ou partie. Sauf autorisation expresse de Beta&Cie, aucun logo, élément graphique, son ou image provenant d'un site Web Beta&Cie ne peut être copié ou diffusé. Beta&Cie n'effectue aucune déclaration sur le caractère approprié à un usage particulier des informations contenues dans les soumissions publiées sur ce service et dans les éléments graphiques publiés du serveur. Tous les articles et éléments graphiques sont fournis "En l'état" sans garantie d'aucune sorte. Beta&Cie exclut toute garantie implicite relative aux informations susmentionnées, notamment toute garantie implicite de qualité, d'adéquation à un usage particulier, de propriété et d'absence de contrefaçon. Beta&Cie ne sera en aucun cas responsable, quel que soit le fondement de l'action en responsabilité invoqué, des dommages indirects, accessoires ou incidents (ni de tout dommage qui résulte d'une mauvaise interprétation d'un article, d'une désinformation ou d'une diffamation) résultant de, ou liés à l'utilisation ou à la mise en page des informations rediffusées par ce service. Les soumissions rediffusées et les éléments graphiques publiés sur le serveur Viedemerde.fr sont susceptibles de contenir des inexactitudes ou des erreurs typographiques. Des changements sont périodiquement apportés aux sources d'information référencées par le moteur de recherche. Enfin, Beta&Cie peut apporter, à tout moment, des améliorations ou des modifications aux services offerts par ce site Web. Vous ne pouvez utiliser le site Web Viedemerde.fr qu'à des fins personnelles, c'est à dire à des fins non commerciales et aucunement de manière illégale ou de façon à nuire à Beta&Cie, aux utilisateurs "contributeurs" qui postent des commentaires ou des soumissions. Sans limiter le caractère général du présent article, vous ne pouvez pas utiliser le site Web Viedemerde.fr d'une manière susceptible d'endommager, de mettre hors d'action, d'accabler ou de compromettre Beta&Cie. En ce qui concerne les commentaires ou les soumissions publiées par un membre, l'auteur accorde à Beta&Cie l'autorisation (1) d'utiliser, copier, distribuer, transmettre, afficher publiquement, présenter publiquement, reproduire, éditer, modifier, traduire et reformater sa contribution dans le cadre du site Web Viedemerde.fr ou de ses partenaires, et (2) de sous-concéder ces droits, dans toute la mesure permise par la réglementation applicable. Les contributions postées sur Viedemerde.fr ne sont pas rémunérées. Viedemerde.fr peut supprimer un commentaire ou une soumission à tout moment. Pour chaque contribution, l'auteur déclare disposer de tous les droits nécessaires afin d'accorder les autorisations prévues dans le présent article. Enfin, Beta&Cie se réserve le droit de modifier les termes, conditions et mentions d'avertissement applicables à ses sites Web. Il vous incombe de consulter régulièrement ces termes et conditions d'utilisation. Votre utilisation renouvelée du site Web Viedemerde.fr, après la date effective de telles ou telles modifications, constitue l'acceptation de votre part de toutes ces modifications.</p>
+
+</div>
+
+<div class="post">
+
+<h3>Mentions relatives aux marques</h3>
+<div class="h3_placeholder"></div>
+
+<p>Copyright © 2008-2012 Beta&Cie - Tous droits réservés. Vie de merde est une marque déposée de Beta&Cie SARL. Les noms des éditeurs, des médias, des services et plus généralement des sociétés ou produits mentionnés sont les marques de leurs propriétaires respectifs. Tous les droits qui ne sont pas expressément concédés sont réservés par Beta&Cie.</p>
+</div>
+
+
+<div class="post">
+
+<h3>Politique de confidentialité</h3><br><p>Devant le développement des nouveaux outils de communication, il est nécessaire de porter une attention particulière à la protection de la vie privée. C'est pourquoi, nous nous engageons à respecter la confidentialité des renseignements personnels que nous collectons.<br>
+Nous collectons les renseignements suivants :<br>
+Les renseignements personnels que nous collectons sont recueillis au travers de formulaires et grâce à l'interactivité établie entre vous et notre site Web. Nous utilisons également, comme indiqué dans la section suivante, des fichiers témoins et/ou journaux pour réunir des informations vous concernant.<br>
+Formulaires  et interactivité:<br>
+Vos renseignements personnels sont collectés par le biais de formulaire, à savoir : Formulaire d'inscription au site Web et concours.<br>
+Nous utilisons les renseignements ainsi collectés pour la finalité suivante : Contact.<br>
+Vos renseignements sont également collectés par le biais de l'interactivité pouvant s'établir entre vous et notre site Web et ce, de la façon suivante : Statistiques et contact.<br>
+Nous utilisons les renseignements ainsi collectés pour les finalités suivantes : Forum ou aire de discussion, Commentaires et Correspondance.<br><br>
+
+Droit d'opposition et de retrait<br>
+Nous nous engageons à vous offrir un droit d'opposition et de retrait quant à vos renseignements personnels.Le droit d'opposition s'entend comme étant la possiblité offerte aux internautes de refuser que leurs renseignements personnels soient utilisées à certaines fins mentionnées lors de la collecte.Le droit de retrait s'entend comme étant la possiblité offerte aux internautes de demander à ce que leurs renseignements personnels ne figurent plus, par exemple, dans une liste de diffusion.<br>
+Pour pouvoir exercer ces droits, vous pouvez : <br>
+Code postal : BETA ET COMPAGNIE 79 BD Charles de Gaulle, Colombes 92700<br>
+Courriel : support@viedemerde.fr<br>
+<br><br>
+Droit d'accès
+Nous nous engageons à reconnaître un droit d'accès et de rectification aux personnes concernées désireuses de consulter, modifier, voire radier les informations les concernant.<br>
+L'exercice de ce droit se fera :<br>
+Code postal : BETA ET COMPAGNIE 79 BD Charles de Gaulle, Colombes 92700<br>
+Courriel : support@viedemerde.fr<br>
+Section du site web : www.viedemerde.fr/<br>
+<br><br>
+Sécurité
+Les renseignements personnels que nous collectons sont conservés dans un environnement sécurisé. Les personnes travaillant pour nous sont tenues de respecter la confidentialité de vos informations.
+Pour assurer la sécurité de vos renseignements personnels, nous avons recours aux mesures suivantes :<br>
+Nous nous engageons à maintenir un haut degré de confidentialité en intégrant les dernières innovations technologiques permettant d'assurer la confidentialité de vos transactions. Toutefois, comme aucun mécanisme n'offre une sécurité maximale, une part de risque est toujours présente lorsque l'on utilise Internet pour transmettre des renseignements personnels.</p>
+</div>
+
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    <div class="publicite"><script type="text/javascript">var d=document.location;var t=new Date;document.write("<script src='//cdn.dekalee.net/serve/20.js?p="+d.pathname+"&s="+d.search+"&t="+t.getTime()+"&ip=80.13.242.45&uid=562249886'>\x3C/script>")</script></div>
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li>Accéder à la version <a href="/modules/accessibility/switch.php?act=enable">Déficients visuels</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn2.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn2.viedemerde.fr/fmylife/js/compiled/fr/base.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn3.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>

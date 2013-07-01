@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta name="title" content="VDM : la boutique, les tshirts" />
+	<meta name="description" content="Achetez les t-shirt VDM et voir des exemples de t-shirt Viedemerde." />
+	<meta charset="utf-8" />
+	<link rel="shortcut icon" href="http://cdn5.viedemerde.fr/fmylife/images/favicon.fr.ico" />
+	<meta name="author" content="Maxime Valette, Guillaume Passaglia, Julien Azarian" />
+	<link rel="image_src" href="http://cdn4.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM" href="/feeds/articles" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre le blog VDM" href="/feeds/blog" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les commentaires VDM" href="/feeds/comments" />
+	<link rel="alternate" type="application/rss+xml" title="Suivre les VDM illustrées" href="/feeds/illustrated" />
+	<title>VDM : la boutique, les tshirts</title>
+	<meta property="fb:app_id" content="360818827295638" />
+	<meta property="og:title" content="VDM : la boutique, les tshirts"/>
+	<meta property="og:type" content="article"/>
+	<meta property="og:url" content="http://www.viedemerde.fr/boutique"/>
+	<meta property="og:image" content="http://cdn1.viedemerde.fr/fmylife/images/logo200.fr.jpg" />
+	<meta name="twitter:image" content="http://cdn3.viedemerde.fr/fmylife/images/logo200.fr.jpg">
+	<meta property="og:site_name" content="Vie de merde"/>
+	<meta property="og:description" content="Achetez les t-shirt VDM et voir des exemples de t-shirt Viedemerde."/>
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="http://www.viedemerde.fr/boutique">
+	<meta name="twitter:title" content="VDM : la boutique, les tshirts">
+	<meta name="twitter:description" content="Achetez les t-shirt VDM et voir des exemples de t-shirt Viedemerde.">
+	<meta name="twitter:site" content="@viedemerde">
+	<link rel="stylesheet" media="screen" type="text/css" href="http://cdn2.viedemerde.fr/fmylife/css/compiled/public.general.css" />
+	<link href="https://plus.google.com/109820933781607194302/" rel="publisher" />
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-2538950-3']);
+		_gaq.push(['_setDomainName', '.viedemerde.fr']);
+		_gaq.push(['._setCustomVar', 1, 'user-type', 'visitor', 2]);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body id="top">
+
+
+<div id="fb-root"></div><script>
+  (function(d){
+    var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+    js = d.createElement('script'); js.id = id; js.async = true;
+    js.src = "//connect.facebook.net/fr_FR/all.js";
+    d.getElementsByTagName('head')[0].appendChild(js);
+  }(document));
+  </script>
+<div class="popup_container"></div>
+
+
+<div id="background">
+
+<div id="topbar">
+	<div id="contenttop">
+		<div id="title">
+            <a href="/" title="Accueil" accesskey="1" class="toplogo_fr"></a>		</div>
+
+		<div class="menu">
+			<h1 class=""><a href="/faq" accesskey="2">FAQ</a></h1><h1 class=""><a href="/applications/officielles" accesskey="3">Applications</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/applications/officielles#a_156">VDM pour iPhone et iPad</a></li><li><a href="/applications/officielles#a_1">VDM pour Android</a></li><li><a href="/applications/officielles#a_162">VDM pour WP7</a></li><li><a href="/applications/officielles#a_141">VDM pour BlackBerry</a></li><li><a href="/applications/officielles#a_148">VDM pour Samsung Wave</a></li><li><a href="/applications/autres">Autres applications</a></li><li><a href="/api/accueil">Utiliser l'API VDM</a></li></ul></div></div></h1><h1 class=""><a href="/tops/favorite/semaine" accesskey="4">Top</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/tops/top/semaine">Le top</a></li><li><a href="/tops/flop/semaine">Le flop</a></li><li><a href="/tops/favorite/semaine">Classer par favoris</a></li><li><a href="/tops/comment/semaine">Classer par commentaires</a></li></ul></div></div></h1><h1 class=""><a href="/aleatoire" accesskey="5">VDM aléatoire</a></h1><h1 class="active"><a href="/boutique" accesskey="6">Boutique</a><div class="submenu_container"><div class="submenu"><ul><li><a href="/boutique#categ3">Livres VDM</a></li><li><a href="/boutique#categ1">Les t-shirts</a></li><li><a href="/boutique#categ2">Accessoires</a></li></ul></div></div></h1><h1 class="submit "><a class="submit" onclick="submitToggle()" href="javascript:;" accesskey="7">Soumettez votre VDM</a></h1><h1 class="moderate "><a href="/moderation" accesskey="8">Modérez les VDM</a></h1><h1 id="user"><a href="" class="t_user" accesskey="9"></a><div class="submenu_container" id="user_submenu"><div class="submenu"><ul><li><div class="loginform"><form name="login" action="https://www.viedemerde.fr/apps/account_login.php" method="post"><input type="text" name="login" value="" placeholder="Pseudo" /><input type="password" name="pass" value="" placeholder="Mot de passe" /><input type="submit" value="Connexion" id="submit_connexion" /></form></div></li><li><a href="/inscription" class="bold">Créer un compte VDM</a></li><li><a href="/motdepasse">Mot de passe oublié ?</a></li></ul></div></div></h1>		</div>
+		<form action="/apps/search.php" method="post" id="recherche_haut">
+			<input type="hidden" name="type" value="article" />
+			<input type="hidden" name="from" value="top" />
+            <input type="hidden" name="option" value="precise">
+			<input type="text" name="texte" id="mot" placeholder="Recherche" />
+		</form>
+	</div>
+</div>
+
+<div id="content">
+
+<div class="wrapper cf">
+
+<div id="submit" class="post">
+	<h3>Soumettez votre vie de merde</h3>
+	<div class="h3_placeholder"></div>
+
+	
+	<ul>
+		<li>- <strong>Rappel du concept :</strong> Une anecdote qui commence par "Aujourd'hui" et qui se termine par "VDM".</li>
+		<li>- <b>Attention :</b> Une anecdote écrite en SMS ou comportant trop de fautes d'orthographe est toujours refusée.</li>
+		<li class="red">- N'utilisez pas cet espace pour des discussions, de la publicité ou pour tout autre texte n'étant pas une VDM.</li>	</ul>
+
+	
+	<form method="post" class="submit_form" action="/ajax/articles/submit.php">
+		<fieldset>
+			<div class="input_auteur">Votre pseudo : <input type="text" name="auteur" value="" /></div>			<div class="input_cat">Catégorie : <select name="cat" id="cat" >
+				<option value="">Choisir</option>
+				<option value="amour">Amour</option>
+<option value="animaux">Animaux</option>
+<option value="argent">Argent</option>
+<option value="enfants">Enfants</option>
+<option value="travail">Travail</option>
+<option value="sante">Santé</option>
+<option value="sexe">Sexe</option>
+<option value="inclassable">Inclassable</option>
+			</select></div>
+
+			<div class="input_sexe">Sexe :  <select name="sexe">
+				<option value="none">Choisir</option>
+				<option value="homme">Homme</option>
+				<option value="femme">Femme</option>
+			</select></div>
+
+			<textarea id="update" name="content" rows="6" onkeyup="cut(this);"></textarea>
+
+			<div class="input_mail"><a href="javascript:;" onclick="displayMail();">Être prévenu par e-mail ?</a></div>
+
+			<div class="ok"><div id="compteur"></div> <input type="submit" name="ok" value="Balance la sauce"/></div>
+			<input type="text" id="firstname" value="" name="firstname" />
+					</fieldset>
+	</form>
+
+</div>
+
+<div id="top_message"></div><div id="breadcrumb"><p><strong>&#187; Navigation :</strong> <a href="/">Vie de merde</a> &rarr; <a href="/boutique">La boutique VDM</a></p></div>
+<div id="ss_hover" class="ss_hover">
+	<i>Pas de description</i>
+</div>
+
+<div class="post">
+
+	<h3 id="ss_top">La boutique VDM</h3>
+	<div class="h3_placeholder"></div>
+
+	<div id="editor" style="display: none;">
+
+	<div id="ss_mail">
+		<div id="image"><img src="/images/email_go.png" /></div>
+		<div id="label"><a href="mailto:support@viedemerde.fr">Un problème ? Contactez-nous !</a></div>
+	</div>
+
+		<div id="ss_infos">
+			<input type="text" name="url" class="ss_url" onclick="$(this).select();" />
+			<label>Lien du t-shirt :</label>
+		</div>
+
+		<div id="ss_iframe_container">
+
+		</div>
+
+		<div id="ss_back">
+			<a href="javascript:;" onclick="ss_closeEditor();">Fermer l'éditeur</a>
+		</div>
+
+	</div>
+
+</div>
+
+
+<div class="post bordered">
+	<a href="#categ3"><img src="/images/shop_fr_boutonlivres.png"></a>
+	<a href="#categ1"><img src="/images/shop_fr_boutontshirts.png"></a>
+	<a href="#categ2"><img src="/images/shop_fr_boutonaccessoires.png"></a>
+</div>
+
+<div class="post"><h2 class="spreadshirt_cat" id="categ3">Les livres VDM</h2>
+<p class="spreadshirt_cat_desc">Du Web au livre et à la BD, il n'y a qu'un pas et il y en a surtout pour tous les goûts. À mettre dans vos toilettes, à offrir à votre grand-mère ou à vos amis, c'est le cadeau parfait juste derrière la cravate (ou l'aspirateur).</p>
+
+<div class="cf"><div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-Merde-Valette-Maxime%2Fdp%2F235076091X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_livre_1.png" onmouseover="showlayer(1, true);" onmouseout="showlayer(1, false);" onmousemove="movelayer(1);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-Merde-Valette-Maxime%2Fdp%2F235076091X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">Vie de merde</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-Merde-Valette-Maxime%2Fdp%2F235076091X%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">14,10 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-illustr%25C3%25A9e-Collectif%2Fdp%2F2350761045%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1253534471%26sr%3D1-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_livre_2.png" onmouseover="showlayer(2, true);" onmouseout="showlayer(2, false);" onmousemove="movelayer(2);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-illustr%25C3%25A9e-Collectif%2Fdp%2F2350761045%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1253534471%26sr%3D1-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">VDM illustrée</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-illustr%25C3%25A9e-Collectif%2Fdp%2F2350761045%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1253534471%26sr%3D1-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">14,10 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVDM-in%25C3%25A9dits-du-monde-entier%2Fdp%2F2350761142%3Fie%3DUTF8%26qid%3D1290609563%26sr%3D8-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_livre_3.png" onmouseover="showlayer(3, true);" onmouseout="showlayer(3, false);" onmousemove="movelayer(3);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVDM-in%25C3%25A9dits-du-monde-entier%2Fdp%2F2350761142%3Fie%3DUTF8%26qid%3D1290609563%26sr%3D8-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">VDM les inédits</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVDM-in%25C3%25A9dits-du-monde-entier%2Fdp%2F2350761142%3Fie%3DUTF8%26qid%3D1290609563%26sr%3D8-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">14,10 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_1.png" onmouseover="showlayer(4, true);" onmouseout="showlayer(4, false);" onmousemove="movelayer(4);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "Premières fois"</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_2.png" onmouseover="showlayer(5, true);" onmouseout="showlayer(5, false);" onmousemove="movelayer(5);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "Au boulot"</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-premi%C3%A8res-fois-Hipo%2Fdp%2F2874427926&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-3-anniversaires-Hipo%2Fdp%2F2874427934%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610628%26sr%3D1-7&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_3.png" onmouseover="showlayer(6, true);" onmouseout="showlayer(6, false);" onmousemove="movelayer(6);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-3-anniversaires-Hipo%2Fdp%2F2874427934%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610628%26sr%3D1-7&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "Anniversaires"</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-3-anniversaires-Hipo%2Fdp%2F2874427934%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610628%26sr%3D1-7&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-4-En-vacances%2Fdp%2F287442756X%3Fie%3DUTF8%26qid%3D1306943027%26sr%3D8-11&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_4.png" onmouseover="showlayer(7, true);" onmouseout="showlayer(7, false);" onmousemove="movelayer(7);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-4-En-vacances%2Fdp%2F287442756X%3Fie%3DUTF8%26qid%3D1306943027%26sr%3D8-11&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "En vacances"</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-4-En-vacances%2Fdp%2F287442756X%3Fie%3DUTF8%26qid%3D1306943027%26sr%3D8-11&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Avec-mon-chat%2Fdp%2F2874428639%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_5.png" onmouseover="showlayer(8, true);" onmouseout="showlayer(8, false);" onmousemove="movelayer(8);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Avec-mon-chat%2Fdp%2F2874428639%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "Avec mon chat"</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Avec-mon-chat%2Fdp%2F2874428639%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1217199648%26sr%3D8-2&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-merde-6-enfants-Alteau/dp/2874429570/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327417190&camp=1642&sr=1-1&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_6.png" onmouseover="showlayer(9, true);" onmouseout="showlayer(9, false);" onmousemove="movelayer(9);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-merde-6-enfants-Alteau/dp/2874429570/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327417190&camp=1642&sr=1-1&creative=6746" target="_blank">BD "Les enfants"</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-merde-6-enfants-Alteau/dp/2874429570/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327417190&camp=1642&sr=1-1&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-merde-7-couple-Collectif/dp/2874429619/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327416618&camp=1642&sr=1-13&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_7.png" onmouseover="showlayer(10, true);" onmouseout="showlayer(10, false);" onmousemove="movelayer(10);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-merde-7-couple-Collectif/dp/2874429619/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327416618&camp=1642&sr=1-13&creative=6746" target="_blank">BD "Le couple"</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-merde-7-couple-Collectif/dp/2874429619/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1327416618&camp=1642&sr=1-13&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-merde-Tome-En-bagnole/dp/287442773X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338971760&camp=1642&sr=8-1-spell&creative=6746" target="_blank"><img src="/images/shop_fr_couv_BD_8.png" onmouseover="showlayer(14, true);" onmouseout="showlayer(14, false);" onmousemove="movelayer(14);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-merde-Tome-En-bagnole/dp/287442773X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338971760&camp=1642&sr=8-1-spell&creative=6746" target="_blank">BD "En bagnole"</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-merde-Tome-En-bagnole/dp/287442773X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338971760&camp=1642&sr=8-1-spell&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-merde-Tome-10-profs/dp/282220117X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_bd_10.jpg" onmouseover="showlayer(0, true);" onmouseout="showlayer(0, false);" onmousemove="movelayer(0);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-merde-Tome-10-profs/dp/282220117X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">BD "Les profs"</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-merde-Tome-10-profs/dp/282220117X/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">10,45 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746" target="_blank"><img src="/images/shop_fr_couv_bd_bestof.jpg" onmouseover="showlayer(0, true);" onmouseout="showlayer(0, false);" onmousemove="movelayer(0);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746" target="_blank">BD "best of"</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746" target="_blank">14,95 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Maxime-Valette%2Fdp%2F225308512X%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_poche_1.png" onmouseover="showlayer(12, true);" onmouseout="showlayer(12, false);" onmousemove="movelayer(12);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Maxime-Valette%2Fdp%2F225308512X%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">VDM de poche</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-Maxime-Valette%2Fdp%2F225308512X%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-1&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">5,60 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-2-Guillaume-Passaglia%2Fdp%2F2253131687%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-3&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank"><img src="/images/shop_fr_couv_poche_2.png" onmouseover="showlayer(11, true);" onmouseout="showlayer(11, false);" onmousemove="movelayer(11);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-2-Guillaume-Passaglia%2Fdp%2F2253131687%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-3&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">VDM de poche 2</a></p><p class="prix"><a href="http://www.amazon.fr/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.fr%2FVie-merde-2-Guillaume-Passaglia%2Fdp%2F2253131687%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1290610780%26sr%3D1-3&tag=viedemerd-21&linkCode=ur2&camp=1642&creative=6746" target="_blank">5,60 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/Vie-Merde-in%C3%A9dits-monde-entier/dp/2253131881/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1338972616&camp=1642&sr=1-12&creative=6746" target="_blank"><img src="/images/shop_fr_couv_poche_3.jpg" onmouseover="showlayer(15, true);" onmouseout="showlayer(15, false);" onmousemove="movelayer(15);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/Vie-Merde-in%C3%A9dits-monde-entier/dp/2253131881/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1338972616&camp=1642&sr=1-12&creative=6746" target="_blank">Livre de poche 3</a></p><p class="prix"><a href="http://www.amazon.fr/Vie-Merde-in%C3%A9dits-monde-entier/dp/2253131881/?_encoding=UTF8&s=books&tag=viedemerd-21&linkCode=ur2&qid=1338972616&camp=1642&sr=1-12&creative=6746" target="_blank">5,60 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="http://www.amazon.fr/LAgenda-VDM-2012-2013-Didier-Guedj/dp/2350761231/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338913477&camp=1642&sr=8-2&creative=6746" target="_blank"><img src="/images/shop_fr_couv_agenda20122013.jpg" onmouseover="showlayer(13, true);" onmouseout="showlayer(13, false);" onmousemove="movelayer(13);"></a><div class="infos"><p class="nom"><a href="http://www.amazon.fr/LAgenda-VDM-2012-2013-Didier-Guedj/dp/2350761231/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338913477&camp=1642&sr=8-2&creative=6746" target="_blank">Agenda scolaire 2012/13</a></p><p class="prix"><a href="http://www.amazon.fr/LAgenda-VDM-2012-2013-Didier-Guedj/dp/2350761231/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1338913477&camp=1642&sr=8-2&creative=6746" target="_blank">9,95 €</a></p></div></div>
+</div>
+
+</div><div class="post"><h2 class="spreadshirt_cat" id="categ1">Les t-shirts</h2>
+<p class="spreadshirt_cat_desc">Choisissez parmi nos modèles ou créez le vôtre.</p>
+
+<div class="cf"><div class="spreadshirt_item"><a href="#e21039898-14383112" class="nofix" onclick="ss_goEditor('21039898','14383112');"><img src="http://image.spreadshirt.net/image-server/image/product/21039898/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039898', true);" onmouseout="showlayer('21039898', false);" onmousemove="movelayer('21039898');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039898-14383112" class="nofix" onclick="ss_goEditor('21039898','14383112');">Logo simple</a></p><p class="prix"><a href="#e21039898-14383112" onclick="ss_goEditor('21039898','14383112');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039876-14383105" class="nofix" onclick="ss_goEditor('21039876','14383105');"><img src="http://image.spreadshirt.net/image-server/image/product/21039876/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039876', true);" onmouseout="showlayer('21039876', false);" onmousemove="movelayer('21039876');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039876-14383105" class="nofix" onclick="ss_goEditor('21039876','14383105');">Logo simple</a></p><p class="prix"><a href="#e21039876-14383105" onclick="ss_goEditor('21039876','14383105');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039872-14383102" class="nofix" onclick="ss_goEditor('21039872','14383102');"><img src="http://image.spreadshirt.net/image-server/image/product/21039872/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039872', true);" onmouseout="showlayer('21039872', false);" onmousemove="movelayer('21039872');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039872-14383102" class="nofix" onclick="ss_goEditor('21039872','14383102');">Logo simple</a></p><p class="prix"><a href="#e21039872-14383102" onclick="ss_goEditor('21039872','14383102');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039906-14383115" class="nofix" onclick="ss_goEditor('21039906','14383115');"><img src="http://image.spreadshirt.net/image-server/image/product/21039906/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039906', true);" onmouseout="showlayer('21039906', false);" onmousemove="movelayer('21039906');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039906-14383115" class="nofix" onclick="ss_goEditor('21039906','14383115');">Logo simple</a></p><p class="prix"><a href="#e21039906-14383115" onclick="ss_goEditor('21039906','14383115');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e9759124-14383052" class="nofix" onclick="ss_goEditor('9759124','14383052');"><img src="http://image.spreadshirt.net/image-server/image/product/9759124/view/1/type/png/width/130/height/130" onmouseover="showlayer('9759124', true);" onmouseout="showlayer('9759124', false);" onmousemove="movelayer('9759124');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e9759124-14383052" class="nofix" onclick="ss_goEditor('9759124','14383052');">Logo simple</a></p><p class="prix"><a href="#e9759124-14383052" onclick="ss_goEditor('9759124','14383052');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e9759122-14383053" class="nofix" onclick="ss_goEditor('9759122','14383053');"><img src="http://image.spreadshirt.net/image-server/image/product/9759122/view/1/type/png/width/130/height/130" onmouseover="showlayer('9759122', true);" onmouseout="showlayer('9759122', false);" onmousemove="movelayer('9759122');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e9759122-14383053" class="nofix" onclick="ss_goEditor('9759122','14383053');">Logo simple</a></p><p class="prix"><a href="#e9759122-14383053" onclick="ss_goEditor('9759122','14383053');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e7984378-14383066" class="nofix" onclick="ss_goEditor('7984378','14383066');"><img src="http://image.spreadshirt.net/image-server/image/product/7984378/view/1/type/png/width/130/height/130" onmouseover="showlayer('7984378', true);" onmouseout="showlayer('7984378', false);" onmousemove="movelayer('7984378');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e7984378-14383066" class="nofix" onclick="ss_goEditor('7984378','14383066');">Logo simple</a></p><p class="prix"><a href="#e7984378-14383066" onclick="ss_goEditor('7984378','14383066');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e9506426-14383063" class="nofix" onclick="ss_goEditor('9506426','14383063');"><img src="http://image.spreadshirt.net/image-server/image/product/9506426/view/1/type/png/width/130/height/130" onmouseover="showlayer('9506426', true);" onmouseout="showlayer('9506426', false);" onmousemove="movelayer('9506426');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e9506426-14383063" class="nofix" onclick="ss_goEditor('9506426','14383063');">Logo simple</a></p><p class="prix"><a href="#e9506426-14383063" onclick="ss_goEditor('9506426','14383063');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029193-14378219" class="nofix" onclick="ss_goEditor('21029193','14378219');"><img src="http://image.spreadshirt.net/image-server/image/product/21029193/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029193', true);" onmouseout="showlayer('21029193', false);" onmousemove="movelayer('21029193');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21029193-14378219" class="nofix" onclick="ss_goEditor('21029193','14378219');">Décolleté girly</a></p><p class="prix"><a href="#e21029193-14378219" onclick="ss_goEditor('21029193','14378219');">24,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039465-14382879" class="nofix" onclick="ss_goEditor('21039465','14382879');"><img src="http://image.spreadshirt.net/image-server/image/product/21039465/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039465', true);" onmouseout="showlayer('21039465', false);" onmousemove="movelayer('21039465');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039465-14382879" class="nofix" onclick="ss_goEditor('21039465','14382879');">Manches longues</a></p><p class="prix"><a href="#e21039465-14382879" onclick="ss_goEditor('21039465','14382879');">25,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029153-14378218" class="nofix" onclick="ss_goEditor('21029153','14378218');"><img src="http://image.spreadshirt.net/image-server/image/product/21029153/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029153', true);" onmouseout="showlayer('21029153', false);" onmousemove="movelayer('21029153');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e21029153-14378218" class="nofix" onclick="ss_goEditor('21029153','14378218');">Coupe classique</a></p><p class="prix"><a href="#e21029153-14378218" onclick="ss_goEditor('21029153','14378218');">29,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e7963877-6877682" class="nofix" onclick="ss_goEditor('7963877','6877682');"><img src="http://image.spreadshirt.net/image-server/image/product/7963877/view/1/type/png/width/130/height/130" onmouseover="showlayer('7963877', true);" onmouseout="showlayer('7963877', false);" onmousemove="movelayer('7963877');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e7963877-6877682" class="nofix" onclick="ss_goEditor('7963877','6877682');">Tirer un coup</a></p><p class="prix"><a href="#e7963877-6877682" onclick="ss_goEditor('7963877','6877682');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e7963915-6877700" class="nofix" onclick="ss_goEditor('7963915','6877700');"><img src="http://image.spreadshirt.net/image-server/image/product/7963915/view/1/type/png/width/130/height/130" onmouseover="showlayer('7963915', true);" onmouseout="showlayer('7963915', false);" onmousemove="movelayer('7963915');" /></a><div class="infos"><p class="nom"><a href="#e7963915-6877700" class="nofix" onclick="ss_goEditor('7963915','6877700');">Rien à mettre</a></p><p class="prix"><a href="#e7963915-6877700" onclick="ss_goEditor('7963915','6877700');">15,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e16293775-11141379" class="nofix" onclick="ss_goEditor('16293775','11141379');"><img src="http://image.spreadshirt.net/image-server/image/product/16293775/view/1/type/png/width/130/height/130" onmouseover="showlayer('16293775', true);" onmouseout="showlayer('16293775', false);" onmousemove="movelayer('16293775');" /></a><div class="infos"><p class="nom"><a href="#e16293775-11141379" class="nofix" onclick="ss_goEditor('16293775','11141379');">Lave-linge</a></p><p class="prix"><a href="#e16293775-11141379" onclick="ss_goEditor('16293775','11141379');">23,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029665-14378200" class="nofix" onclick="ss_goEditor('21029665','14378200');"><img src="http://image.spreadshirt.net/image-server/image/product/21029665/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029665', true);" onmouseout="showlayer('21029665', false);" onmousemove="movelayer('21029665');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e21029665-14378200" class="nofix" onclick="ss_goEditor('21029665','14378200');">T_T</a></p><p class="prix"><a href="#e21029665-14378200" onclick="ss_goEditor('21029665','14378200');">19,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029598-14378202" class="nofix" onclick="ss_goEditor('21029598','14378202');"><img src="http://image.spreadshirt.net/image-server/image/product/21029598/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029598', true);" onmouseout="showlayer('21029598', false);" onmousemove="movelayer('21029598');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e21029598-14378202" class="nofix" onclick="ss_goEditor('21029598','14378202');">Comic sans MS</a></p><p class="prix"><a href="#e21029598-14378202" onclick="ss_goEditor('21029598','14378202');">23,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039300-14382752" class="nofix" onclick="ss_goEditor('21039300','14382752');"><img src="http://image.spreadshirt.net/image-server/image/product/21039300/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039300', true);" onmouseout="showlayer('21039300', false);" onmousemove="movelayer('21039300');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21039300-14382752" class="nofix" onclick="ss_goEditor('21039300','14382752');">Débardeur</a></p><p class="prix"><a href="#e21039300-14382752" onclick="ss_goEditor('21039300','14382752');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e8078784-14383069" class="nofix" onclick="ss_goEditor('8078784','14383069');"><img src="http://image.spreadshirt.net/image-server/image/product/8078784/view/1/type/png/width/130/height/130" onmouseover="showlayer('8078784', true);" onmouseout="showlayer('8078784', false);" onmousemove="movelayer('8078784');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e8078784-14383069" class="nofix" onclick="ss_goEditor('8078784','14383069');">T-shirt vert</a></p><p class="prix"><a href="#e8078784-14383069" onclick="ss_goEditor('8078784','14383069');">15,90 €</a></p></div></div>
+</div>
+
+<div style="text-align:center; width:728px;"><a href="#e21040332-14383311" onclick="ss_goEditor('21040332','14383311');"><img src="/images/shop_fr_bantshirt.png"></a></div></div><div class="post"><h2 class="spreadshirt_cat" id="categ2">Les accessoires</h2>
+<p class="spreadshirt_cat_desc">Ou autrement dit, tout le reste. De nombreux autres articles et possibilités sont accessibles via l'éditeur SpreadShirt. Allez tester!</p>
+
+<div class="cf"><div class="spreadshirt_item"><a href="#e21017462-14370288" class="nofix" onclick="ss_goEditor('21017462','14370288');"><img src="http://image.spreadshirt.net/image-server/image/product/21017462/view/1/type/png/width/130/height/130" onmouseover="showlayer('21017462', true);" onmouseout="showlayer('21017462', false);" onmousemove="movelayer('21017462');" /></a><div class="infos"><p class="nom"><a href="#e21017462-14370288" class="nofix" onclick="ss_goEditor('21017462','14370288');">Le bavoir</a></p><p class="prix"><a href="#e21017462-14370288" onclick="ss_goEditor('21017462','14370288');">12,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21017303-14370243" class="nofix" onclick="ss_goEditor('21017303','14370243');"><img src="http://image.spreadshirt.net/image-server/image/product/21017303/view/1/type/png/width/130/height/130" onmouseover="showlayer('21017303', true);" onmouseout="showlayer('21017303', false);" onmousemove="movelayer('21017303');" /></a><div class="infos"><p class="nom"><a href="#e21017303-14370243" class="nofix" onclick="ss_goEditor('21017303','14370243');">Le tablier</a></p><p class="prix"><a href="#e21017303-14370243" onclick="ss_goEditor('21017303','14370243');">15,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e18594792-12714919" class="nofix" onclick="ss_goEditor('18594792','12714919');"><img src="http://image.spreadshirt.net/image-server/image/product/18594792/view/1/type/png/width/130/height/130" onmouseover="showlayer('18594792', true);" onmouseout="showlayer('18594792', false);" onmousemove="movelayer('18594792');" /></a><div class="infos"><p class="nom"><a href="#e18594792-12714919" class="nofix" onclick="ss_goEditor('18594792','12714919');">Housse PC/MAC</a></p><p class="prix"><a href="#e18594792-12714919" onclick="ss_goEditor('18594792','12714919');">20,40 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e18594758-12714900" class="nofix" onclick="ss_goEditor('18594758','12714900');"><img src="http://image.spreadshirt.net/image-server/image/product/18594758/view/1/type/png/width/130/height/130" onmouseover="showlayer('18594758', true);" onmouseout="showlayer('18594758', false);" onmousemove="movelayer('18594758');" /></a><div class="infos"><p class="nom"><a href="#e18594758-12714900" class="nofix" onclick="ss_goEditor('18594758','12714900');">Le plaid</a></p><p class="prix"><a href="#e18594758-12714900" onclick="ss_goEditor('18594758','12714900');">28,40 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21030013-14377261" class="nofix" onclick="ss_goEditor('21030013','14377261');"><img src="http://image.spreadshirt.net/image-server/image/product/21030013/view/1/type/png/width/130/height/130" onmouseover="showlayer('21030013', true);" onmouseout="showlayer('21030013', false);" onmousemove="movelayer('21030013');" /></a><div class="infos"><p class="nom"><a href="#e21030013-14377261" class="nofix" onclick="ss_goEditor('21030013','14377261');">Le mug</a></p><p class="prix"><a href="#e21030013-14377261" onclick="ss_goEditor('21030013','14377261');">14,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21017217-14370215" class="nofix" onclick="ss_goEditor('21017217','14370215');"><img src="http://image.spreadshirt.net/image-server/image/product/21017217/view/1/type/png/width/130/height/130" onmouseover="showlayer('21017217', true);" onmouseout="showlayer('21017217', false);" onmousemove="movelayer('21017217');" /></a><div class="infos"><img src="/images/female.png" class="sexe" /><p class="nom"><a href="#e21017217-14370215" class="nofix" onclick="ss_goEditor('21017217','14370215');">Le shorty</a></p><p class="prix"><a href="#e21017217-14370215" onclick="ss_goEditor('21017217','14370215');">17,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21031919-14378339" class="nofix" onclick="ss_goEditor('21031919','14378339');"><img src="http://image.spreadshirt.net/image-server/image/product/21031919/view/1/type/png/width/130/height/130" onmouseover="showlayer('21031919', true);" onmouseout="showlayer('21031919', false);" onmousemove="movelayer('21031919');" /></a><div class="infos"><p class="nom"><a href="#e21031919-14378339" class="nofix" onclick="ss_goEditor('21031919','14378339');">Parapluie</a></p><p class="prix"><a href="#e21031919-14378339" onclick="ss_goEditor('21031919','14378339');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21039544-14382916" class="nofix" onclick="ss_goEditor('21039544','14382916');"><img src="http://image.spreadshirt.net/image-server/image/product/21039544/view/1/type/png/width/130/height/130" onmouseover="showlayer('21039544', true);" onmouseout="showlayer('21039544', false);" onmousemove="movelayer('21039544');" /></a><div class="infos"><img src="/images/male.png" class="sexe" /><p class="nom"><a href="#e21039544-14382916" class="nofix" onclick="ss_goEditor('21039544','14382916');">Boxer</a></p><p class="prix"><a href="#e21039544-14382916" onclick="ss_goEditor('21039544','14382916');">18,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21032119-14378486" class="nofix" onclick="ss_goEditor('21032119','14378486');"><img src="http://image.spreadshirt.net/image-server/image/product/21032119/view/1/type/png/width/130/height/130" onmouseover="showlayer('21032119', true);" onmouseout="showlayer('21032119', false);" onmousemove="movelayer('21032119');" /></a><div class="infos"><p class="nom"><a href="#e21032119-14378486" class="nofix" onclick="ss_goEditor('21032119','14378486');">Sac bandoulière</a></p><p class="prix"><a href="#e21032119-14378486" onclick="ss_goEditor('21032119','14378486');">26,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21032151-14378510" class="nofix" onclick="ss_goEditor('21032151','14378510');"><img src="http://image.spreadshirt.net/image-server/image/product/21032151/view/1/type/png/width/130/height/130" onmouseover="showlayer('21032151', true);" onmouseout="showlayer('21032151', false);" onmousemove="movelayer('21032151');" /></a><div class="infos"><p class="nom"><a href="#e21032151-14378510" class="nofix" onclick="ss_goEditor('21032151','14378510');">Stickers mural</a></p><p class="prix"><a href="#e21032151-14378510" onclick="ss_goEditor('21032151','14378510');">16,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029269-14378215" class="nofix" onclick="ss_goEditor('21029269','14378215');"><img src="http://image.spreadshirt.net/image-server/image/product/21029269/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029269', true);" onmouseout="showlayer('21029269', false);" onmousemove="movelayer('21029269');" /></a><div class="infos"><p class="nom"><a href="#e21029269-14378215" class="nofix" onclick="ss_goEditor('21029269','14378215');">5 badges bleus</a></p><p class="prix"><a href="#e21029269-14378215" onclick="ss_goEditor('21029269','14378215');">5,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029260-14378213" class="nofix" onclick="ss_goEditor('21029260','14378213');"><img src="http://image.spreadshirt.net/image-server/image/product/21029260/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029260', true);" onmouseout="showlayer('21029260', false);" onmousemove="movelayer('21029260');" /></a><div class="infos"><p class="nom"><a href="#e21029260-14378213" class="nofix" onclick="ss_goEditor('21029260','14378213');">5 badges roses</a></p><p class="prix"><a href="#e21029260-14378213" onclick="ss_goEditor('21029260','14378213');">5,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029257-14378212" class="nofix" onclick="ss_goEditor('21029257','14378212');"><img src="http://image.spreadshirt.net/image-server/image/product/21029257/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029257', true);" onmouseout="showlayer('21029257', false);" onmousemove="movelayer('21029257');" /></a><div class="infos"><p class="nom"><a href="#e21029257-14378212" class="nofix" onclick="ss_goEditor('21029257','14378212');">5 badges rouges</a></p><p class="prix"><a href="#e21029257-14378212" onclick="ss_goEditor('21029257','14378212');">5,90 €</a></p></div></div>
+<div class="spreadshirt_item"><a href="#e21029255-14378211" class="nofix" onclick="ss_goEditor('21029255','14378211');"><img src="http://image.spreadshirt.net/image-server/image/product/21029255/view/1/type/png/width/130/height/130" onmouseover="showlayer('21029255', true);" onmouseout="showlayer('21029255', false);" onmousemove="movelayer('21029255');" /></a><div class="infos"><p class="nom"><a href="#e21029255-14378211" class="nofix" onclick="ss_goEditor('21029255','14378211');">5 badges bleu clair</a></p><p class="prix"><a href="#e21029255-14378211" onclick="ss_goEditor('21029255','14378211');">5,90 €</a></p></div></div>
+</div>
+
+<div style="text-align:center; width:728px;"><a href="#e21042795-14384659" onclick="ss_goEditor('21042795','14384659');"><img src="/images/shop_fr_banaccessoires.png"></a></div></div>
+﻿
+</div>
+
+
+<div class="droite">
+
+	<div class="part">
+
+	
+    <div class="box" id="illustrated"><h4>La VDM illustrée de Polinko</h4><a href="/travail/7483520?utm_source=fmylife&utm_medium=illustrated&utm_campaign=7483520"><span id="illustration" style="background-image: url(http://media.viedemerde.fr/fmylife/data/fr/illust/mini_1f9e03e4dfaa8dcd4b1da92ff0916e0c.jpg)"></span></a></p><p class="left marged no-margin-top little"><a href="http://www.viedemerde.fr/blog/1552" target="_blank">Présentation de l'artiste</a></p><p class="right marged no-margin-top little"><a href="/illustrations">Toutes les VDM illustrées</a></p></div>
+    <div class="box" id="categories">
+        <h4>Catégories</h4>
+        <ul class="cf">
+            <li id="amour" class=""><h3><a href="/amour">Amour</a></h3></li>
+<li id="animaux" class=""><h3><a href="/animaux">Animaux</a></h3></li>
+<li id="argent" class=""><h3><a href="/argent">Argent</a></h3></li>
+<li id="enfants" class=""><h3><a href="/enfants">Enfants</a></h3></li>
+<li id="travail" class=""><h3><a href="/travail">Travail</a></h3></li>
+<li id="sante" class=""><h3><a href="/sante">Santé</a></h3></li>
+<li id="sexe" class=""><h3><a href="/sexe">Sexe</a></h3></li>
+<li id="inclassable" class=""><h3><a href="/inclassable">Inclassable</a></h3></li>
+<li class="tooltips author"><h3><a href="/auteurs">VDM, la suite</a></h3></li><li class="tooltips vdmpeople"><h3><a href="/vdmpeople">La VDM people</a></h3></li>        </ul>
+    </div>
+    
+    <div class="post" style="margin:0 0 15px 0; padding:0; width:300px; height:100px; background: url('/images/bancateg_vdm_denis.jpg');"><a style="width:300px; height:100px; display:block;" href="http://g.viedemerde.fr/11tMl4G"></a></div>
+    <div class="publicite"><script type="text/javascript">var d=document.location;var t=new Date;document.write("<script src='//cdn.dekalee.net/serve/20.js?p="+d.pathname+"&s="+d.search+"&t="+t.getTime()+"&ip=80.13.242.45&uid=562249886'>\x3C/script>")</script></div>
+	<div class="likebox"><fb:like-box href="http://www.facebook.com/viedemerde" width="300" height="350" show_faces="false" stream="true" header="true"></fb:like-box></div>
+	<div class="box" id="blog">
+		<h4>Blog de l'équipe</h4>
+		<ul>
+			<li><a href="/blog/1550">Les concurrents de Denis ont une VDM</a></li><li class="resume">
+
+Par deux fois, Vincent a cru rencontrer la femme de sa vie.&nbsp;Par deux fois, elles l&#39;ont quitt&eacute; pour le m&ecirc;me homme... Denis. Il y a un peu de mat&eacute;riel pour VDM dans cette histoire, quand…</li>		</ul>
+		<p class="left marged no-margin-top little">lundi 22 avril 2013</p>
+		<p class="right marged no-margin-top little"><a href="/blog">Tout le blog</a></p>
+	</div>
+
+    
+    </div>
+
+    <div class="part second">
+
+	<div class="box autopromo">
+		<p class="book-left"><a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746"><img src="http://betacie.cachefly.net/fmylife/images/couv_BD_BESTOF_uni_mini.jpg" /></a></p>
+		<p class="book-right">
+			<strong>BD "best of"</strong><br />
+			Attention, vous tenez entre vos mains un concentré de Vie de Merde, le pire du pire, et donc aussi le plus drôle. Il paraît que ça porte bonheur, en tous cas pas pour ceux qui en ont fait les frais.<br />
+			<a href="http://www.amazon.fr/Vie-merde-Best-Maxime-Valette/dp/2822201897/?_encoding=UTF8&tag=viedemerd-21&linkCode=ur2&qid=1354006531&camp=1642&sr=8-1&creative=6746">Commander</a>
+		</p>
+	</div>
+	<div class="box footer">
+		<ul><li>&#169; 2008-2013. Créé par <a href="http://www.maximevalette.com">Maxime VALETTE</a>, assisté de <a href="http://www.guillaumepassaglia.com">Guillaume PASSAGLIA</a>, pour <a href="http://www.betacie.com">Beta&amp;Cie</a>.</li>
+			<li><a href="mailto:support@viedemerde.fr">Contactez-nous</a> — <a href="/conditions">Conditions d&#39;utilisation</a>.</li></ul><ul><li>Accéder à la version <a href="/modules/accessibility/switch.php?act=enable">Déficients visuels</a></li></ul>    </div>
+
+	</div>
+
+</div>
+</div>
+
+<div id="footer">
+
+	
+	<div id="wrapper">
+		<div class="box">
+
+<p><strong>Le site :</strong> <a href="/tshirts">Boutique</a> -
+
+<a href="/amour">Amour</a> - <a href="/animaux">Animaux</a> - <a href="/argent">Argent</a> - <a href="/enfants">Enfants</a> - <a href="/travail">Travail</a> - <a href="/sante">Santé</a> - <a href="/sexe">Sexe</a> - <a href="/inclassable">Inclassable</a> - 		<a href="/recherche/resultat/?member=1">Membres</a> - <a href="http://forum.viedemerde.fr">Forum</a></p>
+
+<p><strong>Flux RSS :</strong> <img src="http://cdn3.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM"  href="http://feeds.uri.lv/viedemerde">Suivre les VDM</a> <img src="http://cdn4.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre le blog VDM"  href="http://feeds.uri.lv/viedemerde/blog">Suivre le blog VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les commentaires VDM"  href="http://feeds.uri.lv/viedemerde/comments">Suivre les commentaires VDM</a> <img src="http://cdn1.viedemerde.fr/fmylife/images/bullet_feed.gif" /><a title="Suivre les VDM illustrées"  href="http://feeds.uri.lv/viedemerde/illustrated">Suivre les VDM illustrées</a> </p>			<p><strong>À emporter :</strong> <a href="/applications/officielles#a_141" alt="VDM pour Blackberry">BlackBerry</a> - <a href="/applications/officielles#a_1" alt="VDM sur les mobile android">Android</a> - <a href="/applications/officielles#a_7" alt="VDM pour iPhone et iPod Touch">iPhone/iPod Touch</a> - <a href="/applications/officielles#a_148" alt="VDM pour samsung Wave">Bada</a> - <a href="http://m.viedemerde.fr" alt="Site mobile VDM">Version mobile</a></p>
+			<p><strong>À offrir :</strong> <a href="/boutique#categ3" alt="acheter livre VDM">Livres VDM</a> - <a href="/boutique#categ1" alt="Acheter t-shirts VDM">T-shirts VDM</a> - <a href="/boutique#categ2" alt="Acheter accessoires VDM">Accessoires VDM</a></p>
+			
+<p><strong>Liens :</strong> <a href="http://www.premiere.fr/Cinema" title="Cinéma" target="_blank">Cinéma</a> - <a href="http://programme-tv.premiere.fr/" title="Programmes TV" target="_blank">Programmes TV</a> - <a href="http://series-tv.premiere.fr/" title="Série TV" target="_blank">Séries TV</a></p><p><strong>Ailleurs :</strong> <a href="http://fmylife.com" alt="[en]">English</a> - <a href="http://vitadimerda.it" alt="[it]">Italiano</a> - <a href="http://vayamierdadevida.com" alt="[es]">Español</a> - <a href="http://amkhayat.com" alt="[tr]">Türk</a> - <a href="http://ru.fmylife.com" alt="[ru]">Pусский</a> - <a href="http://se.fmylife.com" alt="[se]">Svenskt</a> - <a href="http://sialbangetgue.com" alt="[id]">Indonesia</a></p>
+		</div>
+
+		<div class="box right">
+
+			<iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fviedemerde&amp;width=230&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:230px; height:62px;" allowTransparency="true"></iframe>
+
+			<div class="twitter"><a href="http://twitter.com/viedemerde" class="twitter-follow-button" data-lang="fr">Follow @viedemerde</a>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></div>
+            <p id="counter"><span id="livecounter">-</span> VDM envoyées depuis l'ouverture du site. Ça vous en bouche un coin, non ?</p>
+
+		</div>
+
+	</div>
+</div>
+
+<script>window.dklAsync=function(){dkl_call();};(function(d){var js,id='dkl_js';if(d.getElementById(id)){return;}var t=new Date;js=d.createElement('script');js.id=id;js.async=true;js.src="//cdn.dekalee.net/script.js?site_id=1&p="+d.location.pathname+"&s="+d.location.search+"&t="+t.getTime();d.getElementsByTagName('head')[0].appendChild(js);}(document));</script>
+</div>
+<script>var user_options=[];user_options['fb.social']=true;</script>
+<script type="text/javascript" src="http://cdn4.viedemerde.fr/fmylife/js/compiled/fr/store.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+  <script type="text/javascript" src="http://cdn5.viedemerde.fr/fmylife/js/selectivizr-min.js"></script>
+<![endif]-->
+
+</body>
+</html>
